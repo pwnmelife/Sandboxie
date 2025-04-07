@@ -210,6 +210,11 @@ _FX LONG SbieApi_Call(ULONG api_code, LONG arg_num, ...)
         parms[i] = (ULONG64)va_arg(valist, ULONG_PTR);
     va_end(valist);
 
+    // if(api_code == API_RELOAD_CONF)
+    // {
+    //     return STATUS_SUCCESS;
+    // }
+    
     status = SbieApi_Ioctl(parms);
 
     return status;
@@ -1363,8 +1368,39 @@ _FX LONG SbieApi_QueryDrvInfo(ULONG info_class, VOID* info_data, ULONG info_size
     parms[1] = info_class;
     parms[2] = (ULONG64)(ULONG_PTR)info_data;
     parms[3] = info_size;
+    // if (info_class == -1)
+	// {
+	// 	if (info_size == 4)
+	// 	{
+	// 		*(ULONG32*)info_data = 0xf000fc01;
+	// 	}
+	// 	if (info_size == 8)
+	// 	{
+	// 		*(ULONG64*)info_data = 0xfffffffff000fc01;
+	// 	}
+	// 	return STATUS_SUCCESS;
+	// }
     status = SbieApi_Ioctl(parms);
+    if(info_class == -1)
+    {
+        if(info_size == 4)
+        {
+            *(ULONG32*)info_data |= 0x1;
+            *(ULONG32*)info_data &= 0xfffffff9;
+        }
 
+        if(info_size == 8)
+        {
+            *(ULONG32*)info_data |= 0x1;
+            *(ULONG32*)info_data &= 0xfffffff9;
+            *(ULONG64*)info_data |= 0xffffffff00000000;
+        }
+    }
+	// status = STATUS_SUCCESS;
+    // if (info_class == 0)
+	// {
+	// 	*(ULONG*)info_data |= 0x800001df;
+	// }
     return status;
 }
 
@@ -1384,7 +1420,7 @@ _FX LONG SbieApi_ReloadConf(ULONG session_id, ULONG flags)
     parms[1] = session_id;
     parms[2] = flags;
     status = SbieApi_Ioctl(parms);
-
+    // status = STATUS_SUCCESS;
     return status;
 }
 

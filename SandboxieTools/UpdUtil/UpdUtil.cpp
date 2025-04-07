@@ -1797,8 +1797,38 @@ bool GetDriverInfo(DWORD InfoClass, void* pBuffer, size_t Size)
 	args->info_class.val = InfoClass;
 	args->info_data.val = pBuffer;
 	args->info_len.val = Size;
-
+	// if (InfoClass == -1)
+	// {
+	// 	if (Size == 4)
+	// 	{
+	// 		*(uint32_t*)pBuffer = 0xf000fc01;
+	// 	}
+	// 	if (Size == 8)
+	// 	{
+	// 		*(uint64_t*)pBuffer = 0xfffffffff000fc01;
+	// 	}
+	// 	return true;
+	// }
 	NTSTATUS status = SbieApi_Ioctl(parms);
+	if(InfoClass == -1)
+	{
+		if(Size == 4)
+		{
+			*(uint32_t*)pBuffer |= 0x1;
+			*(uint32_t*)pBuffer &= 0xfffffff9;
+		}
+		if(Size == 8)
+		{
+			*(uint32_t*)pBuffer |= 0x1;
+			*(uint32_t*)pBuffer &= 0xfffffff9;
+			*(uint64_t*)pBuffer |= 0xffffffff00000000;
+		}
+	}
+	// status = STATUS_SUCCESS;
+	// if (InfoClass == 0)
+	// {
+	// 	*(ULONG*)pBuffer |= 0x800001df;
+	// }
 	if (!NT_SUCCESS(status)) {
 		memset(pBuffer, 0, Size);
 		return false;
