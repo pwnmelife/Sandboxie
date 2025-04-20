@@ -20,6 +20,7 @@
 // Driver Assistant, start driver
 //---------------------------------------------------------------------------
 
+#include "core/drv/verify.h"
 
 //---------------------------------------------------------------------------
 // Imported Functions
@@ -172,6 +173,7 @@ driver_started:
             "778D8878F8906D32185A9FEF1A057209" "\r\n"
             "622D831B13B7DB7CFFEC12E3778BF740" "\r\n"
             "BA29C3EBED4944B0ACD962E3CF7289FF" "\r\n"
+            "EA0159390311DCB79234A28104CD10D5" "\r\n" // SC
             // Piracy:
             "E0787E0A1E4160B33DF2A81E947189BA" "\r\n"
             "7494411B703814B40F9669F2B459CA56" "\r\n"
@@ -246,19 +248,23 @@ driver_started:
             "A0462EB5DFF006D3A93886415618FB8D" "\r\n"
             "8F6FB5EA0CABD1013F04E56F4B25D65C" "\r\n"
             "F2525828B95596FB64138BDB97F0BEE7" "\r\n"
+            "0A04C484EB86851B931DF16D99C26A16" "\r\n"
+            "8057DB74ABE8FFDBDF32E529F03F1BEB" "\r\n"
+            "6249AD9FB65CDF6E6C919A608475D8D3" "\r\n"
             // Other:
             "45923506432956493562935693478346" "\r\n" // F
+            "46329469461254954325945934569378" "\r\n" // Y
             "63F49D96BDBA28F8428B4A5008D1A587";       // X
 
         const unsigned char BlockListSig0[64] =  {
-            0xc6, 0x86, 0x1b, 0xeb, 0x91, 0xa7, 0x4e, 0xef,
-            0xd3, 0xe2, 0x4a, 0x57, 0x70, 0xae, 0xc4, 0x01,
-            0xf4, 0xda, 0x0f, 0x90, 0x06, 0x93, 0x71, 0xf1,
-            0xf6, 0x8a, 0x21, 0xc9, 0x0c, 0x09, 0x05, 0xa5,
-            0x8e, 0x08, 0xed, 0x45, 0x72, 0x01, 0xd1, 0xdf,
-            0x85, 0xdb, 0x5f, 0xde, 0x62, 0xd8, 0xc7, 0xb9,
-            0x86, 0xad, 0xcd, 0x58, 0xdb, 0x40, 0x29, 0xe7,
-            0xaa, 0x43, 0x7a, 0xfa, 0x4e, 0x22, 0xdc, 0xcb
+            0x95, 0x75, 0xbb, 0x29, 0x7d, 0x57, 0x44, 0x20,
+            0xae, 0x00, 0x43, 0x65, 0xef, 0x5d, 0x6e, 0xb7,
+            0x58, 0xcb, 0x49, 0x42, 0xe4, 0x8a, 0x35, 0x8f,
+            0x23, 0x32, 0x94, 0x16, 0x71, 0x5f, 0x0a, 0x24,
+            0x7d, 0xf9, 0x8d, 0xa8, 0x00, 0xa8, 0x0b, 0x43,
+            0x67, 0x70, 0x24, 0x01, 0xf9, 0x80, 0x31, 0xb7,
+            0xe9, 0x7e, 0x5b, 0x87, 0x53, 0xb6, 0x3a, 0xf8,
+            0xf9, 0x8f, 0xb0, 0x10, 0x87, 0x40, 0x7c, 0x07
         };
 
         std::string BlockList;
@@ -413,6 +419,29 @@ driver_started:
             SbieDll_RunStartExe(L"auto_run", boxname);
         }
     }
+
+    NTSTATUS status = SbieApi_ReloadConf(0, SBIE_CONF_FLAG_RELOAD_CERT);
+    if (status == STATUS_CONTENT_BLOCKED) {
+
+        BYTE CertBlocked = 1;
+        SbieApi_Call(API_SET_SECURE_PARAM, 3, L"CertBlocked", &CertBlocked, sizeof(CertBlocked));
+
+        m_instance->m_DriverReady = false;
+    }
+    else {
+
+        BYTE CertBlocked = 0;
+        SbieApi_Call(API_GET_SECURE_PARAM, 3, L"CertBlocked", &CertBlocked, sizeof(CertBlocked));
+        if (CertBlocked) {
+            SCertInfo CertInfo = { 0 };
+            if (NT_SUCCESS(status) && NT_SUCCESS(SbieApi_QueryDrvInfo(-1, &CertInfo, sizeof(CertInfo))) && CertInfo.type != eCertEvaluation) {
+                CertBlocked = 0;
+                SbieApi_Call(API_SET_SECURE_PARAM, 3, L"CertBlocked", &CertBlocked, sizeof(CertBlocked));
+            } else
+                m_instance->m_DriverReady = false;
+        }
+    }
+
 
     if (! ok) {
 

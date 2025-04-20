@@ -3,7 +3,68 @@
 本项目遵循 [语义化版本控制](http://semver.org/)。
 
 
-## [1.15.8 / 5.70.8] - 2025-03-02
+## [1.15.11 / 5.70.11] - 2025-04-16
+
+### 修复
+- 修复了 SboxHostDll.dll 无法注入 OfficeClickToRun.exe 的问题
+
+
+## [1.15.10 / 5.70.10] - 2025-04-15
+
+### 新增
+- 新增 'BindAdapterIP=192.168.100.123' 和/或 'BindAdapterIP=::ffff:c0a8:647b' 以强制沙盒程序使用指定的主机 IP
+  - 注意：如果该 IP 未绑定到任一主机网络接口，连接将会失败
+  - 配置可以按进程设置，例如 'BindAdapterIP=program.exe,192.168.100.123'，但仅限于 ini 文件，无法通过用户界面配置
+
+### 更改
+- 大幅改善对 Patreon 证书的处理。
+- 改进了证书选项卡，序列号输入框现在总是可见，证书文本编辑框也是如此，尽管它不显示关键信息 UPDATE_KEY/SIGNATURE，而只在鼠标点击时显示完整数据
+- 精简了新证书的应用流程
+
+### 修复
+- 修复了 Firefox 137.0 在 Sandboxie-Plus v1.15.9 中生成 SBIE2328 通知的问题 [#4652](https://github.com/sandboxie-plus/Sandboxie/issues/4638)[#4652](https://github.com/sandboxie-plus/Sandboxie/issues/4652)[#4640](https://github.com/sandboxie-plus/Sandboxie/issues/4640)
+- 修复了 1.15.9 中缺少 SbieShellExt.dll 的问题
+- 修复了 Process_GetCommandLine 导致内存泄漏的问题 [#4658](https://github.com/sandboxie-plus/Sandboxie/issues/4658)
+- 修复了 Thunderbird 102.15.1 在 Sandboxie-Plus v1.15.9 下未加载所有扩展的问题 [#4653](https://github.com/sandboxie-plus/Sandboxie/issues/4653)
+- 修复了在 Sandboxie 中，Invoke SetParent 将窗口更改为仅消息窗口失败的问题 [#4656](https://github.com/sandboxie-plus/Sandboxie/issues/4656)
+- 修复了检索评估证书时处理 Unicode 名称的问题
+- 修复了删除内容消息框是否应始终在最上方的问题 [#4673](https://github.com/sandboxie-plus/Sandboxie/issues/4673)
+
+
+## [1.15.9 / 5.70.9] - 2025-03-??
+
+### 新增
+- 复制沙箱，并从 UI 中获取内容 [#4542](https://github.com/sandboxie-plus/Sandboxie/issues/4542)
+- 添加新的不安全调试选项 'OpenAllSysCalls=y'
+- 添加 WindowGrid 模板
+- 添加新的证书类型 [DEVELOPER](https://xanasoft.com/product/sandboxie-plus-developer/)，它可以禁用用户模式组件验证，但只能以节点锁定的形式使用。
+  - 注意：所有当前和未来的贡献者或 Eternal/Huge 证书持有者都有资格获得免费的开发密钥；如有需要，请通过电子邮件请求。
+
+### 更改
+- 当未为特定 IP 类型配置代理时，连接将失败
+  - 此更改防止在同时运行双栈 IPv4 和 IPv6 时发生 IP 泄露，但仅配置了一种代理类型
+- 保存时 ini 编辑器不再重置
+- 现在可以在不重新加载驱动程序的情况下更改 DisableWinNtHook
+
+### 修复
+- 修复了框删除/移除确认对话框中与 bullet 字符相关的编码问题 [#4591](https://github.com/sandboxie-plus/Sandboxie/issues/4591)
+- 更改箱的设置/类型会导致一些模板设置在箱中重复 [#4595](https://github.com/sandboxie-plus/Sandboxie/issues/4595)
+- 在尝试将沙箱放置在分区根目录时添加警告 [#4582](https://github.com/sandboxie-plus/Sandboxie/issues/4582)
+- 修复了卸载时的错误 [#4540](https://github.com/sandboxie-plus/Sandboxie/issues/4540)
+- 修复了在 Sandboxie 中运行时 Golang Cmd.Run() 不返回的问题 [#4538](https://github.com/sandboxie-plus/Sandboxie/issues/4538)
+  - 修复了可能帮助许多其他应用程序的通用句柄重复问题
+- 改进了当 Sandboxie.ini 文件过大时，响应速度变差的问题 [#4573](https://github.com/sandboxie-plus/Sandboxie/issues/4573)
+- 修复了在特定安装中的 Sandboxie 冻结/崩溃问题 [#4537](https://github.com/sandboxie-plus/Sandboxie/issues/4537)
+  - 当 sandman 挂起并被终止时，下次启动时会询问是否禁用软件兼容性检查的更新扫描
+- 修复了与钩子监视器显示有关的问题
+- 修复了 ini 节区编辑的问题，eqc 不再关闭窗口
+- 修复了在 Firefox 137 Nightly 及后续版本中引入的钩子问题 [#4522](https://github.com/sandboxie-plus/Sandboxie/issues/4522)
+- 修复了不安全调试选项 'OriginalToken=y' 的问题
+- 框组名称意外输入了换行符 [#4608](https://github.com/sandboxie-plus/Sandboxie/issues/4608)
+- 修复了在新箱向导中从路径选择下拉菜单选择的路径返回“不是有效路径”错误的问题 [#4611](https://github.com/sandboxie-plus/Sandboxie/issues/4611)
+
+
+## [1.15.8 / 5.70.8] - 2025-03-12
 
 ### 更改
 - 更新了在线更新程序

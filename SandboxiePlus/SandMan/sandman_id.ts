@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="vi_VN">
+<TS version="2.1" language="id_ID">
 <context>
     <name>BoxImageWindow</name>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="26"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulir</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="96"/>
         <source>kilobytes</source>
-        <translation type="unfinished">kilobytes</translation>
+        <translation>Kilobita</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="157"/>
         <source>Protect Box Root from access by unsandboxed processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lindungi Root Box dari akses oleh proses yang tidak berada di sandbox</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="103"/>
         <location filename="Forms/BoxImageWindow.ui" line="134"/>
         <source>TextLabel</source>
-        <translation type="unfinished">TextLabel</translation>
+        <translation>LabelTeks</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="187"/>
         <source>Show Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Kata Sandi</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="144"/>
         <source>Enter Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan Kata Sandi</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="70"/>
         <source>New Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Kata Sandi Baru</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="34"/>
         <source>Repeat Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulangi Kata Sandi</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="174"/>
         <source>Disk Image Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukuran Citra Disk</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="57"/>
         <source>Encryption Cipher</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandi Enkripsi</translation>
     </message>
     <message>
         <location filename="Forms/BoxImageWindow.ui" line="83"/>
         <source>Lock the box when all processes stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunci kotak saat semua proses berhenti.</translation>
     </message>
 </context>
 <context>
@@ -65,71 +65,71 @@
     <message>
         <location filename="AddonManager.cpp" line="155"/>
         <source>Do you want to download and install %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin mengunduh dan memasang %1?</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="161"/>
         <source>Installing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memasang: %1</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="185"/>
         <source>Add-on not found, please try updating the add-on list in the global settings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-on tidak ditemukan, silakan coba perbarui daftar add-on di pengaturan global!</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="229"/>
         <source>Add-on Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-on Tidak Ditemukan</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="230"/>
         <source>Add-on is not available for this platform</source>
         <oldsource>Addon is not available for this paltform</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Add-on tidak tersedia untuk platform ini</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="231"/>
         <source>Missing installation instructions</source>
         <oldsource>Missing instalation instructions</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Petunjuk instalasi tidak ditemukan</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="232"/>
         <source>Executing add-on setup failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menjalankan pengaturan add-on</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="233"/>
         <source>Failed to delete a file during add-on removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menghapus file saat penghapusan add-on</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="247"/>
         <source>Updater failed to perform add-on operation</source>
         <oldsource>Updater failed to perform plugin operation</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan gagal melakukan operasi add-on</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="249"/>
         <source>Updater failed to perform add-on operation, error: %1</source>
         <oldsource>Updater failed to perform plugin operation, error: %1</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan gagal melakukan operasi add-on, kesalahan: %1</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="169"/>
         <source>Do you want to remove %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin menghapus %1?</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="175"/>
         <source>Removing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Menghapus: %1</translation>
     </message>
     <message>
         <location filename="AddonManager.cpp" line="209"/>
         <source>Add-on not found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-on tidak ditemukan!</translation>
     </message>
 </context>
 <context>
@@ -137,43 +137,39 @@
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="884"/>
         <source>Advanced Sandbox options</source>
-        <translation type="unfinished">Tùy chọn Sandbox</translation>
+        <translation>Opsi Sandbox Lanjutan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="885"/>
         <source>On this page advanced sandbox options can be configured.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Drop rights from Administrators and Power Users groups</source>
-        <translation type="obsolete">Bỏ quyền khỏi nhóm Quản trị viên và Người dùng quyền lực</translation>
+        <translation>Pada halaman ini, opsi sandbox lanjutan dapat dikonfigurasi.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="897"/>
         <source>Prevent sandboxed programs on the host from loading sandboxed DLLs</source>
         <oldsource>Prevent sandboxed programs installed on the host from loading DLLs from the sandbox</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cegah program sandbox di host memuat DLL yang berada di sandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="898"/>
         <source>This feature may reduce compatibility as it also prevents box located processes from writing to host located ones and even starting them.</source>
         <oldsource>This feature may reduce compatybility as it also prevents box located processes from writing to host located once and even starting them.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fitur ini dapat mengurangi kompatibilitas karena juga mencegah proses yang berada di dalam sandbox menulis ke proses yang berada di host, bahkan memulai proses tersebut.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="905"/>
         <source>This feature can cause a decline in the user experience because it also prevents normal screenshots.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur ini dapat menurunkan pengalaman pengguna karena juga mencegah pengambilan tangkapan layar secara normal.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="910"/>
         <source>Shared Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Template Bersama</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="911"/>
         <source>Shared template mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode Template Bersama</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="912"/>
@@ -181,75 +177,70 @@
 However, if &apos;use as a template&apos; option is selected as the sharing mode, some settings may not be reflected in the user interface.
 To change the template&apos;s settings, simply locate the &apos;%1&apos; template in the App Templates list under Sandbox Options, then double-click on it to edit it.
 To disable this template for a sandbox, simply uncheck it in the template list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan ini menambahkan template lokal atau pengaturannya ke konfigurasi sandbox sehingga pengaturan dalam template tersebut dapat dibagikan antar sandbox.
+Namun, jika opsi &apos;gunakan sebagai template&apos; dipilih sebagai mode berbagi, beberapa pengaturan mungkin tidak tercermin di antarmuka pengguna.
+Untuk mengubah pengaturan template, cukup temukan template &apos;%1&apos; di daftar App Templates di bawah Sandbox Options, lalu klik dua kali untuk mengeditnya.
+Untuk menonaktifkan template ini untuk sebuah sandbox, cukup hapus centangnya di daftar template.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="918"/>
         <source>This option does not add any settings to the box configuration and does not remove the default box settings based on the removal settings within the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini tidak menambahkan pengaturan apa pun ke konfigurasi kotak dan tidak menghapus pengaturan kotak default berdasarkan pengaturan penghapusan dalam template.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="919"/>
         <source>This option adds the shared template to the box configuration as a local template and may also remove the default box settings based on the removal settings within the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini menambahkan template bersama ke konfigurasi kotak sebagai template lokal dan juga dapat menghapus pengaturan kotak default berdasarkan pengaturan penghapusan dalam template.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="920"/>
         <source>This option adds the settings from the shared template to the box configuration and may also remove the default box settings based on the removal settings within the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini menambahkan pengaturan dari template bersama ke konfigurasi kotak dan juga dapat menghapus pengaturan kotak default berdasarkan pengaturan penghapusan dalam template.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="921"/>
         <source>This option does not add any settings to the box configuration, but may remove the default box settings based on the removal settings within the template.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini tidak menambahkan pengaturan apa pun ke konfigurasi kotak, tetapi dapat menghapus pengaturan kotak default berdasarkan pengaturan penghapusan dalam template.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="929"/>
         <source>Remove defaults if set</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus pengaturan default jika ada</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="936"/>
         <source>Shared template selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemilihan template bersama</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="958"/>
         <source>This option specifies the template to be used in shared template mode. (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini menentukan template yang akan digunakan dalam mode template bersama. (%1)</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="923"/>
         <source>Disabled</source>
-        <translation type="unfinished">Vô hiệu hóa</translation>
+        <translation>Dinonaktifkan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="890"/>
         <source>Advanced Options</source>
-        <translation type="unfinished">Tùy chọn nâng cao</translation>
+        <translation>Opsi Lanjutan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="904"/>
         <source>Prevent sandboxed windows from being captured</source>
-        <translation type="unfinished"></translation>
+        <translation>Cegah jendela yang berada di sandbox agar tidak dapat diambil tangkapan layarnya</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="925"/>
         <source>Use as a template</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan sebagai template</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="927"/>
         <source>Append to the configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use a Sandboxie login instead of an anonymous token (experimental)</source>
-        <translation type="obsolete">Sử dụng thông tin đăng nhập Sandboxie thay vì mã thông báo ẩn danh (thử nghiệm)</translation>
-    </message>
-    <message>
-        <source>Using a custom Sandboxie Token allows to isolate individual sandboxes from each other better, and it shows in the user column of task managers the name of the box a process belongs to. Some 3rd party security solutions may however have problems with custom tokens.</source>
-        <translation type="obsolete">Sử dụng Mã thông báo Sandbox tùy chỉnh cho phép cô lập các Sandbox riêng lẻ với nhau tốt hơn và nó hiển thị trong cột người dùng của người quản lý tác vụ tên của Sandbox mà một quy trình thuộc về. Tuy nhiên, một số giải pháp bảo mật của bên thứ 3 có thể gặp sự cố với mã thông báo tùy chỉnh.</translation>
+        <translation>Tambahkan ke konfigurasi</translation>
     </message>
 </context>
 <context>
@@ -257,23 +248,23 @@ To disable this template for a sandbox, simply uncheck it in the template list.<
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="229"/>
         <source>Troubleshooting Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panduan Pemecahan Masalah</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="237"/>
         <source>Welcome to the Troubleshooting Wizard for Sandboxie-Plus. This interactive assistant is designed to help you in resolving sandboxing issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Selamat datang di Panduan Pemecahan Masalah untuk Sandboxie-Plus. Asisten interaktif ini dirancang untuk membantu Anda menyelesaikan masalah sandbox.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="280"/>
         <source>With a valid &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; the wizard would be even more powerful. It could access the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-issue-db&quot;&gt;online solution database&lt;/a&gt; to retrieve the latest troubleshooting instructions.</source>
         <oldsource>With a valid &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; the wizard would be even more powerfull. It could access the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-issue-db&quot;&gt;online solution database&lt;/a&gt; to retriev the latest troubleshooting instructions.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Dengan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt; yang valid, panduan ini akan menjadi lebih kuat. Panduan ini dapat mengakses &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-issue-db&quot;&gt;basis data solusi online&lt;/a&gt; untuk mendapatkan instruksi pemecahan masalah terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="318"/>
         <source>Another issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Masalah lain</translation>
     </message>
 </context>
 <context>
@@ -281,39 +272,39 @@ To disable this template for a sandbox, simply uncheck it in the template list.<
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="30"/>
         <source>Troubleshooting Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panduan Pemecahan Masalah</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="36"/>
         <source>Toggle Debugger</source>
-        <translation type="unfinished"></translation>
+        <translation>Alihkan Debugger</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="102"/>
         <source>To debug troubleshooting scripts you need the V4 Script Debugger add-on, do you want to download and install it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk melakukan debug pada skrip pemecahan masalah, Anda memerlukan add-on V4 Script Debugger. Apakah Anda ingin mengunduh dan memasangnya?</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="106"/>
         <source>Debugger Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Debugger Diaktifkan</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="161"/>
         <source>V4ScriptDebuggerBackend could not be instantiated, probably V4ScriptDebugger.dll and or its dependencies are missing, script debugger could not be opened.</source>
         <oldsource>V4ScriptDebuggerBackend could not be instantiated, probably V4ScriptDebugger.dll and or its dependencies are missing, script debuger could not be opened.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>V4ScriptDebuggerBackend tidak dapat diinisialisasi, kemungkinan V4ScriptDebugger.dll atau dependensinya hilang, sehingga debugger skrip tidak dapat dibuka.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="211"/>
         <source>A troubleshooting procedure is in progress, canceling the wizard will abort it, this may leave the sandbox in an inconsistent state.</source>
         <oldsource>A troubleshooting procedure is in progress, canceling the wizard will abort it, this may leave the sandbox in an incosistent state.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Prosedur pemecahan masalah sedang berlangsung, membatalkan panduan ini akan menghentikannya, dan ini mungkin membuat sandbox dalam keadaan tidak konsisten.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="212"/>
         <source>Don&apos;t ask in future</source>
-        <translation type="unfinished">Không hỏi trong tương lai</translation>
+        <translation>Jangan tanyakan lagi di masa depan</translation>
     </message>
 </context>
 <context>
@@ -321,7 +312,7 @@ To disable this template for a sandbox, simply uncheck it in the template list.<
     <message>
         <location filename="Engine/BoxEngine.cpp" line="202"/>
         <source>Uncaught exception at line %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengecualian tidak tertangkap pada baris %1: %2</translation>
     </message>
 </context>
 <context>
@@ -329,61 +320,65 @@ To disable this template for a sandbox, simply uncheck it in the template list.<
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="23"/>
         <source>Sandboxie-Plus - Password Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus - Entri Kata Sandi</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="37"/>
         <source>Creating new box image, please enter a secure password, and choose a disk image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>Membuat citra kotak baru, silakan masukkan kata sandi yang aman, dan pilih ukuran citra disk.</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="41"/>
         <source>Enter Box Image password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan kata sandi citra kotak:</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="45"/>
         <source>Enter Box Image passwords:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan kata sandi-sandi citra kotak:</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="49"/>
         <source>Enter Encryption passwords for archive export:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan kata sandi enkripsi untuk ekspor arsip:</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="53"/>
         <source>Enter Encryption passwords for archive import:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan kata sandi enkripsi untuk impor arsip:</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="129"/>
         <source>kilobytes (%1)</source>
-        <translation type="unfinished">kilobytes (%1)</translation>
+        <translation>kilobita (%1)</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="140"/>
         <source>Passwords don&apos;t match!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kata sandi tidak cocok!!!</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="144"/>
         <source>WARNING: Short passwords are easy to crack using brute force techniques!
 
 It is recommended to choose a password consisting of 20 or more characters. Are you sure you want to use a short password?</source>
-        <translation type="unfinished"></translation>
+        <translation>PERINGATAN: Kata sandi yang pendek mudah dibobol menggunakan teknik brute force!
+
+Disarankan untuk memilih kata sandi yang terdiri dari 20 karakter atau lebih. Apakah Anda yakin ingin menggunakan kata sandi yang pendek?</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="150"/>
         <source>The password is constrained to a maximum length of 128 characters. 
 This length permits approximately 384 bits of entropy with a passphrase composed of actual English words, 
 increases to 512 bits with the application of Leet (L337) speak modifications, and exceeds 768 bits when composed of entirely random printable ASCII characters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kata sandi dibatasi hingga panjang maksimum 128 karakter.
+Panjang ini memungkinkan sekitar 384 bit entropi jika frasa sandi terdiri dari kata-kata bahasa Inggris yang sebenarnya,
+meningkat menjadi 512 bit dengan penerapan modifikasi Leet (L337), dan melebihi 768 bit jika terdiri dari karakter ASCII acak yang dapat dicetak sepenuhnya.</translation>
     </message>
     <message>
         <location filename="Windows/BoxImageWindow.cpp" line="167"/>
         <source>The Box Disk Image must be at least 256 MB in size, 2GB are recommended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Citra Disk Kotak harus berukuran minimal 256 MB, 2GB direkomendasikan.</translation>
     </message>
 </context>
 <context>
@@ -391,7 +386,7 @@ increases to 512 bits with the application of Leet (L337) speak modifications, a
     <message>
         <location filename="Windows/SelectBoxWindow.cpp" line="23"/>
         <source>Sandbox</source>
-        <translation type="unfinished">Sandbox</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -399,161 +394,164 @@ increases to 512 bits with the application of Leet (L337) speak modifications, a
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="319"/>
         <source>Create new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Sandbox Baru</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="331"/>
         <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox mengisolasi sistem host Anda dari proses yang berjalan di dalam kotak, sehingga mencegah mereka membuat perubahan permanen pada program dan data lain di komputer Anda. </translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="334"/>
         <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. The level of isolation impacts your security as well as the compatibility with applications, hence there will be a different level of isolation depending on the selected Box Type. Sandboxie can also protect your personal data from being accessed by processes running under its supervision.</source>
-        <translation type="unfinished">Sandbox cát cô lập hệ thống máy chủ của bạn khỏi các quy trình đang chạy trong Sandbox, nó ngăn chúng thực hiện các thay đổi vĩnh viễn đối với các chương trình và dữ liệu khác trong máy tính của bạn. Mức độ cô lập ảnh hưởng đến bảo mật của bạn cũng như khả năng tương thích với các ứng dụng, do đó sẽ có mức độ cô lập khác nhau tùy thuộc vào Loại Sandbox được chọn. Sandboxie cũng có thể bảo vệ dữ liệu cá nhân của bạn khỏi bị truy cập bởi các quy trình đang chạy dưới sự giám sát của nó.</translation>
+        <translation>Sandbox mengisolasi sistem host Anda dari proses yang berjalan di dalam kotak, sehingga mencegah mereka membuat perubahan permanen pada program dan data lain di komputer Anda. Tingkat isolasi memengaruhi keamanan Anda serta kompatibilitas dengan aplikasi, sehingga akan ada tingkat isolasi yang berbeda tergantung pada Jenis Kotak yang dipilih. Sandboxie juga dapat melindungi data pribadi Anda agar tidak diakses oleh proses yang berjalan di bawah pengawasannya.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="345"/>
         <source>Enter box name:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>New Box</source>
-        <translation type="obsolete">Sandbox mới</translation>
+        <translation>Masukkan nama kotak:</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="360"/>
         <source>Select box type:</source>
         <oldsource>Sellect box type:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pilih jenis kotak:</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="400"/>
         <source>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Security Hardened&lt;/a&gt; Sandbox with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Sandbox yang Diperkuat Keamanannya&lt;/a&gt; dengan &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Perlindungan Data&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="401"/>
         <source>This box type offers the highest level of protection by significantly reducing the attack surface exposed to sandboxed processes. 
 It strictly limits access to user data, allowing processes within this box to only access C:\Windows and C:\Program Files directories. 
 The entire user profile remains hidden, ensuring maximum security.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis kotak ini menawarkan tingkat perlindungan tertinggi dengan secara signifikan mengurangi permukaan serangan yang dapat diakses oleh proses di dalam sandbox.
+Kotak ini secara ketat membatasi akses ke data pengguna, hanya mengizinkan proses di dalam kotak ini untuk mengakses direktori C:\Windows dan C:\Program Files saja.
+Seluruh profil pengguna tetap tersembunyi, memastikan keamanan maksimum.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="404"/>
         <source>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Security Hardened&lt;/a&gt; Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/security-mode&quot;&gt;Sandbox yang Diperkuat Keamanannya&lt;/a&gt; Sandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="405"/>
         <source>This box type offers the highest level of protection by significantly reducing the attack surface exposed to sandboxed processes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis kotak ini menawarkan tingkat perlindungan tertinggi dengan secara signifikan mengurangi permukaan serangan yang dapat diakses oleh proses di dalam sandbox.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="406"/>
         <source>Sandbox with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox dengan &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Perlindungan Data&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="407"/>
         <source>In this box type, sandboxed processes are prevented from accessing any personal user files or data. The focus is on protecting user data, and as such, 
 only C:\Windows and C:\Program Files directories are accessible to processes running within this sandbox. This ensures that personal files remain secure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pada jenis kotak ini, proses yang berjalan di sandbox dicegah untuk mengakses file atau data pribadi pengguna apa pun. Fokus utamanya adalah melindungi data pengguna, sehingga
+hanya direktori C:\Windows dan C:\Program Files yang dapat diakses oleh proses yang berjalan di dalam sandbox ini. Hal ini memastikan bahwa file pribadi tetap aman.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="409"/>
         <source>Standard Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox Standar</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="410"/>
         <source>This box type offers the default behavior of Sandboxie classic. It provides users with a familiar and reliable sandboxing scheme. 
 Applications can be run within this sandbox, ensuring they operate within a controlled and isolated space.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis kotak ini menawarkan perilaku default dari Sandboxie klasik. Ini memberikan skema sandboxing yang sudah dikenal dan andal bagi pengguna.
+Aplikasi dapat dijalankan di dalam sandbox ini, memastikan mereka beroperasi dalam ruang yang terkontrol dan terisolasi.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="412"/>
         <source>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Application Compartment&lt;/a&gt; Box with &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Data Protection&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Kotak Kompartemen Aplikasi&lt;/a&gt; dengan &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;Perlindungan Data&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="413"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="416"/>
         <source>This box type prioritizes compatibility while still providing a good level of isolation. It is designed for running trusted applications within separate compartments. 
 While the level of isolation is reduced compared to other box types, it offers improved compatibility with a wide range of applications, ensuring smooth operation within the sandboxed environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis kotak ini memprioritaskan kompatibilitas sambil tetap memberikan tingkat isolasi yang baik. Kotak ini dirancang untuk menjalankan aplikasi tepercaya dalam kompartemen terpisah.
+Meskipun tingkat isolasinya lebih rendah dibandingkan dengan jenis kotak lainnya, kotak ini menawarkan kompatibilitas yang lebih baik dengan berbagai aplikasi, memastikan operasi yang lancar di dalam lingkungan sandbox.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="415"/>
         <source>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Application Compartment&lt;/a&gt; Box</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;Kotak Kompartemen Aplikasi&lt;/a&gt; Box</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="424"/>
         <source>&lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Encrypt&lt;/a&gt; Box content and set &lt;a href=&quot;sbie://docs/black-box&quot;&gt;Confidential&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Enkripsi&lt;/a&gt; konten kotak dan atur sebagai &lt;a href=&quot;sbie://docs/black-box&quot;&gt;Rahasia&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="425"/>
         <source>In this box type the sandbox uses an encrypted disk image as its root folder. This provides an additional layer of privacy and security. 
 Access to the virtual disk when mounted is restricted to programs running within the sandbox. Sandboxie prevents other processes on the host system from accessing the sandboxed processes. 
 This ensures the utmost level of privacy and data protection within the confidential sandbox environment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pada jenis kotak ini, sandbox menggunakan citra disk terenkripsi sebagai folder root-nya. Ini memberikan lapisan tambahan privasi dan keamanan.
+Akses ke disk virtual saat dipasang dibatasi hanya untuk program yang berjalan di dalam sandbox. Sandboxie mencegah proses lain di sistem host mengakses proses yang ada di dalam sandbox.
+Hal ini memastikan tingkat privasi dan perlindungan data tertinggi di lingkungan sandbox rahasia.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="447"/>
         <source>Hardened Sandbox with Data Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox yang Diperkuat dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="448"/>
         <source>Security Hardened Sandbox</source>
-        <translation type="unfinished">Hardened Sandbox Bảo Mật</translation>
+        <translation>Sandbox yang Diperkuat Keamanannya</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="449"/>
         <source>Sandbox with Data Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="450"/>
         <source>Standard Isolation Sandbox (Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox Isolasi Standar (Default)</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="452"/>
         <source>Application Compartment with Data Protection</source>
-        <translation type="unfinished">Ngăn Ứng dụng với Bảo vệ Dữ liệu</translation>
+        <translation>Kompartemen Aplikasi dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="453"/>
         <source>Application Compartment Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak Kompartemen Aplikasi</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="454"/>
         <source>Confidential Encrypted Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak Terenkripsi Rahasia</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="472"/>
         <source>Remove after use</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus setelah digunakan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="473"/>
         <source>After the last process in the box terminates, all data in the box will be deleted and the box itself will be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Setelah proses terakhir di dalam kotak berakhir, semua data di dalam kotak akan dihapus dan kotaknya sendiri juga akan dihapus.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="478"/>
         <source>Configure advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan opsi lanjutan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="579"/>
         <source>To use encrypted boxes you need to install the ImDisk driver, do you want to download and install it?</source>
         <oldsource>To use ancrypted boxes you need to install the ImDisk driver, do you want to download and install it?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Untuk menggunakan kotak terenkripsi, Anda perlu menginstal driver ImDisk, apakah Anda ingin mengunduh dan menginstalnya?</translation>
     </message>
 </context>
 <context>
@@ -561,62 +559,62 @@ This ensures the utmost level of privacy and data protection within the confiden
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="847"/>
         <source>Create Web Browser Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Template Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="848"/>
         <source>Configure web browser template options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan opsi template peramban web.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="858"/>
         <source>Force the Web Browser to run in this sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa Peramban Web untuk berjalan di sandbox ini</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="862"/>
         <source>Allow direct access to the entire Web Browser profile folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke seluruh folder profil Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="866"/>
         <source>Allow direct access to Web Browser&apos;s phishing database</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke basis data phishing Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="870"/>
         <source>Allow direct access to Web Browser&apos;s session management</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke manajemen sesi Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="874"/>
         <source>Allow direct access to Web Browser&apos;s sync data</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke data sinkronisasi Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="878"/>
         <source>Allow direct access to Web Browser&apos;s preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke preferensi Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="882"/>
         <source>Allow direct access to Web Browser&apos;s passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke kata sandi Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="886"/>
         <source>Allow direct access to Web Browser&apos;s cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke cookie Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="890"/>
         <source>Allow direct access to Web Browser&apos;s bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke bookmark Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="894"/>
         <source>Allow direct access to Web Browser&apos;s bookmark and history database</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke basis data bookmark dan riwayat Peramban Web</translation>
     </message>
 </context>
 <context>
@@ -624,43 +622,43 @@ This ensures the utmost level of privacy and data protection within the confiden
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="520"/>
         <source>Create Web Browser Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Template Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="521"/>
         <source>Configure your Web Browser&apos;s profile directories.</source>
         <oldsource>Configure your Web Browsers profile directories.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan direktori profil Peramban Web Anda.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="529"/>
         <source>User profile(s) directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Direktori profil pengguna:</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="531"/>
         <source>Show also imperfect matches</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan juga kecocokan yang tidak sempurna</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="537"/>
         <source>Browser Executable (*.exe)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksekusi Peramban (*.exe)</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="554"/>
         <source>Continue without browser profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Lanjutkan tanpa profil peramban</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="715"/>
         <source>Configure your Gecko based Browsers profile directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan direktori profil Peramban berbasis Gecko Anda.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="719"/>
         <source>Configure your Chromium based Browsers profile directories.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan direktori profil Peramban berbasis Chromium Anda.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="799"/>
@@ -670,27 +668,29 @@ Please browse to the correct user profile directory.</source>
         <oldsource>No suitable fodlers have been found.
 Note: you need to run the browser unsandboxed for them to get created.
 Please browse to the correct user profile directory.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada folder yang sesuai ditemukan.
+Catatan: Anda perlu menjalankan peramban di luar sandbox agar folder tersebut dapat dibuat.
+Silakan telusuri ke direktori profil pengguna yang benar.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="804"/>
         <source>Please choose the correct user profile directory, if it is not listed you may need to browse to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan pilih direktori profil pengguna yang benar, jika tidak terdaftar Anda mungkin perlu menelusurinya secara manual.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="810"/>
         <source>Please ensure the selected directory is correct, the wizard is not confident in all the presented options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastikan direktori yang dipilih sudah benar, karena panduan tidak yakin dengan semua opsi yang ditampilkan.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="813"/>
         <source>Please ensure the selected directory is correct.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pastikan direktori yang dipilih sudah benar.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="818"/>
         <source>This path does not look like a valid profile directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Path ini tidak terlihat seperti direktori profil yang valid.</translation>
     </message>
 </context>
 <context>
@@ -698,51 +698,51 @@ Please browse to the correct user profile directory.</oldsource>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="328"/>
         <source>Create Web Browser Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Template Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="329"/>
         <source>Select your Web Browsers main executable, this will allow Sandboxie to identify the browser.</source>
         <oldsource>Select your Web Browsers main executable, this will allow sandboxie to identify the browser.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pilih file eksekusi utama Peramban Web Anda, ini akan memungkinkan Sandboxie mengenali peramban tersebut.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="339"/>
         <source>Enter browser name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan nama peramban:</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="350"/>
         <source>Main executable (eg. firefox.exe, chrome.exe, msedge.exe, etc...):</source>
         <oldsource>Mein executable (eg. firefox.exe, chrome.exe, msedge.exe, etc...):</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>File eksekusi utama (misal: firefox.exe, chrome.exe, msedge.exe, dll...):</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="354"/>
         <source>Browser executable (*.exe)</source>
         <oldsource>Browser Executable (*.exe)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Eksekusi Peramban (*.exe)</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="454"/>
         <source>The browser appears to be Gecko based, like Mozilla Firefox and its derivatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peramban ini tampaknya berbasis Gecko, seperti Mozilla Firefox dan turunannya.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="457"/>
         <source>The browser appears to be Chromium based, like Microsoft Edge or Google Chrome and its derivatives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peramban ini tampaknya berbasis Chromium, seperti Microsoft Edge atau Google Chrome dan turunannya.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="460"/>
         <source>Browser could not be recognized, template cannot be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peramban tidak dapat dikenali, template tidak dapat dibuat.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="507"/>
         <source>This browser name is already in use, please choose an other one.</source>
         <oldsource>This browser name is already in use, please chooe an other one.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Nama peramban ini sudah digunakan, silakan pilih yang lain.</translation>
     </message>
 </context>
 <context>
@@ -750,61 +750,62 @@ Please browse to the correct user profile directory.</oldsource>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="248"/>
         <source>Install your &lt;b&gt;Sandboxie-Plus&lt;/b&gt; support certificate</source>
-        <translation>Cài đặt chứng chỉ &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
+        <translation>Instal sertifikat dukungan &lt;b&gt;Sandboxie-Plus&lt;/b&gt; Anda</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="249"/>
         <source>If you have a supporter certificate, please fill it into the field below.</source>
-        <translation>Nếu bạn có chứng chỉ dành cho người có đóng góp, hãy điền vào khung bên dưới.</translation>
+        <translation>Jika Anda memiliki sertifikat pendukung, silakan masukkan ke kolom di bawah ini.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="276"/>
         <source>Retrieve certificate using Serial Number:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambil sertifikat menggunakan Nomor Seri:</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="282"/>
         <source>Start evaluation without a certificate for a limited period of time.</source>
-        <translation>Bất đầu dùng thử mà không cần chứng chỉ trong một khoảng thời gian giới hạn.</translation>
+        <translation>Mulai evaluasi tanpa sertifikat untuk jangka waktu terbatas.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="291"/>
         <source>&lt;b&gt;&lt;a href=&quot;_&quot;&gt;&lt;font color=&apos;red&apos;&gt;Get a free evaluation certificate&lt;/font&gt;&lt;/a&gt; and enjoy all premium features for %1 days.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;&lt;a href=&quot;_&quot;&gt;&lt;font color=&apos;red&apos;&gt;Dapatkan sertifikat evaluasi gratis&lt;/font&gt;&lt;/a&gt; dan nikmati semua fitur premium selama %1 hari.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="292"/>
         <source>You can request a free %1-day evaluation certificate up to %2 times per hardware ID.</source>
         <oldsource>You can request a free %1-day evaluation certificate up to %2 times for any one Hardware ID</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda dapat meminta sertifikat evaluasi gratis selama %1 hari hingga %2 kali untuk setiap ID perangkat keras.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="317"/>
         <source>To use &lt;b&gt;Sandboxie-Plus&lt;/b&gt; in a business setting, an appropriate &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;support certificate&lt;/a&gt; for business use is required. If you do not yet have the required certificate(s), you can get those from the &lt;a href=&quot;https://xanasoft.com/shop/&quot;&gt;xanasoft.com web shop&lt;/a&gt;.</source>
-        <translation>Để sử dụng &lt;b&gt;Sandboxie-Plus&lt;/b&gt; trong doanh nghiệp, một &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;chứng chỉ hỗ trợ&lt;/a&gt; dành cho doanh nghiệp là cần thiết. Nếu bạn không có chứng chỉ hỗ trợ, bạn có thể mua tại &lt;a href=&quot;https://xanasoft.com/shop/&quot;&gt;cửa hàng xanasoft.com&lt;/a&gt;.</translation>
+        <translation>Untuk menggunakan &lt;b&gt;Sandboxie-Plus&lt;/b&gt; dalam lingkungan bisnis, diperlukan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;sertifikat dukungan&lt;/a&gt; yang sesuai untuk penggunaan bisnis. Jika Anda belum memiliki sertifikat yang diperlukan, Anda dapat memperolehnya dari &lt;a href=&quot;https://xanasoft.com/shop/&quot;&gt;toko web xanasoft.com&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="331"/>
         <source>&lt;b&gt;Sandboxie-Plus&lt;/b&gt; provides additional features and box types exclusively to &lt;u&gt;project supporters&lt;/u&gt;. Boxes like the Privacy Enhanced boxes &lt;b&gt;&lt;font color=&apos;red&apos;&gt;protect user data from illicit access&lt;/font&gt;&lt;/b&gt; by the sandboxed programs. If you are not yet a supporter, then please consider &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporting the project&lt;/a&gt; to ensure further development of Sandboxie and to receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;.</source>
-        <translation>&lt;b&gt;Sandboxie-Plus&lt;/b&gt; cũng cấp thêm một số tính năng dành cho &lt;u&gt;những người hỗ trợ dự án&lt;/u&gt;. Vú dụ như Privacy Enhanced &lt;b&gt;&lt;font color=&apos;red&apos;&gt;giúp bảo vệ dữ liệu người dùng khỏi quyền truy cập bất hợp pháp&lt;/font&gt;&lt;/b&gt; bởi ứng dụng trong Sandbox. Nếu bạn vẫn chưa là người hỗ trợ, hãy xem xét việc &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;hỗ trợ dự án&lt;/a&gt; để đảm bảo sự phát triển hơn nữa của ứng dụng Sandboxie và để nhận được &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;chứng chỉ người hỗ trợ&lt;/a&gt;.</translation>
+        <translation>&lt;b&gt;Sandboxie-Plus&lt;/b&gt; menyediakan fitur tambahan dan tipe kotak khusus untuk &lt;u&gt;pendukung proyek&lt;/u&gt;. Kotak seperti Privacy Enhanced &lt;b&gt;&lt;font color=&apos;red&apos;&gt;melindungi data pengguna dari akses ilegal&lt;/font&gt;&lt;/b&gt; oleh program yang berjalan di sandbox. Jika Anda belum menjadi pendukung, mohon pertimbangkan untuk &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;mendukung proyek ini&lt;/a&gt; demi kelanjutan pengembangan Sandboxie dan untuk menerima &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="368"/>
         <source>Failed to retrieve the certificate.</source>
         <oldsource>Failed to retrive the certificate.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengambil sertifikat.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="369"/>
         <source>
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Kesalahan: %1</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="389"/>
         <source>Retrieving certificate...</source>
         <oldsource>Retreiving certificate...</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mengambil sertifikat...</translation>
     </message>
 </context>
 <context>
@@ -812,7 +813,7 @@ Error: %1</source>
     <message>
         <location filename="BoxJob.h" line="36"/>
         <source>Deleting Content</source>
-        <translation>Xoá dự liệu Sandbox</translation>
+        <translation>Menghapus Konten</translation>
     </message>
 </context>
 <context>
@@ -820,14 +821,16 @@ Error: %1</source>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1076"/>
         <source>Troubleshooting Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemecahan Masalah Selesai</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1086"/>
         <source>Thank you for using the Troubleshooting Wizard for Sandboxie-Plus. We apologize for any inconvenience you experienced during the process. If you have any additional questions or need further assistance, please don&apos;t hesitate to reach out. We&apos;re here to help. Thank you for your understanding and cooperation. 
 
 You can click Finish to close this wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terima kasih telah menggunakan Panduan Pemecahan Masalah untuk Sandboxie-Plus. Kami mohon maaf atas ketidaknyamanan yang Anda alami selama proses ini. Jika Anda memiliki pertanyaan tambahan atau membutuhkan bantuan lebih lanjut, jangan ragu untuk menghubungi kami. Kami siap membantu Anda. Terima kasih atas pengertian dan kerja samanya.
+
+Anda dapat mengklik Selesai untuk menutup panduan ini.</translation>
     </message>
 </context>
 <context>
@@ -835,47 +838,47 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="23"/>
         <source>Sandboxie-Plus - Sandbox Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus - Ekspor Sandbox</translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="27"/>
         <source>7-Zip</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="28"/>
         <source>Zip</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="30"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="31"/>
         <source>Fastest</source>
-        <translation type="unfinished"></translation>
+        <translation>Tercepat</translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="32"/>
         <source>Fast</source>
-        <translation type="unfinished"></translation>
+        <translation>Cepat</translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="33"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="34"/>
         <source>Maximum</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/CompressDialog.cpp" line="35"/>
         <source>Ultra</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -883,17 +886,17 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Windows/ExtractDialog.cpp" line="23"/>
         <source>Sandboxie-Plus - Sandbox Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus - Impor Sandbox</translation>
     </message>
     <message>
         <location filename="Windows/ExtractDialog.cpp" line="39"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Windows/ExtractDialog.cpp" line="61"/>
         <source>This name is already in use, please select an alternative box name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama ini sudah digunakan, silakan pilih nama kotak lain</translation>
     </message>
 </context>
 <context>
@@ -901,7 +904,7 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Views/FileView.cpp" line="481"/>
         <source>%1 - Files</source>
-        <translation>%1 - Tập Tin</translation>
+        <translation>%1 - Berkas</translation>
     </message>
 </context>
 <context>
@@ -909,37 +912,37 @@ You can click Finish to close this wizard.</source>
     <message>
         <location filename="Views/FileView.cpp" line="248"/>
         <source>Create Shortcut</source>
-        <translation>Tạo Shortcut</translation>
+        <translation>Buat Pintasan</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="271"/>
         <source>Pin to Box Run Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Sematkan ke Menu Jalankan Kotak</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="278"/>
         <source>Recover to Any Folder</source>
-        <translation>Khôi phục vào thư mục bất kỳ</translation>
+        <translation>Pulihkan ke Folder Mana Saja</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="280"/>
         <source>Recover to Same Folder</source>
-        <translation>Khôi phục vào thư mục tương tự</translation>
+        <translation>Pulihkan ke Folder yang Sama</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="284"/>
         <source>Run Recovery Checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Jalankan Pemeriksaan Pemulihan</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="367"/>
         <source>Select Directory</source>
-        <translation>Chọn đường dẫn...</translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Views/FileView.cpp" line="436"/>
         <source>Create Shortcut to sandbox %1</source>
-        <translation>Tạo Shortcut tới Sandbox %1</translation>
+        <translation>Buat Pintasan ke sandbox %1</translation>
     </message>
 </context>
 <context>
@@ -948,7 +951,7 @@ You can click Finish to close this wizard.</source>
         <location filename="Wizards/NewBoxWizard.cpp" line="597"/>
         <source>Sandbox location and behavior</source>
         <oldsource>Sandbox location and behavioure</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lokasi dan perilaku sandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="598"/>
@@ -956,80 +959,80 @@ You can click Finish to close this wizard.</source>
 You can use %USER% to save each users sandbox to an own folder.</source>
         <oldsource>On this page the sandbox location and its behaviorue can be customized.
 You can use %USER% to save each users sandbox to an own fodler.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pada halaman ini, lokasi dan perilaku sandbox dapat dikustomisasi. Anda dapat menggunakan %USER% untuk menyimpan sandbox setiap pengguna ke folder masing-masing.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="603"/>
         <source>Sandboxed Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Berkas yang Disandikan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="626"/>
         <source>Select Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="634"/>
         <source>Virtualization scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Skema Virtualisasi</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="638"/>
         <source>Version 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi 1</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="639"/>
         <source>Version 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi 2</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="645"/>
         <source>Separate user folders</source>
-        <translation type="unfinished">Tách các thư mục người dùng</translation>
+        <translation>Pisahkan folder pengguna</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="650"/>
         <source>Use volume serial numbers for drives</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan nomor seri volume untuk drive</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="655"/>
         <source>Auto delete content when last process terminates</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus otomatis konten saat proses terakhir berakhir</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="662"/>
         <source>Enable Immediate Recovery of files from recovery locations</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan Pemulihan Langsung berkas dari lokasi pemulihan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="706"/>
         <source>A sandbox cannot be located at the root of a partition, please select a folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox tidak dapat ditempatkan di root partisi, silakan pilih folder.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="710"/>
         <source>A sandbox cannot be located on a network share, please select a local folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox tidak dapat ditempatkan di jaringan bersama, silakan pilih folder lokal.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="714"/>
         <source>The selected box location is not a valid path.</source>
         <oldsource>The sellected box location is not a valid path.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lokasi kotak yang dipilih bukan jalur yang valid.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="719"/>
         <source>The selected box location exists and is not empty, it is recommended to pick a new or empty folder. Are you sure you want to use an existing folder?</source>
         <oldsource>The sellected box location exists and is not empty, it is recomended to pick a new or empty folder. Are you sure you want to use an existing folder?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lokasi kotak yang dipilih sudah ada dan tidak kosong, disarankan untuk memilih folder baru atau kosong. Apakah Anda yakin ingin menggunakan folder yang sudah ada?</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="724"/>
         <source>The selected box location is not placed on a currently available drive.</source>
         <oldsource>The selected box location not placed on a currently available drive.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lokasi kotak yang dipilih tidak ditempatkan pada drive yang tersedia saat ini.</translation>
     </message>
 </context>
 <context>
@@ -1037,16 +1040,12 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="763"/>
         <source>Complete your configuration</source>
-        <translation>Hoàn tất cài đặt</translation>
+        <translation>Selesaikan konfigurasi Anda</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="773"/>
         <source>Almost complete, click Finish to apply all selected options and conclude the wizard.</source>
-        <translation>Gần hoàn thành, Nhấp vào Kết thúc để áp dụng tất cả các tùy chọn đã chọn và kết thúc trình hướng dẫn.</translation>
-    </message>
-    <message>
-        <source>Keep Sandboxie-Plus up to date.</source>
-        <translation type="vanished">Để Sandboxie-Plus cập nhập thường xuyên.</translation>
+        <translation>Hampir selesai, klik Selesai untuk menerapkan semua opsi yang dipilih dan mengakhiri panduan ini.</translation>
     </message>
 </context>
 <context>
@@ -1054,18 +1053,19 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="939"/>
         <source>Create Web Browser Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Template Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="950"/>
         <source>Almost complete, click Finish to create a new  Web Browser Template and conclude the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hampir selesai, klik Selesai untuk membuat Template Peramban Web baru dan mengakhiri panduan ini.</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="968"/>
         <source>Browser name: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Nama peramban: %1
+</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="972"/>
@@ -1073,31 +1073,35 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
 </source>
         <oldsource>Browser Type: Gecko (Mozilla firefox)
 </oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tipe Peramban: Gecko (Mozilla Firefox)
+</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="973"/>
         <source>Browser Type: Chromium (Google Chrome)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Tipe Peramban: Chromium (Google Chrome)
+</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="975"/>
         <source>
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="976"/>
         <source>Browser executable path: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Path eksekusi peramban: %1
+</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="986"/>
         <source>Browser profile path: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Path profil peramban: %1
+</translation>
     </message>
 </context>
 <context>
@@ -1105,7 +1109,7 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="OnlineUpdater.cpp" line="267"/>
         <source>Failed to download file from: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengunduh file dari: %1</translation>
     </message>
 </context>
 <context>
@@ -1113,7 +1117,7 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="OnlineUpdater.cpp" line="163"/>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1121,17 +1125,17 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="331"/>
         <source>Select issue from group</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih masalah dari grup</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="340"/>
         <source>Please specify the exact issue:</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan tentukan masalah yang tepat:</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="393"/>
         <source>Another issue</source>
-        <translation type="unfinished"></translation>
+        <translation>Masalah lain</translation>
     </message>
 </context>
 <context>
@@ -1139,32 +1143,32 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="167"/>
         <source>Introduction</source>
-        <translation>Giới thiệu</translation>
+        <translation>Pendahuluan</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="174"/>
         <source>Welcome to the Setup Wizard. This wizard will help you to configure your copy of &lt;b&gt;Sandboxie-Plus&lt;/b&gt;. You can start this wizard at any time from the Sandbox-&gt;Maintenance menu if you do not wish to complete it now.</source>
-        <translation>Chào mừng bạn đến với Trình hướng dẫn thiết lập. Trình hướng dẫn này sẽ giúp bạn định cấu hình bản sao của &lt;b&gt;Sandboxie-Plus&lt;/b&gt;. Bạn có thể bắt đầu trình hướng dẫn này bất cứ lúc nào từ Sandbox-&gt;Hoặc không đóng menu nếu bạn không muốn hoàn thành nó ngay bây giờ..</translation>
+        <translation>Selamat datang di Panduan Pengaturan. Panduan ini akan membantu Anda mengonfigurasi &lt;b&gt;Sandboxie-Plus&lt;/b&gt; Anda. Anda dapat memulai panduan ini kapan saja dari menu Sandbox-&gt;Maintenance jika Anda tidak ingin menyelesaikannya sekarang.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="183"/>
         <source>Select how you would like to use Sandboxie-Plus</source>
-        <translation>Chọn cách bạn muốn sử dụng Sandboxie-Plus</translation>
+        <translation>Pilih bagaimana Anda ingin menggunakan Sandboxie-Plus</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="186"/>
         <source>&amp;Personally, for private non-commercial use</source>
-        <translation>&amp;Tôi muốn sử dụng cho riêng cá nhân</translation>
+        <translation>&amp;Pribadi, untuk penggunaan pribadi non-komersial</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="191"/>
         <source>&amp;Commercially, for business or enterprise use</source>
-        <translation>&amp;Tôi muốn sử dụng cho mục đích kinh doanh hoặc doanh nghiệp</translation>
+        <translation>&amp;Komersial, untuk penggunaan bisnis atau perusahaan</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="196"/>
         <source>Note: this option is persistent</source>
-        <translation>Ghi chú: Lựa chọn này không thể thay đổi</translation>
+        <translation>Catatan: opsi ini bersifat permanen</translation>
     </message>
 </context>
 <context>
@@ -1172,83 +1176,83 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="740"/>
         <source>Sandbox Isolation options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Isolasi Sandbox</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="741"/>
         <source>On this page sandbox isolation options can be configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pada halaman ini, opsi isolasi sandbox dapat dikonfigurasi.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="746"/>
         <source>Network Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Akses Jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="754"/>
         <source>Allow network/internet access</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses jaringan/internet</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="755"/>
         <source>Block network/internet by denying access to Network devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokir jaringan/internet dengan menolak akses ke perangkat jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="757"/>
         <source>Block network/internet using Windows Filtering Platform</source>
-        <translation type="unfinished"></translation>
+        <translation>Blokir jaringan/internet menggunakan Windows Filtering Platform</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="763"/>
         <source>Allow access to network files and folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses ke file dan folder jaringan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="764"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="791"/>
         <source>This option is not recommended for Hardened boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini tidak direkomendasikan untuk kotak yang diperkuat</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="769"/>
         <source>Prompt user whether to allow an exemption from the blockade</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanyakan kepada pengguna apakah akan mengizinkan pengecualian dari pemblokiran</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="775"/>
         <source>Admin Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Admin</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="779"/>
         <source>Drop rights from Administrators and Power Users groups</source>
-        <translation type="unfinished">Bỏ quyền khỏi nhóm Quản trị viên và Người dùng quyền lực</translation>
+        <translation>Hapus hak dari grup Administrator dan Power Users</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="785"/>
         <source>Make applications think they are running elevated</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat aplikasi berpikir bahwa mereka berjalan dengan hak istimewa tinggi</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="790"/>
         <source>Allow MSIServer to run with a sandboxed system token</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan MSIServer berjalan dengan token sistem yang disandikan</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="797"/>
         <source>Box Options</source>
-        <translation type="unfinished">Tùy chọn Sandbox</translation>
+        <translation>Opsi Kotak</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="801"/>
         <source>Use a Sandboxie login instead of an anonymous token</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan login Sandboxie sebagai pengganti token anonim</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="802"/>
         <source>Using a custom Sandboxie Token allows to isolate individual sandboxes from each other better, and it shows in the user column of task managers the name of the box a process belongs to. Some 3rd party security solutions may however have problems with custom tokens.</source>
-        <translation type="unfinished">Sử dụng Mã thông báo Sandbox tùy chỉnh cho phép cô lập các Sandbox riêng lẻ với nhau tốt hơn và nó hiển thị trong cột người dùng của người quản lý tác vụ tên của Sandbox mà một quy trình thuộc về. Tuy nhiên, một số giải pháp bảo mật của bên thứ 3 có thể gặp sự cố với mã thông báo tùy chỉnh.</translation>
+        <translation>Menggunakan Token Sandboxie khusus memungkinkan isolasi antar sandbox yang lebih baik, dan akan menampilkan nama kotak tempat proses berada di kolom pengguna pada task manager. Namun, beberapa solusi keamanan pihak ketiga mungkin mengalami masalah dengan token khusus.</translation>
     </message>
 </context>
 <context>
@@ -1256,17 +1260,17 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="454"/>
         <source>Select issue from full list</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih masalah dari daftar lengkap</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="468"/>
         <source>Search filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter pencarian</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="526"/>
         <source>None of the above</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada yang di atas</translation>
     </message>
 </context>
 <context>
@@ -1274,68 +1278,22 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Models/MonitorModel.cpp" line="147"/>
         <source>Type</source>
-        <translation>Loại</translation>
+        <translation>Tipe</translation>
     </message>
     <message>
         <location filename="Models/MonitorModel.cpp" line="148"/>
         <source>Status</source>
-        <translation>Trạng thái</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="Models/MonitorModel.cpp" line="149"/>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation>Nilai</translation>
     </message>
     <message>
         <location filename="Models/MonitorModel.cpp" line="150"/>
         <source>Count</source>
-        <translation>Số lượng</translation>
-    </message>
-</context>
-<context>
-    <name>CMultiErrorDialog</name>
-    <message>
-        <source>Sandboxie-Plus - Error</source>
-        <translation type="vanished">Sandboxie-Plus - Lỗi</translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="vanished">Thông báo</translation>
-    </message>
-</context>
-<context>
-    <name>CNewBoxWindow</name>
-    <message>
-        <source>Sandboxie-Plus - Create New Box</source>
-        <translation type="vanished">Sandboxie-Plus - Tạo Sandbox mới</translation>
-    </message>
-    <message>
-        <source>New Box</source>
-        <translation type="vanished">Sandbox mới</translation>
-    </message>
-    <message>
-        <source>Hardened Sandbox with Data Protection</source>
-        <translation type="vanished">Hardened Sandbox bảo vệ dữ liệu</translation>
-    </message>
-    <message>
-        <source>Security Hardened Sandbox</source>
-        <translation type="vanished">Hardened Sandbox Bảo Mật</translation>
-    </message>
-    <message>
-        <source>Sandbox with Data Protection</source>
-        <translation type="vanished">Sandbox bảo vệ dữ liệu</translation>
-    </message>
-    <message>
-        <source>Standard Isolation Sandbox (Default)</source>
-        <translation type="vanished">Sandbox Cách Ly Tiêu Chuẩn (Default)</translation>
-    </message>
-    <message>
-        <source>Application Compartment with Data Protection</source>
-        <translation type="vanished">Ngăn Ứng dụng với Bảo vệ Dữ liệu</translation>
-    </message>
-    <message>
-        <source>Application Compartment (NO Isolation)</source>
-        <translation type="vanished">Ngăn ứng dụng (Không Cách Ly)</translation>
+        <translation>Jumlah</translation>
     </message>
 </context>
 <context>
@@ -1343,36 +1301,36 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="33"/>
         <source>New Box Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panduan Kotak Baru</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="76"/>
         <source>This sandbox content will be placed in an encrypted container file, please note that any corruption of the container&apos;s header will render all its content permanently inaccessible. Corruption can occur as a result of a BSOD, a storage hardware failure, or a malicious application overwriting random files. This feature is provided under a strict &lt;b&gt;No Backup No Mercy&lt;/b&gt; policy, YOU the user are responsible for the data you put into an encrypted box. &lt;br /&gt;&lt;br /&gt;IF YOU AGREE TO TAKE FULL RESPONSIBILITY FOR YOUR DATA PRESS [YES], OTHERWISE PRESS [NO].</source>
         <oldsource>This sandbox content will be placed in an encrypted container file, please note that any corruption of the container&apos;s header will render all its content permanently innaccessible. Corruption can occur as a result of a BSOD, a storage hadrware failure, or a maliciouse application overwriting random files. This feature is provided under a strickt &lt;b&gt;No Backup No Mercy&lt;/b&gt; policy, YOU the user are responsible for the data you put into an encrypted box. &lt;br /&gt;&lt;br /&gt;IF YOU AGREE TO TAKE FULL RESPONSIBILITY FOR YOUR DATA PRESS [YES], OTHERWISE PRESS [NO].</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Konten sandbox ini akan ditempatkan dalam file kontainer terenkripsi, harap dicatat bahwa kerusakan pada header kontainer akan membuat semua isinya tidak dapat diakses secara permanen. Kerusakan dapat terjadi akibat BSOD, kegagalan perangkat keras penyimpanan, atau aplikasi berbahaya yang menimpa file secara acak. Fitur ini disediakan dengan kebijakan &lt;b&gt;No Backup No Mercy&lt;/b&gt; yang ketat, ANDA sebagai pengguna bertanggung jawab atas data yang Anda masukkan ke dalam kotak terenkripsi. &lt;br /&gt;&lt;br /&gt;JIKA ANDA SETUJU UNTUK BERTANGGUNG JAWAB SEPENUHNYA ATAS DATA ANDA, TEKAN [YES], JIKA TIDAK, TEKAN [NO].</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="111"/>
         <source>Add your settings after this line.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan pengaturan Anda setelah baris ini.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="113"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="114"/>
         <source>Shared Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Template Bersama</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="288"/>
         <source>The new sandbox has been created using the new &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-delete-v2&quot;&gt;Virtualization Scheme Version 2&lt;/a&gt;, if you experience any unexpected issues with this box, please switch to the Virtualization Scheme to Version 1 and report the issue, the option to change this preset can be found in the Box Options in the Box Structure group.</source>
         <oldsource>The new sandbox has been created using the new &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-delete-v2&quot;&gt;Virtualization Scheme Version 2&lt;/a&gt;, if you expirience any unecpected issues with this box, please switch to the Virtualization Scheme to Version 1 and report the issue, the option to change this preset can be found in the Box Options in the Box Structure groupe.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox baru telah dibuat menggunakan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-delete-v2&quot;&gt;Skema Virtualisasi Versi 2&lt;/a&gt; yang baru. Jika Anda mengalami masalah yang tidak terduga dengan kotak ini, silakan ganti Skema Virtualisasi ke Versi 1 dan laporkan masalahnya. Opsi untuk mengubah preset ini dapat ditemukan di Opsi Kotak dalam grup Struktur Kotak.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="82"/>
         <location filename="Wizards/NewBoxWizard.cpp" line="291"/>
         <source>Don&apos;t show this message again.</source>
-        <translation type="unfinished">Không hiển thị lại thông báo này.</translation>
+        <translation>Jangan tampilkan pesan ini lagi.</translation>
     </message>
 </context>
 <context>
@@ -1380,212 +1338,182 @@ You can use %USER% to save each users sandbox to an own fodler.</oldsource>
     <message>
         <location filename="BoxJob.h" line="58"/>
         <source>OnDelete: %1</source>
-        <translation>Khi xoá: %1</translation>
+        <translation>OnDelete: %1</translation>
     </message>
 </context>
 <context>
     <name>COnlineUpdater</name>
     <message>
-        <location filename="OnlineUpdater.cpp" line="445"/>
-        <source>Your Sandboxie-Plus supporter certificate is expired, however for the current build you are using it remains active, when you update to a newer build exclusive supporter features will be disabled.
-
-Do you still want to update?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="OnlineUpdater.cpp" line="476"/>
         <source>Do you want to check if there is a new version of Sandboxie-Plus?</source>
-        <translation type="unfinished">Bạn có muốn kiểm tra xem có phiên bản Sandboxie-Plus mới không?</translation>
+        <translation>Apakah Anda ingin memeriksa apakah ada versi baru dari Sandboxie-Plus?</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="477"/>
         <source>Don&apos;t show this message again.</source>
-        <translation type="unfinished">Không hiển thị lại thông báo này.</translation>
+        <translation>Jangan tampilkan pesan ini lagi.</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="504"/>
         <source>To ensure optimal compatibility with your software, Sandboxie needs to update its compatibility templates. Do you want to proceed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk memastikan kompatibilitas optimal dengan perangkat lunak Anda, Sandboxie perlu memperbarui template kompatibilitasnya. Apakah Anda ingin melanjutkan?</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="505"/>
         <source>Enable auto template updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan pembaruan template otomatis</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="553"/>
         <source>Checking for updates...</source>
-        <translation>Kiểm tra cập nhập...</translation>
+        <translation>Memeriksa pembaruan...</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="560"/>
         <source>server not reachable</source>
-        <translation>Không thể kết nối với máy chủ</translation>
+        <translation>server tidak dapat dijangkau</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="561"/>
         <location filename="OnlineUpdater.cpp" line="563"/>
         <source>Failed to check for updates, error: %1</source>
-        <translation>Lỗi kiểm tra cập nhập, chi tiết: %1</translation>
+        <translation>Gagal memeriksa pembaruan, kesalahan: %1</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="588"/>
         <source>Update Check completed, no new updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemeriksaan pembaruan selesai, tidak ada pembaruan baru</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="733"/>
         <source>&lt;p&gt;Do you want to download the installer?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Apakah Anda ingin mengunduh penginstal?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="737"/>
         <source>&lt;p&gt;Do you want to download the updates?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Apakah Anda ingin mengunduh pembaruan?&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="OnlineUpdater.cpp" line="741"/>
+        <source>&lt;p&gt;Do you want to go to the &lt;a href=&quot;%1&quot;&gt;download page&lt;/a&gt;?&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Apakah Anda ingin pergi ke &lt;a href=&quot;%1&quot;&gt;halaman unduhan&lt;/a&gt;?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="750"/>
         <source>Don&apos;t show this update anymore.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jangan tampilkan pembaruan ini lagi.</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="878"/>
         <source>Downloading updates...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengunduh pembaruan...</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="904"/>
         <source>invalid parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>parameter tidak valid</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="905"/>
         <source>failed to download updated information</source>
         <oldsource>failed to download update informations</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>gagal mengunduh informasi yang diperbarui</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="906"/>
         <source>failed to load updated json file</source>
         <oldsource>failed to load update json file</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>gagal memuat file json yang diperbarui</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="907"/>
         <source>failed to download a particular file</source>
-        <translation type="unfinished"></translation>
+        <translation>gagal mengunduh file tertentu</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="908"/>
         <source>failed to scan existing installation</source>
-        <translation type="unfinished"></translation>
+        <translation>gagal memindai instalasi yang ada</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="909"/>
         <source>updated signature is invalid !!!</source>
         <oldsource>update signature is invalid !!!</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Tanda tangan yang diperbarui tidak valid !!!</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="910"/>
         <source>downloaded file is corrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>file yang diunduh rusak</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="911"/>
         <source>internal error</source>
-        <translation type="unfinished"></translation>
+        <translation>kesalahan internal</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="912"/>
         <source>unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>kesalahan tidak diketahui</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="937"/>
         <source>Failed to download updates from server, error %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengunduh pembaruan dari server, kesalahan %1</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="961"/>
         <source>&lt;p&gt;Updates for Sandboxie-Plus have been downloaded.&lt;/p&gt;&lt;p&gt;Do you want to apply these updates? If any programs are running sandboxed, they will be terminated.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Pembaruan untuk Sandboxie-Plus telah diunduh.&lt;/p&gt;&lt;p&gt;Apakah Anda ingin menerapkan pembaruan ini? Jika ada program yang berjalan dalam mode sandbox, program tersebut akan dihentikan.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="1066"/>
         <source>Downloading installer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengunduh penginstal...</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="1109"/>
         <source>&lt;p&gt;A new Sandboxie-Plus installer has been downloaded to the following location:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;%2&quot;&gt;%1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Do you want to begin the installation? If any programs are running sandboxed, they will be terminated.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Penginstal Sandboxie-Plus yang baru telah diunduh ke lokasi berikut:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;%2&quot;&gt;%1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Apakah Anda ingin memulai instalasi? Jika ada program yang sedang berjalan di sandbox, program tersebut akan dihentikan.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="1170"/>
         <source>There is a new Templates.ini available, do you want to download it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tersedia Templates.ini yang baru, apakah Anda ingin mengunduhnya?</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="1220"/>
         <source>&lt;p&gt;Do you want to go to the &lt;a href=&quot;%1&quot;&gt;info page&lt;/a&gt;?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Bạn có muốn truy cập &lt;a href=&quot;%1&quot;&gt;trang thông tin ứng dụng&lt;/a&gt;?&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Apakah Anda ingin pergi ke &lt;a href=&quot;%1&quot;&gt;halaman info&lt;/a&gt;?&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="1240"/>
         <source>Don&apos;t show this announcement in the future.</source>
-        <translation>Không hiện thông báo này trong tương lai.</translation>
+        <translation>Jangan tampilkan pengumuman ini di masa depan.</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="719"/>
         <source>&lt;p&gt;There is a new version of Sandboxie-Plus available.&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;&lt;b&gt;New version:&lt;/b&gt;&lt;/font&gt; &lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Đã tìm thấy bản cập nhập mới của Sandboxie-Plus.&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;&lt;b&gt;Phiên bản mới:&lt;/b&gt;&lt;/font&gt; &lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Tersedia versi baru Sandboxie-Plus.&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;&lt;b&gt;Versi baru:&lt;/b&gt;&lt;/font&gt; &lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Do you want to download the latest version?&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Bạn có muốn tải phiên bản mới nhất?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location filename="OnlineUpdater.cpp" line="741"/>
-        <source>&lt;p&gt;Do you want to go to the &lt;a href=&quot;%1&quot;&gt;download page&lt;/a&gt;?&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Bạn có muốn truy cập &lt;a href=&quot;%1&quot;&gt;trang tải ứng dụng&lt;/a&gt;?&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Don&apos;t show this message anymore.</source>
-        <translation type="vanished">Không hiện thông báo này nữa.</translation>
+        <location filename="OnlineUpdater.cpp" line="445"/>
+        <source>Your Sandboxie-Plus supporter certificate is expired, however for the current build you are using it remains active, when you update to a newer build exclusive supporter features will be disabled.
+
+Do you still want to update?</source>
+        <translation>Sertifikat pendukung Sandboxie-Plus Anda telah kedaluwarsa, namun untuk build saat ini yang Anda gunakan masih tetap aktif. Jika Anda memperbarui ke build yang lebih baru, fitur eksklusif untuk pendukung akan dinonaktifkan.
+
+Apakah Anda masih ingin memperbarui?</translation>
     </message>
     <message>
         <location filename="OnlineUpdater.cpp" line="592"/>
         <source>No new updates found, your Sandboxie-Plus is up-to-date.
 
 Note: The update check is often behind the latest GitHub release to ensure that only tested updates are offered.</source>
-        <translation>Không tìm thấy cập nhập mới, Sandboxie-Plus của bạn là phiên bản mới nhất.
+        <translation>Tidak ada pembaruan baru yang ditemukan, Sandboxie-Plus Anda sudah terbaru.
 
-Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát hành GitHub mới nhất để đảm bảo rằng chỉ các bản cập nhật đã thử nghiệm mới được cung cấp.</translation>
-    </message>
-    <message>
-        <source>Downloading new version...</source>
-        <translation type="vanished">Đang tải bản mới nhất...</translation>
-    </message>
-    <message>
-        <source>Failed to download update from: %1</source>
-        <translation type="vanished">Lỗi tải cập nhập từ: %1</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;A Sandboxie-Plus update has been downloaded to the following location:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;%2&quot;&gt;%1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Do you want to begin the installation? If any programs are running sandboxed, they will be terminated.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Một cập nhập mới Sandboxie-Plus đã được tải về từ:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;%2&quot;&gt;%1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Bạn có muốn bắt đầu cài đặt không? Nếu bất kỳ chương trình nào đang chạy trong Sandbox, chúng sẽ bị chấm dứt.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Checking for certificate...</source>
-        <translation type="vanished">Đang kiểm tra chứng chỉ...</translation>
-    </message>
-    <message>
-        <source>No certificate found on server!</source>
-        <translation type="vanished">Không tìm thấy chứng chỉ nào trên máy chủ!</translation>
-    </message>
-    <message>
-        <source>There is no updated certificate available.</source>
-        <translation type="vanished">Không có chứng chỉ cập nhật nào có sẵn.</translation>
+Catatan: Pemeriksaan pembaruan seringkali tertinggal dari rilis GitHub terbaru untuk memastikan hanya pembaruan yang telah diuji yang ditawarkan.</translation>
     </message>
 </context>
 <context>
@@ -1596,144 +1524,144 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsWindow.cpp" line="507"/>
         <location filename="Windows/OptionsAccess.cpp" line="26"/>
         <source>Browse for File</source>
-        <translation>Duyệt tìm tệp</translation>
+        <translation>Cari Berkas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="27"/>
         <source>Browse for Folder</source>
-        <translation>Duyệt thư mục</translation>
+        <translation>Cari Folder</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="328"/>
         <source>Closed</source>
-        <translation>Đóng.</translation>
+        <translation>Tertutup</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="329"/>
         <source>Closed RT</source>
-        <translation>Đóng RT</translation>
+        <translation>RT Tertutup</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="330"/>
         <source>Read Only</source>
-        <translation>Chỉ Đọc</translation>
+        <translation>Hanya Baca</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="324"/>
         <source>Normal</source>
-        <translation>Bình Thường</translation>
+        <translation>Normal</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="325"/>
         <source>Open</source>
-        <translation>Mở</translation>
+        <translation>Buka</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="326"/>
         <source>Open for All</source>
-        <translation>Mở cho tất cả</translation>
+        <translation>Buka untuk Semua</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="327"/>
         <source>No Rename</source>
-        <translation>Không Đổi Tên</translation>
+        <translation>Tanpa Ganti Nama</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="331"/>
         <source>Box Only (Write Only)</source>
-        <translation>Chỉ Sandbox (Chỉ Ghi)</translation>
+        <translation>Hanya Kotak (Hanya Tulis)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="332"/>
         <source>Ignore UIPI</source>
-        <translation type="unfinished">Bỏ qua UIPI</translation>
+        <translation>Abaikan UIPI</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="334"/>
         <location filename="Windows/OptionsAccess.cpp" line="351"/>
         <location filename="Windows/OptionsAccess.cpp" line="364"/>
         <source>Unknown</source>
-        <translation>Không rõ</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="341"/>
         <source>Regular Sandboxie behavior - allow read and also copy on write.</source>
-        <translation type="unfinished">Hành vi mặc định của Sandbox - cho phép đọc và cũng có thể sao chép khi ghi.</translation>
+        <translation>Perilaku Sandboxie biasa - izinkan membaca dan juga copy on write.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="342"/>
         <source>Allow write-access outside the sandbox.</source>
-        <translation type="unfinished">Cho phép quyền ghi bên ngoài Sandbox.</translation>
+        <translation>Izinkan akses tulis di luar sandbox.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="343"/>
         <source>Allow write-access outside the sandbox, also for applications installed inside the sandbox.</source>
-        <translation type="unfinished">Cho phép quyền ghi bên ngoài hộp cát, cũng cho các ứng dụng được cài đặt bên trong Sandbox.</translation>
+        <translation>Izinkan akses tulis di luar sandbox, juga untuk aplikasi yang diinstal di dalam sandbox.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="344"/>
         <source>Don&apos;t rename window classes.</source>
-        <translation type="unfinished">Không đổi tên WindowClass.</translation>
+        <translation>Jangan ganti nama kelas jendela.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="345"/>
         <source>Deny access to host location and prevent creation of sandboxed copies.</source>
-        <translation type="unfinished">Từ chối quyền truy cập vào vị trí máy chủ lưu trữ và ngăn tạo các bản sao Sandbox.</translation>
+        <translation>Tolak akses ke lokasi host dan cegah pembuatan salinan di sandbox.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="346"/>
         <source>Block access to WinRT class.</source>
-        <translation type="unfinished">Chặn quyền truy cập vào WinRT class.</translation>
+        <translation>Blokir akses ke kelas WinRT.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="347"/>
         <source>Allow read-only access only.</source>
-        <translation type="unfinished">Chỉ cho phép quyền truy cập chỉ đọc.</translation>
+        <translation>Hanya izinkan akses baca saja.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="348"/>
         <source>Hide host files, folders or registry keys from sandboxed processes.</source>
-        <translation type="unfinished">Ẩn tệp máy chủ, thư mục hoặc khóa đăng ký khỏi các quy trình Sandbox.</translation>
+        <translation>Sembunyikan file, folder, atau kunci registri host dari proses yang disandikan.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="349"/>
         <source>Ignore UIPI restrictions for processes.</source>
-        <translation type="unfinished">Bỏ qua các giới hạn UIPI cho các tiến trình.</translation>
+        <translation>Abaikan pembatasan UIPI untuk proses.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="358"/>
         <source>File/Folder</source>
-        <translation>Tệp/Thư Mục</translation>
+        <translation>Berkas/Folder</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="359"/>
         <source>Registry</source>
-        <translation>Registry</translation>
+        <translation>Registri</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="360"/>
         <source>IPC Path</source>
-        <translation>IPC Path</translation>
+        <translation>Path IPC</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="361"/>
         <source>Wnd Class</source>
-        <translation>Wnd Class</translation>
+        <translation>Kelas Wnd</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="362"/>
         <source>COM Object</source>
-        <translation>COM Object</translation>
+        <translation>Objek COM</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="369"/>
         <source>Select File</source>
-        <translation>Chọn Tệp</translation>
+        <translation>Pilih Berkas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="369"/>
         <source>All Files (*.*)</source>
-        <translation>Tất cả Tệp (*.*)</translation>
+        <translation>Semua Berkas (*.*)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="380"/>
@@ -1742,7 +1670,7 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsRecovery.cpp" line="128"/>
         <location filename="Windows/OptionsRecovery.cpp" line="139"/>
         <source>Select Directory</source>
-        <translation>Chọn Thư Mục</translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="1155"/>
@@ -1758,7 +1686,7 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsNetwork.cpp" line="913"/>
         <location filename="Windows/OptionsNetwork.cpp" line="1152"/>
         <source>All Programs</source>
-        <translation>Tất cả Chương Trình</translation>
+        <translation>Semua Program</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="1153"/>
@@ -1771,32 +1699,32 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsNetwork.cpp" line="508"/>
         <location filename="Windows/OptionsNetwork.cpp" line="600"/>
         <source>Group: %1</source>
-        <translation>Nhóm: %1</translation>
+        <translation>Grup: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="555"/>
         <source>COM objects must be specified by their GUID, like: {00000000-0000-0000-0000-000000000000}</source>
-        <translation>Các đối tượng COM phải được chỉ định bởi GUID của chúng, như: {00000000-0000-0000-0000-000000000000}</translation>
+        <translation>Objek COM harus ditentukan berdasarkan GUID-nya, seperti: {00000000-0000-0000-0000-000000000000}</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="561"/>
         <source>RT interfaces must be specified by their name.</source>
-        <translation>Các giao diện RT phải được chỉ định theo tên của chúng.</translation>
+        <translation>Antarmuka RT harus ditentukan berdasarkan namanya.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="575"/>
         <source>Opening all IPC access also opens COM access, do you still want to restrict COM to the sandbox?</source>
-        <translation>Mở tất cả quyền truy cập IPC cũng mở quyền truy cập COM, bạn vẫn muốn giới hạn COM trong Sandbox?</translation>
+        <translation>Membuka semua akses IPC juga membuka akses COM, apakah Anda masih ingin membatasi COM ke sandbox?</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="576"/>
         <source>Don&apos;t ask in future</source>
-        <translation>Không hỏi trong tương lai</translation>
+        <translation>Jangan tanyakan lagi di masa depan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="585"/>
         <source>&apos;OpenWinClass=program.exe,#&apos; is not supported, use &apos;NoRenameWinClass=program.exe,*&apos; instead</source>
-        <translation>&apos;OpenWinClass=program.exe,#&apos; không được hỗ trợ, sử dụng &apos;NoRenameWinClass=program.exe,*&apos; để thay thế</translation>
+        <translation>&apos;OpenWinClass=program.exe,#&apos; tidak didukung, gunakan &apos;NoRenameWinClass=program.exe,*&apos; sebagai gantinya</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="628"/>
@@ -1806,97 +1734,97 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsGrouping.cpp" line="258"/>
         <location filename="Windows/OptionsNetwork.cpp" line="575"/>
         <source>Template values can not be edited.</source>
-        <translation>Không thể chỉnh sửa giá trị mẫu.</translation>
+        <translation>Nilai template tidak dapat diedit.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAccess.cpp" line="695"/>
         <source>Template values can not be removed.</source>
-        <translation>Giá trị mẫu không thể bị xóa.</translation>
+        <translation>Nilai template tidak dapat dihapus.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="63"/>
         <source>Enable the use of win32 hooks for selected processes. Note: You need to enable win32k syscall hook support globally first.</source>
-        <translation type="unfinished">Cho phép sử dụng các hook win32 cho các quy trình đã chọn. Lưu ý: Trước tiên, bạn cần bật hỗ trợ hook syscall win32k cho toàn bộ.</translation>
+        <translation>Aktifkan penggunaan hook win32 untuk proses yang dipilih. Catatan: Anda perlu mengaktifkan dukungan hook syscall win32k secara global terlebih dahulu.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="64"/>
         <source>Enable crash dump creation in the sandbox folder</source>
-        <translation type="unfinished">Bật tính năng tạo trích xuất sự cố trong thư mục Sandbox</translation>
+        <translation>Aktifkan pembuatan crash dump di folder sandbox</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="65"/>
         <source>Always use ElevateCreateProcess fix, as sometimes applied by the Program Compatibility Assistant.</source>
-        <translation type="unfinished">Luôn sử dụng sửa lỗi ElevateCreateProcess, như đôi khi được áp dụng bởi Trợ lý tương thích chương trình.</translation>
+        <translation>Selalu gunakan perbaikan ElevateCreateProcess, seperti yang kadang diterapkan oleh Program Compatibility Assistant.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="67"/>
         <source>Enable special inconsistent PreferExternalManifest behaviour, as needed for some Edge fixes</source>
         <oldsource>Enable special inconsistent PreferExternalManifest behavioure, as neede for some edge fixes</oldsource>
-        <translation type="unfinished">Bật hành vi PreferExternalManifest không nhất quán đặc biệt, nếu cần đối với một số bản sửa lỗi của Edge</translation>
+        <translation>Aktifkan perilaku PreferExternalManifest khusus yang tidak konsisten, sesuai kebutuhan untuk beberapa perbaikan Edge</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="68"/>
         <source>Set RpcMgmtSetComTimeout usage for specific processes</source>
-        <translation type="unfinished">Đặt RpcMgmtSetComTimeout sử dụng cho các tiến trình cụ thể</translation>
+        <translation>Atur penggunaan RpcMgmtSetComTimeout untuk layanan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="69"/>
         <source>Makes a write open call to a file that won&apos;t be copied fail instead of turning it read-only.</source>
-        <translation type="unfinished">Thực hiện lệnh mở ghi vào tệp sẽ không được sao chép thay vì chuyển tệp ở chế độ chỉ đọc.</translation>
+        <translation>Membuat panggilan buka tulis ke file yang tidak akan disalin menjadi gagal, alih-alih mengubahnya menjadi hanya-baca.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="72"/>
         <source>Make specified processes think they have admin permissions.</source>
         <oldsource>Make specified processes think thay have admin permissions.</oldsource>
-        <translation type="unfinished">Làm cho các tiến trình được chỉ định nghĩ rằng chúng có quyền quản trị.</translation>
+        <translation>Membuat proses tertentu berpikir bahwa mereka memiliki izin admin.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="73"/>
         <source>Force specified processes to wait for a debugger to attach.</source>
-        <translation type="unfinished">Buộc các quá trình đã chỉ định phải đợi một trình gỡ lỗi đính kèm.</translation>
+        <translation>Paksa proses yang ditentukan untuk menunggu debugger terpasang.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="75"/>
         <source>Sandbox file system root</source>
-        <translation type="unfinished">Hệ thống tệp gốc của Sandbox</translation>
+        <translation>Root sistem file sandbox</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="76"/>
         <source>Sandbox registry root</source>
-        <translation type="unfinished">Registry gốc của Sandbox</translation>
+        <translation>Root registri sandbox</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="77"/>
         <source>Sandbox ipc root</source>
-        <translation type="unfinished">Gốc IPC của Sandbox</translation>
+        <translation>Root ipc sandbox</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="763"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="772"/>
         <source>bytes (unlimited)</source>
-        <translation type="unfinished"></translation>
+        <translation>byte (tidak terbatas)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="766"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="775"/>
         <source>bytes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>byte (%1)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="781"/>
         <source>unlimited</source>
-        <translation type="unfinished"></translation>
+        <translation>tidak terbatas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="953"/>
         <source>Add special option:</source>
-        <translation type="unfinished">Thêm các tuỳ chọn đặc biệt:</translation>
+        <translation>Tambahkan opsi khusus:</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1101"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="1105"/>
         <source>On Start</source>
-        <translation>Lúc khởi động</translation>
+        <translation>Saat Mulai</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1102"/>
@@ -1905,32 +1833,32 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsAdvanced.cpp" line="1118"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="1122"/>
         <source>Run Command</source>
-        <translation>Lệnh Chạy</translation>
+        <translation>Jalankan Perintah</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1106"/>
         <source>Start Service</source>
-        <translation>Khởi động Dịch vụ</translation>
+        <translation>Mulai Layanan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1109"/>
         <source>On Init</source>
-        <translation>Lúc Bắt Đầu</translation>
+        <translation>Saat Inisialisasi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1113"/>
         <source>On File Recovery</source>
-        <translation type="unfinished">Lúc Khôi Phục Tệp</translation>
+        <translation>Saat Pemulihan Berkas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1117"/>
         <source>On Delete Content</source>
-        <translation type="unfinished">Lúc Xoá Dữ Liệu</translation>
+        <translation>Saat Menghapus Konten</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1121"/>
         <source>On Terminate</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat Dihentikan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1135"/>
@@ -1939,36 +1867,22 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <location filename="Windows/OptionsAdvanced.cpp" line="1175"/>
         <location filename="Windows/OptionsAdvanced.cpp" line="1185"/>
         <source>Please enter the command line to be executed</source>
-        <translation>Vui lòng nhập dòng lệnh sẽ được thực hiện</translation>
+        <translation>Silakan masukkan baris perintah yang akan dijalankan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1219"/>
         <source>Please enter a program file name to allow access to this sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan masukkan nama file program untuk mengizinkan akses ke kotak pasir ini</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1230"/>
         <source>Please enter a program file name to deny access to this sandbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/OptionsAdvanced.cpp" line="1502"/>
-        <source>Failed to retrieve firmware table information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/OptionsAdvanced.cpp" line="1510"/>
-        <source>Firmware table saved successfully to host registry: HKEY_CURRENT_USER\System\SbieCustom&lt;br /&gt;you can copy it to the sandboxed registry to have a different value for each box.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please enter a program file name</source>
-        <translation type="vanished">Vui lòng nhập tên tệp chương trình</translation>
+        <translation>Harap masukkan nama file program untuk menolak akses ke kotak pasir ini</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1310"/>
         <source>Deny</source>
-        <translation type="unfinished">Từ Chối</translation>
+        <translation>Tolak</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1413"/>
@@ -1976,491 +1890,493 @@ Ghi chú: Việc kiểm tra bản cập nhật thường nằm sau bản phát h
         <translation>%1 (%2)</translation>
     </message>
     <message>
+        <location filename="Windows/OptionsAdvanced.cpp" line="1502"/>
+        <source>Failed to retrieve firmware table information.</source>
+        <translation>Gagal mengambil informasi tabel firmware.</translation>
+    </message>
+    <message>
+        <location filename="Windows/OptionsAdvanced.cpp" line="1510"/>
+        <source>Firmware table saved successfully to host registry: HKEY_CURRENT_USER\System\SbieCustom&lt;br /&gt;you can copy it to the sandboxed registry to have a different value for each box.</source>
+        <translation>Tabel firmware berhasil disimpan ke registri host: HKEY_CURRENT_USER\System\SbieCustom&lt;br /&gt;Anda dapat menyalinnya ke registri sandbox untuk memiliki nilai yang berbeda di setiap kotak.</translation>
+    </message>
+    <message>
         <location filename="Windows/OptionsForce.cpp" line="131"/>
         <location filename="Windows/OptionsForce.cpp" line="149"/>
         <source>Process</source>
-        <translation>Các Tiến Trình</translation>
+        <translation>Proses</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="132"/>
         <location filename="Windows/OptionsForce.cpp" line="150"/>
         <source>Folder</source>
-        <translation>Thư Mục</translation>
+        <translation>Folder</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="133"/>
         <source>Children</source>
-        <translation type="unfinished"></translation>
+        <translation>Anak</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="151"/>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumen</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="265"/>
         <location filename="Windows/OptionsForce.cpp" line="276"/>
         <location filename="Windows/OptionsForce.cpp" line="296"/>
         <source>Select Executable File</source>
-        <translation type="unfinished">Chọn Tệp Thực Thi (*.exe)</translation>
+        <translation>Pilih Berkas Eksekusi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="265"/>
         <location filename="Windows/OptionsForce.cpp" line="276"/>
         <location filename="Windows/OptionsForce.cpp" line="296"/>
         <source>Executable Files (*.exe)</source>
-        <translation type="unfinished">Các Tệp Thực Thi (*.exe)</translation>
+        <translation>Berkas Eksekusi (*.exe)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="327"/>
         <source>Select Document Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih Direktori Dokumen</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="331"/>
         <source>Please enter Document File Extension.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan masukkan Ekstensi File Dokumen.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="341"/>
         <source>For security reasons it is not permitted to create entirely wildcard BreakoutDocument presets.</source>
         <oldsource>For security reasons it it not permitted to create entirely wildcard BreakoutDocument presets.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Demi alasan keamanan, tidak diizinkan membuat preset BreakoutDocument dengan wildcard sepenuhnya.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="351"/>
         <source>For security reasons the specified extension %1 should not be broken out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Demi alasan keamanan, ekstensi %1 yang ditentukan sebaiknya tidak dibuka.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsForce.cpp" line="408"/>
         <source>Forcing the specified entry will most likely break Windows, are you sure you want to proceed?</source>
         <oldsource>Forcing the specified folder will most likely break Windows, are you sure you want to proceed?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Memaksakan entri yang ditentukan kemungkinan besar akan merusak Windows, apakah Anda yakin ingin melanjutkan?</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="25"/>
         <source>This option requires an active supporter certificate</source>
         <oldsource>This option requires a valid supporter certificate</oldsource>
-        <translation type="unfinished">Tùy chọn này yêu cầu chứng chỉ hỗ trợ hợp lệ</translation>
-    </message>
-    <message>
-        <source>Supporter exclusive option</source>
-        <translation type="vanished">Tùy chọn độc quyền của nhà hỗ trợ</translation>
+        <translation>Opsi ini memerlukan sertifikat pendukung yang aktif</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="54"/>
         <source>Don&apos;t alter the window title</source>
-        <translation>Không thay đổi tiêu đề cửa sổ</translation>
+        <translation>Jangan ubah judul jendela</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="55"/>
         <source>Display [#] indicator only</source>
-        <translation>Chỉ Hiện [#] trong tiêu đề</translation>
+        <translation>Hanya tampilkan indikator [#]</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="56"/>
         <source>Display box name in title</source>
-        <translation>Hiển thị tên hộp trong tiêu đề</translation>
+        <translation>Tampilkan nama kotak di judul</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="58"/>
         <source>Border disabled</source>
-        <translation>Tắt đường viền</translation>
+        <translation>Bingkai dinonaktifkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="59"/>
         <source>Show only when title is in focus</source>
-        <translation>Chỉ hiển thị khi tiêu đề được lấy nét</translation>
+        <translation>Tampilkan hanya saat judul sedang aktif</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="60"/>
         <source>Always show</source>
-        <translation>Luôn luôn hiển thị</translation>
+        <translation>Selalu tampilkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="63"/>
         <source>Hardened Sandbox with Data Protection</source>
-        <translation>Hardened Sandbox với bảo vệ dữ liệu</translation>
+        <translation>Sandbox yang Diperkuat dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="64"/>
         <source>Security Hardened Sandbox</source>
-        <translation>Hardened Sandbox Bảo Mật</translation>
+        <translation>Sandbox yang Diperkuat Keamanannya</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="65"/>
         <source>Sandbox with Data Protection</source>
-        <translation>Sandbox với Bảo vệ dữ liệu</translation>
+        <translation>Sandbox dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="66"/>
         <source>Standard Isolation Sandbox (Default)</source>
-        <translation>Sandbox Cách Ly Tiêu Chuẩn (Mặc định)</translation>
+        <translation>Sandbox Isolasi Standar (Default)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="68"/>
         <source>Application Compartment with Data Protection</source>
-        <translation>Ngăn Ứng dụng với Bảo vệ Dữ liệu</translation>
-    </message>
-    <message>
-        <source>Application Compartment (NO Isolation)</source>
-        <translation type="vanished">Ngăn ứng dụng (Không cô lập)</translation>
+        <translation>Kompartemen Aplikasi dengan Perlindungan Data</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="23"/>
         <source>This option requires an active &lt;b&gt;advanced&lt;/b&gt; supporter certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini memerlukan sertifikat pendukung &lt;b&gt;lanjutan&lt;/b&gt; yang aktif</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="69"/>
         <source>Application Compartment</source>
-        <translation type="unfinished">Ngăn ứng dụng</translation>
+        <translation>Kompartemen Aplikasi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="122"/>
         <source>Custom icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon kustom</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="180"/>
         <source>Version 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi 1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="181"/>
         <source>Version 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Versi 2</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="241"/>
         <source>Browse for Program</source>
-        <translation>Duyệt chương trình</translation>
+        <translation>Cari Program</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="317"/>
         <source>Open Box Options</source>
-        <translation type="unfinished">Mở tùy chọn Sandbox</translation>
+        <translation>Buka Opsi Kotak</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="318"/>
         <source>Browse Content</source>
-        <translation type="unfinished">Duyệt nội dung</translation>
+        <translation>Cari Konten</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="319"/>
         <source>Start File Recovery</source>
-        <translation type="unfinished">Bắt đầu khôi phục tệp</translation>
+        <translation>Mulai Pemulihan Berkas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="320"/>
         <source>Show Run Dialog</source>
-        <translation type="unfinished">Hiển thị Hộp thoại Chạy</translation>
+        <translation>Tampilkan Dialog Jalankan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="348"/>
         <source>Indeterminate</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak Ditetapkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="368"/>
         <source>Backup Image Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadangkan Header Citra</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="369"/>
         <source>Restore Image Header</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulihkan Header Citra</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="373"/>
         <source>Change Password</source>
-        <translation type="unfinished">Đổi mật khẩu</translation>
+        <translation>Ubah Kata Sandi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="628"/>
         <location filename="Windows/OptionsGeneral.cpp" line="728"/>
         <source>Always copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Selalu salin</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="629"/>
         <location filename="Windows/OptionsGeneral.cpp" line="729"/>
         <source>Don&apos;t copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Jangan salin</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="630"/>
         <location filename="Windows/OptionsGeneral.cpp" line="730"/>
         <source>Copy empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Salin kosong</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="856"/>
         <source>kilobytes (%1)</source>
-        <translation>kilobytes (%1)</translation>
+        <translation>kilobita (%1)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="964"/>
         <source>Select color</source>
-        <translation>Chọn màu</translation>
+        <translation>Pilih warna</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1039"/>
         <source>Select Program</source>
-        <translation>Chọn chương trình</translation>
+        <translation>Pilih Program</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1225"/>
         <source>The image file does not exist</source>
-        <translation type="unfinished"></translation>
+        <translation>File citra tidak ada</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1226"/>
         <source>The password is wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Kata sandi salah</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1227"/>
         <source>Unexpected error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan tak terduga: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1256"/>
         <source>Image Password Changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kata Sandi Citra Diubah</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1265"/>
         <source>Backup Image Header for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadangkan Header Citra untuk %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1273"/>
         <source>Image Header Backuped</source>
-        <translation type="unfinished"></translation>
+        <translation>Header Citra Dicadangkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1280"/>
         <source>Restore Image Header for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulihkan Header Citra untuk %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1288"/>
         <source>Image Header Restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Header Citra Dipulihkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1145"/>
         <source>Please enter a service identifier</source>
-        <translation>Vui lòng nhập số nhận dạng dịch vụ</translation>
+        <translation>Silakan masukkan pengenal layanan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1039"/>
         <source>Executables (*.exe *.cmd)</source>
-        <translation>Tệp thực thi (*.exe *.cmd)</translation>
+        <translation>Berkas Eksekusi (*.exe *.cmd)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1043"/>
         <location filename="Windows/OptionsGeneral.cpp" line="1064"/>
         <source>Please enter a menu title</source>
-        <translation>Vui lòng nhập tiêu đề menu</translation>
+        <translation>Silakan masukkan judul menu</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGeneral.cpp" line="1060"/>
         <source>Please enter a command</source>
-        <translation>Vui lòng nhập một lệnh</translation>
+        <translation>Silakan masukkan perintah</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGrouping.cpp" line="141"/>
         <source>Please enter a name for the new group</source>
-        <translation>Vui lòng nhập tên cho nhóm mới</translation>
+        <translation>Silakan masukkan nama untuk grup baru</translation>
     </message>
     <message>
         <location filename="Windows/OptionsGrouping.cpp" line="229"/>
         <source>Please select group first.</source>
-        <translation>Vui lòng chọn nhóm trước.</translation>
+        <translation>Silakan pilih grup terlebih dahulu.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="54"/>
         <location filename="Windows/OptionsNetwork.cpp" line="630"/>
         <source>Any</source>
-        <translation>Mọi Loại</translation>
+        <translation>Apa saja</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="55"/>
         <location filename="Windows/OptionsNetwork.cpp" line="631"/>
         <source>TCP</source>
-        <translation>TCP</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="56"/>
         <location filename="Windows/OptionsNetwork.cpp" line="632"/>
         <source>UDP</source>
-        <translation>UDP</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="57"/>
         <location filename="Windows/OptionsNetwork.cpp" line="633"/>
         <source>ICMP</source>
-        <translation>ICMP</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="91"/>
         <source>Allow access</source>
-        <translation>Cho phép truy cập</translation>
+        <translation>Izinkan akses</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="92"/>
         <source>Block using Windows Filtering Platform</source>
-        <translation>Chặn bằng cách sử dụng Nền tảng lọc của Windows</translation>
+        <translation>Blokir menggunakan Windows Filtering Platform</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="93"/>
         <source>Block by denying access to Network devices</source>
-        <translation>Chặn bằng cách từ chối quyền truy cập vào các thiết bị Mạng</translation>
+        <translation>Blokir dengan menolak akses ke perangkat jaringan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="802"/>
         <source>Please enter a domain to be filtered</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan masukkan domain yang akan difilter</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="832"/>
         <source>Yes</source>
-        <translation type="unfinished">Có</translation>
+        <translation>Ya</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="833"/>
         <source>No</source>
-        <translation type="unfinished">Không</translation>
+        <translation>Tidak</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="857"/>
         <source>Please enter IP and Port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan masukkan IP dan Port.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="1039"/>
         <source> entry: IP or Port cannot be empty</source>
-        <translation type="unfinished"></translation>
+        <translation> entri: IP atau Port tidak boleh kosong</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="1044"/>
         <source> entry: Address must be IP, not host name</source>
-        <translation type="unfinished"></translation>
+        <translation> entri: Alamat harus berupa IP, bukan nama host</translation>
     </message>
     <message>
         <location filename="Windows/OptionsAdvanced.cpp" line="1310"/>
         <location filename="Windows/OptionsNetwork.cpp" line="213"/>
         <location filename="Windows/OptionsNetwork.cpp" line="616"/>
         <source>Allow</source>
-        <translation>Cho phép</translation>
+        <translation>Izinkan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="214"/>
         <source>Block (WFP)</source>
-        <translation>Chặn (WFP)</translation>
+        <translation>Blokir (WFP)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="215"/>
         <source>Block (NDev)</source>
-        <translation>Chặn (NDev)</translation>
+        <translation>Blokir (NDev)</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="320"/>
         <source>A non empty program name is required.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama program tidak boleh kosong.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsNetwork.cpp" line="617"/>
         <source>Block</source>
-        <translation>Chặn</translation>
+        <translation>Blokir</translation>
     </message>
     <message>
         <location filename="Windows/OptionsRecovery.cpp" line="150"/>
         <source>Please enter a file extension to be excluded</source>
-        <translation>Vui lòng nhập một phần mở rộng tệp để được loại trừ</translation>
+        <translation>Silakan masukkan ekstensi file yang akan dikecualikan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="56"/>
         <source>All Categories</source>
-        <translation>Tất cả danh mục </translation>
+        <translation>Semua Kategori</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="95"/>
         <source>Custom Templates</source>
-        <translation>Mẫu tùy chỉnh</translation>
+        <translation>Template Kustom</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="96"/>
         <source>Email Reader</source>
-        <translation>Trình đọc Email</translation>
+        <translation>Pembaca Email</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="97"/>
         <source>PDF/Print</source>
-        <translation>PDF/In</translation>
+        <translation>PDF/Cetak</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="98"/>
         <source>Security/Privacy</source>
-        <translation>Bảo vệ/Sự riêng tư</translation>
+        <translation>Keamanan/Privasi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="99"/>
         <source>Desktop Utilities</source>
-        <translation>Tiện ích máy tính để bàn</translation>
+        <translation>Utilitas Desktop</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="100"/>
         <source>Download Managers</source>
-        <translation>Trình quản lý tải xuống</translation>
+        <translation>Manajer Unduhan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="101"/>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="102"/>
         <source>Web Browser</source>
-        <translation>Trình duyệt web</translation>
+        <translation>Peramban Web</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="103"/>
         <source>Media Player</source>
-        <translation>Trình đa phương tiện</translation>
+        <translation>Pemutar Media</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="104"/>
         <source>Torrent Client</source>
-        <translation>Ứng dụng khách Torrent</translation>
+        <translation>Klien Torrent</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="151"/>
         <source>This template is enabled globally. To configure it, use the global options.</source>
-        <translation>Mẫu này được kích hoạt trên toàn bộ. Để cấu hình nó, hãy sử dụng các tùy chọn chung.</translation>
+        <translation>Template ini diaktifkan secara global. Untuk mengonfigurasinya, gunakan opsi global.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="187"/>
         <source>Please enter the template identifier</source>
-        <translation>Vui lòng nhập mã nhận dạng mẫu</translation>
+        <translation>Silakan masukkan pengenal template</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="195"/>
         <source>Error: %1</source>
-        <translation>Lỗi: %1</translation>
+        <translation>Kesalahan: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="229"/>
         <source>Do you really want to delete the selected local template(s)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda benar-benar ingin menghapus template lokal yang dipilih?</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="235"/>
         <source>Only local templates can be removed!</source>
-        <translation>Chỉ có thể loại bỏ các mẫu cục bộ!</translation>
+        <translation>Hanya template lokal yang dapat dihapus!</translation>
     </message>
     <message>
         <location filename="Windows/OptionsTemplates.cpp" line="290"/>
@@ -2471,71 +2387,73 @@ should contain the following file:
 
 The selected location does not contain this file.
 Please select a folder which contains this file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you really want to delete the selected local template?</source>
-        <translation type="vanished">Bạn có thực sự muốn xóa mẫu cục bộ đã chọn không?</translation>
+        <translation>Lokasi alternatif untuk &apos;%1&apos;
+harus berisi file berikut:
+
+%2
+
+Lokasi yang dipilih tidak berisi file ini.
+Silakan pilih folder yang berisi file ini.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="189"/>
         <source>Sandboxie Plus - &apos;%1&apos; Options</source>
-        <translation>Sandboxie Plus - &apos;%1&apos; Tùy chọn</translation>
+        <translation>Sandboxie Plus - Opsi &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="299"/>
         <source>File Options</source>
-        <translation type="unfinished">Tùy chọn tệp</translation>
+        <translation>Opsi Berkas</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="338"/>
         <source>Grouping</source>
-        <translation type="unfinished">Phân nhóm</translation>
+        <translation>Pengelompokan</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="577"/>
         <source>Add %1 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambahkan Template %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="680"/>
         <source>Search for options</source>
-        <translation>Tìm kiếm các tùy chọn</translation>
+        <translation>Cari opsi</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="837"/>
         <source>Box: %1</source>
-        <translation type="unfinished">Hộp: %1</translation>
+        <translation>Kotak: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="838"/>
         <source>Template: %1</source>
-        <translation type="unfinished">Mẫu: %1</translation>
+        <translation>Template: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="839"/>
         <source>Global: %1</source>
-        <translation type="unfinished">Toàn bộ: %1</translation>
+        <translation>Global: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="840"/>
         <source>Default: %1</source>
-        <translation type="unfinished">Mặc định: %1</translation>
+        <translation>Default: %1</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="1051"/>
         <source>This sandbox has been deleted hence configuration can not be saved.</source>
-        <translation>Sandbox này đã bị xóa do đó không thể lưu cấu hình.</translation>
+        <translation>Sandbox ini telah dihapus sehingga konfigurasi tidak dapat disimpan.</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="1115"/>
         <source>Some changes haven&apos;t been saved yet, do you really want to close this options window?</source>
-        <translation>Một số thay đổi vẫn chưa được lưu, bạn có thực sự muốn đóng cửa sổ tùy chọn này không?</translation>
+        <translation>Beberapa perubahan belum disimpan, apakah Anda ingin melanjutkan?</translation>
     </message>
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="1164"/>
         <source>Enter program:</source>
-        <translation>Nhập chương trình:</translation>
+        <translation>Masukkan program:</translation>
     </message>
 </context>
 <context>
@@ -2543,42 +2461,42 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="53"/>
         <source>?</source>
-        <translation>?</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="54"/>
         <source>Visit %1 for a detailed explanation.</source>
-        <translation>Ghé thăm %1 để được giải thích chi tiết.</translation>
+        <translation>Kunjungi %1 untuk penjelasan lebih rinci.</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="65"/>
         <source>Troubleshooting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemecahan Masalah</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="66"/>
         <source>Start troubleshooting wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulai panduan pemecahan masalah</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="71"/>
         <source>Dismiss</source>
-        <translation>Bỏ qua</translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="72"/>
         <source>Remove this message from the list</source>
-        <translation>Xóa tin nhắn này khỏi danh sách</translation>
+        <translation>Hapus pesan ini dari daftar</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="75"/>
         <source>Hide all such messages</source>
-        <translation>Ẩn tất cả các tin nhắn như vậy</translation>
+        <translation>Sembunyikan semua pesan seperti ini</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="89"/>
         <source> (%1)</source>
-        <translation type="unfinished"> (%1)</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2586,12 +2504,12 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="387"/>
         <source>Dismiss</source>
-        <translation>Bỏ qua</translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="388"/>
         <source>Remove this progress indicator from the list</source>
-        <translation>Xóa chỉ báo tiến độ này khỏi danh sách</translation>
+        <translation>Hapus indikator progres ini dari daftar</translation>
     </message>
 </context>
 <context>
@@ -2599,42 +2517,42 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="129"/>
         <source>Remember for this process</source>
-        <translation>Hãy nhớ cho quá trình này</translation>
+        <translation>Ingat untuk proses ini</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="139"/>
         <source>Yes</source>
-        <translation>Có</translation>
+        <translation>Ya</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="144"/>
         <source>No</source>
-        <translation>Không</translation>
+        <translation>Tidak</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="149"/>
         <source>Terminate</source>
-        <translation>Chấm dứt</translation>
+        <translation>Akhiri</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="170"/>
         <source>Yes and add to allowed programs</source>
-        <translation>Có và thêm vào các chương trình được phép</translation>
+        <translation>Ya dan tambahkan ke program yang diizinkan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="205"/>
         <source>Requesting process terminated</source>
-        <translation>Quá trình yêu cầu đã chấm dứt</translation>
+        <translation>Proses yang meminta telah dihentikan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="210"/>
         <source>Request will time out in %1 sec</source>
-        <translation>Yêu cầu sẽ hết thời gian sau %1 giây</translation>
+        <translation>Permintaan akan habis waktu dalam %1 detik</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="212"/>
         <source>Request timed out</source>
-        <translation>Yêu cầu đã hết thời gian chờ</translation>
+        <translation>Permintaan habis waktu</translation>
     </message>
 </context>
 <context>
@@ -2642,67 +2560,67 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.h" line="266"/>
         <source>Recover to:</source>
-        <translation>Khôi phục tới:</translation>
+        <translation>Pulihkan ke:</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="271"/>
         <source>Browse</source>
-        <translation>Duyệt qua</translation>
+        <translation>Jelajahi</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="272"/>
         <source>Clear folder list</source>
-        <translation>Xóa danh sách thư mục</translation>
+        <translation>Bersihkan daftar folder</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="280"/>
         <source>Recover</source>
-        <translation>Khôi phục</translation>
+        <translation>Pulihkan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="281"/>
         <source>Recover the file to original location</source>
-        <translation>Khôi phục tệp về vị trí ban đầu</translation>
+        <translation>Pulihkan file ke lokasi aslinya</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="284"/>
         <source>Recover &amp;&amp; Explore</source>
-        <translation>Khôi phục &amp;&amp; Explore</translation>
+        <translation>Pulihkan &amp;&amp; Jelajahi</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="285"/>
         <source>Recover &amp;&amp; Open/Run</source>
-        <translation>Khôi phục &amp;&amp; Open/Run</translation>
+        <translation>Pulihkan &amp;&amp; Buka/Jalankan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="287"/>
         <source>Open file recovery for this box</source>
-        <translation>Mở khôi phục tệp cho hộp này</translation>
+        <translation>Buka pemulihan file untuk kotak ini</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="295"/>
         <source>Dismiss</source>
-        <translation>Bỏ qua</translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="296"/>
         <source>Don&apos;t recover this file right now</source>
-        <translation>Không khôi phục tệp này ngay bây giờ</translation>
+        <translation>Jangan pulihkan file ini sekarang</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="299"/>
         <source>Dismiss all from this box</source>
-        <translation>Loại bỏ tất cả khỏi hộp này</translation>
+        <translation>Abaikan semua dari kotak ini</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="300"/>
         <source>Disable quick recovery until the box restarts</source>
-        <translation>Tắt khôi phục nhanh cho đến khi hộp khởi động lại</translation>
+        <translation>Nonaktifkan pemulihan cepat hingga kotak dimulai ulang</translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.h" line="324"/>
         <source>Select Directory</source>
-        <translation>Chọn thư mục</translation>
+        <translation>Pilih Direktori</translation>
     </message>
 </context>
 <context>
@@ -2710,56 +2628,52 @@ Please select a folder which contains this file.</source>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="24"/>
         <source>Sandboxie-Plus Notifications</source>
-        <translation>Sandboxie-Plus Thông báo</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="208"/>
         <source>Do you want to allow the print spooler to write outside the sandbox for %1 (%2)?</source>
-        <translation>Bạn có muốn cho phép bộ đệm in ghi bên ngoài Sandbox cho %1 (%2)?</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="316"/>
         <source>Do you want to allow %4 (%5) to copy a %1 large file into sandbox: %2?
 File name: %3</source>
-        <translation>Bạn có muốn cho phép %4 (%5) để sao chép một tệp lớn %1 vào Sandbox: %2?
-Tên tệp: %3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="322"/>
         <source>Do you want to allow %1 (%2) access to the internet?
 Full path: %3</source>
-        <translation>Bạn có muốn cho phép %1 (%2) truy cập Internet?
-Đường dẫn đầy đủ: %3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="381"/>
         <source>%1 is eligible for quick recovery from %2.
 The file was written by: %3</source>
-        <translation>%1 đủ điều kiện để phục hồi nhanh chóng từ %2.
-Tệp được viết bởi: %3</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="383"/>
         <source>an UNKNOWN process.</source>
-        <translation>một tiến trình KHÔNG RÕ NGUỒN GỐC.</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="383"/>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="467"/>
         <location filename="Windows/PopUpWindow.cpp" line="468"/>
         <source>UNKNOWN</source>
-        <translation>KHÔNG RÕ NGUỒN GỐC</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/PopUpWindow.cpp" line="474"/>
         <source>Migrating a large file %1 into the sandbox %2, %3 left.
 Full path: %4</source>
-        <translation>Di chuyển một tệp lớn %1 vào Sandbox %2, %3 còn lại.
-Đường dẫn đầy đủ: %4</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2767,23 +2681,23 @@ Full path: %4</source>
     <message>
         <location filename="SandManRecovery.cpp" line="324"/>
         <source>Sandboxie-Plus - Recovery Log</source>
-        <translation>Sandboxie-Plus - Nhật ký khôi phục</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="335"/>
         <source>Time|Box Name|File Path</source>
-        <translation>Thời gian|Tên Sandbox|Đường dẫn tập tin</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="337"/>
         <source>Cleanup Recovery Log</source>
-        <translation>Nhật ký khôi phục dọn dẹp</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="347"/>
         <source>The following files were recently recovered and moved out of a sandbox.</source>
         <oldsource>the following files were recently recovered and moved out of a sandbox.</oldsource>
-        <translation>Các tệp sau đây gần đây đã được khôi phục và chuyển ra khỏi Sandbox.</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2791,89 +2705,89 @@ Full path: %4</source>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="46"/>
         <source>%1 - File Recovery</source>
-        <translation>%1 - Phục hồi tập tin</translation>
+        <translation>%1 - Pemulihan File</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="70"/>
         <source>File Name</source>
-        <translation>Tên tệp</translation>
+        <translation>Nama File</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="71"/>
         <source>File Size</source>
-        <translation>Kích thước tập tin</translation>
+        <translation>Ukuran File</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="72"/>
         <source>Full Path</source>
-        <translation>Đường dẫn đầy đủ</translation>
+        <translation>Path Lengkap</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="106"/>
         <source>Remember target selection</source>
-        <translation>Nhớ lựa chọn mục tiêu</translation>
+        <translation>Ingat pilihan target</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="112"/>
         <source>Delete everything, including all snapshots</source>
-        <translation>Xóa mọi thứ, bao gồm tất bản ghi nhanh</translation>
+        <translation>Hapus semua, termasuk semua snapshot</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="138"/>
         <source>Original location</source>
-        <translation>Vị trí ban đầu</translation>
+        <translation>Lokasi asli</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="139"/>
         <source>Browse for location</source>
-        <translation>Duyệt tìm vị trí</translation>
+        <translation>Jelajahi lokasi</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="140"/>
         <source>Clear folder list</source>
-        <translation>Xóa danh sách thư mục</translation>
+        <translation>Bersihkan daftar folder</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="180"/>
         <location filename="Windows/RecoveryWindow.cpp" line="201"/>
         <location filename="Windows/RecoveryWindow.cpp" line="554"/>
         <source>Select Directory</source>
-        <translation>Chọn thư mục</translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="246"/>
         <source>No Files selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak ada file yang dipilih!</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="250"/>
         <source>Do you really want to delete %1 selected files?</source>
-        <translation>Bạn có thực sự muốn xóa %1 các tập tin đã chọn?</translation>
+        <translation>Apakah Anda benar-benar ingin menghapus %1 file yang dipilih?</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="278"/>
         <source>Close until all programs stop in this box</source>
-        <translation>Đóng cho đến khi tất cả các chương trình dừng lại trong Sandbox này</translation>
+        <translation>Tutup hingga semua program berhenti di kotak ini</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="279"/>
         <source>Close and Disable Immediate Recovery for this box</source>
-        <translation>Đóng và vô hiệu hóa khôi phục ngay lập tức cho Sandbox này</translation>
+        <translation>Tutup dan Nonaktifkan Pemulihan Langsung untuk kotak ini</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="299"/>
         <source>There are %1 new files available to recover.</source>
-        <translation>Có %1 tệp mới có sẵn để khôi phục.</translation>
+        <translation>Ada %1 file baru yang tersedia untuk dipulihkan.</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="584"/>
         <source>Recovering File(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Memulihkan File...</translation>
     </message>
     <message>
         <location filename="Windows/RecoveryWindow.cpp" line="590"/>
         <source>There are %1 files and %2 folders in the sandbox, occupying %3 of disk space.</source>
-        <translation>Có %1 tập tin và %2 thư mục trong Sandbox, chiếm giữ %3 dung lượng đĩa.</translation>
+        <translation>Ada %1 file dan %2 folder di sandbox, menggunakan %3 ruang disk.</translation>
     </message>
 </context>
 <context>
@@ -2881,25 +2795,27 @@ Full path: %4</source>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="592"/>
         <source>Troubleshooting ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pemecahan Masalah ...</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="615"/>
         <source>This troubleshooting procedure could not be initialized. You can click on next to submit an issue report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosedur pemecahan masalah ini tidak dapat diinisialisasi. Anda dapat mengklik berikutnya untuk mengirimkan laporan masalah.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="728"/>
         <source>Something failed internally this troubleshooting procedure can not continue. You can click on next to submit an issue report.</source>
         <oldsource>Somethign failed internally this troubleshooting procedure can not continue. You can click on next to submit an issue report.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Terjadi kegagalan internal sehingga prosedur pemecahan masalah ini tidak dapat dilanjutkan. Anda dapat mengklik berikutnya untuk mengirimkan laporan masalah.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="729"/>
         <source>
 
 Error: </source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Kesalahan: </translation>
     </message>
 </context>
 <context>
@@ -2907,121 +2823,122 @@ Error: </source>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="622"/>
         <source>Configure &lt;b&gt;Sandboxie-Plus&lt;/b&gt; updater</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan pembaru &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="623"/>
         <source>Like with any other security product, it&apos;s important to keep your Sandboxie-Plus up to date.</source>
         <oldsource>Like with any other security product it&apos;s important to keep your Sandboxie-Plus up to date.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Seperti produk keamanan lainnya, penting untuk selalu memperbarui Sandboxie-Plus Anda.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="631"/>
         <source>Regularly check for all updates to Sandboxie-Plus and optional components</source>
         <oldsource>Regularly Check for all updates to Sandboxie-Plus and optional components</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Periksa secara rutin semua pembaruan untuk Sandboxie-Plus dan komponen opsional</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="632"/>
         <source>Let Sandboxie regularly check for latest updates.</source>
         <oldsource>Let sandboxie regularly check for latest updates.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Biarkan Sandboxie secara rutin memeriksa pembaruan terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="642"/>
         <source>Check for new Sandboxie-Plus versions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Periksa versi Sandboxie-Plus terbaru:</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="643"/>
         <source>Check for new Sandboxie-Plus builds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Periksa build Sandboxie-Plus terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="649"/>
         <source>Select in which update channel to look for new Sandboxie-Plus builds:</source>
         <oldsource>Sellect in which update channel to look for new Sandboxie-Plus builds:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pilih saluran pembaruan untuk mencari build Sandboxie-Plus terbaru:</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="658"/>
         <source>In the Stable Channel</source>
-        <translation type="unfinished"></translation>
+        <translation>Di Saluran Stabil</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="659"/>
         <source>The stable channel contains the latest stable GitHub releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saluran stabil berisi rilis GitHub stabil terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="663"/>
         <source>In the Preview Channel - with newest experimental changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Di Saluran Pratinjau - dengan perubahan eksperimental terbaru</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="664"/>
         <source>The preview channel contains the latest GitHub pre-releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saluran pratinjau berisi pra-rilis GitHub terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="668"/>
         <source>In the Insider Channel - exclusive features</source>
-        <translation type="unfinished"></translation>
+        <translation>Di Saluran Insider - fitur eksklusif</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="669"/>
         <source>The Insider channel offers early access to new features and bugfixes that will eventually be released to the public, as well as all relevant improvements from the stable channel. 
 Unlike the preview channel, it does not include untested, potentially breaking, or experimental changes that may not be ready for wider use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saluran Insider menawarkan akses awal ke fitur baru dan perbaikan bug yang pada akhirnya akan dirilis ke publik, serta semua peningkatan relevan dari saluran stabil.
+Berbeda dengan saluran pratinjau, saluran ini tidak mencakup perubahan yang belum diuji, berpotensi merusak, atau eksperimental yang mungkin belum siap untuk digunakan secara luas.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="674"/>
         <source>More about the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;Insider Channel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Selengkapnya tentang &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;Saluran Insider&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="683"/>
         <source>Keep Compatibility Templates up to date and apply hotfixes</source>
         <oldsource>Keep Compatybility Templates up to date and apply hotfixes</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Jaga Template Kompatibilitas tetap terbaru dan terapkan hotfix</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="684"/>
         <source>Check for latest compatibility templates and hotfixes.</source>
         <oldsource>Check for latest compatybility tempaltes and hotfixes.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Periksa template kompatibilitas dan hotfix terbaru.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="688"/>
         <source>Get the latest Scripts for the Troubleshooting Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapatkan skrip terbaru untuk Panduan Pemecahan Masalah</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="689"/>
         <source>Check for latest troubleshooting scripts for the troubleshooting wizard.</source>
         <oldsource>Check for latest troubleshooting scripts for the troubleshooting wizars.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Periksa skrip pemecahan masalah terbaru untuk panduan pemecahan masalah.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="693"/>
         <source>Keep the list of optional Add-on components up to date</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaga daftar komponen Add-on opsional tetap terbaru</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="694"/>
         <source>Check for latest available add-ons.</source>
         <oldsource>Check for latest avaialble addons.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Periksa add-on terbaru yang tersedia.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="703"/>
         <source>Sandboxie-Plus applies strict application restrictions, which can lead to compatibility issues. Stay updated with Sandboxie-Plus, including compatibility templates and troubleshooting, to ensure smooth operation amid Windows updates and application changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus menerapkan pembatasan aplikasi yang ketat, yang dapat menyebabkan masalah kompatibilitas. Selalu perbarui Sandboxie-Plus Anda, termasuk template kompatibilitas dan pemecahan masalah, untuk memastikan operasi yang lancar di tengah pembaruan Windows dan perubahan aplikasi.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="709"/>
         <source>Access to the latest compatibility templates and the online troubleshooting database requires a valid &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Akses ke template kompatibilitas terbaru dan basis data pemecahan masalah daring memerlukan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt; yang valid.</translation>
     </message>
 </context>
 <context>
@@ -3029,27 +2946,27 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="4541"/>
         <source>Waiting for folder: %1</source>
-        <translation>Đang đợi thư mục: %1</translation>
+        <translation>Menunggu folder: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4542"/>
         <source>Deleting folder: %1</source>
-        <translation>Xóa thư mục: %1</translation>
+        <translation>Menghapus folder: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4543"/>
         <source>Merging folders: %1 &amp;gt;&amp;gt; %2</source>
-        <translation>Hợp nhất các thư mục: %1 &amp;gt;&amp;gt; %2</translation>
+        <translation>Menggabungkan folder: %1 &amp;gt;&amp;gt; %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4544"/>
         <source>Finishing Snapshot Merge...</source>
-        <translation>Kết thúc Hợp nhất Bản Ghi chụp nhanh...</translation>
+        <translation>Menyelesaikan Penggabungan Snapshot...</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="375"/>
         <source>Copying folder: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Menyalin folder: %1</translation>
     </message>
 </context>
 <context>
@@ -3057,71 +2974,67 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SbiePlusAPI.cpp" line="831"/>
         <source>Disabled</source>
-        <translation>Vô hiệu hóa</translation>
+        <translation>Dinonaktifkan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="842"/>
         <source>OPEN Root Access</source>
-        <translation>MỞ Quyền truy cập gốc</translation>
+        <translation>Akses Root TERBUKA</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="844"/>
         <source>Application Compartment</source>
-        <translation>Ngăn ứng dụng</translation>
+        <translation>Kompartemen Aplikasi</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="846"/>
         <source>NOT SECURE</source>
-        <translation>KHÔNG AN TOÀN</translation>
+        <translation>TIDAK AMAN</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="848"/>
         <source>Reduced Isolation</source>
-        <translation>Giảm cô lập</translation>
+        <translation>Isolasi Berkurang</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="850"/>
         <source>Enhanced Isolation</source>
-        <translation>Cô lập nâng cao</translation>
+        <translation>Isolasi Ditingkatkan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="853"/>
         <source>Privacy Enhanced</source>
-        <translation>Tăng cường quyền riêng tư</translation>
-    </message>
-    <message>
-        <source>API Log</source>
-        <translation type="vanished">Nhật ký API</translation>
+        <translation>Privasi Ditingkatkan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="857"/>
         <source>No INet (with Exceptions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanpa INet (dengan Pengecualian)</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="859"/>
         <source>No INet</source>
-        <translation>Không INet</translation>
+        <translation>Tanpa INet</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="862"/>
         <source>Net Share</source>
-        <translation>Chia sẻ Net</translation>
+        <translation>Berbagi Jaringan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="864"/>
         <source>No Admin</source>
-        <translation>Không Admin</translation>
+        <translation>Tanpa Admin</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="867"/>
         <source>Auto Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Otomatis</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="870"/>
         <source>Normal</source>
-        <translation>Bình thường</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3135,42 +3048,42 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="SandMan.cpp" line="4386"/>
         <source>Reset Columns</source>
-        <translation>Đặt lại cột</translation>
+        <translation>Setel Ulang Kolom</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4387"/>
         <source>Copy Cell</source>
-        <translation>Sao chép ô</translation>
+        <translation>Salin Sel</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4388"/>
         <source>Copy Row</source>
-        <translation>Sao chép hàng</translation>
+        <translation>Salin Baris</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4389"/>
         <source>Copy Panel</source>
-        <translation>Sao chép bảng điều khiển</translation>
+        <translation>Salin Panel</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1250"/>
         <source>Time|Message</source>
-        <translation>Thời gian|Thông điệp</translation>
+        <translation>Waktu|Pesan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1259"/>
         <source>Sbie Messages</source>
-        <translation>Thông điệp Sandboxie</translation>
+        <translation>Pesan Sbie</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1271"/>
         <source>Trace Log</source>
-        <translation>Nhật ký theo dõi</translation>
+        <translation>Log Jejak</translation>
     </message>
     <message>
         <location filename="SandManTray.cpp" line="45"/>
         <source>Show/Hide</source>
-        <translation>Hiện/Ẩn</translation>
+        <translation>Tampilkan/Sembunyikan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="613"/>
@@ -3178,7 +3091,7 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="SandMan.cpp" line="665"/>
         <location filename="SandMan.cpp" line="667"/>
         <source>Pause Forcing Programs</source>
-        <translation>Tạm dừng các chương trình cưỡng bức</translation>
+        <translation>Jeda Program Paksa</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="511"/>
@@ -3191,309 +3104,307 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
         <location filename="SandMan.cpp" line="1005"/>
         <location filename="SandMan.cpp" line="1006"/>
         <source>Create New Box</source>
-        <translation>Tạo ra Sandbox Mới</translation>
+        <translation>Buat Kotak Baru</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="513"/>
         <source>Create Box Group</source>
-        <translation>Tạo ra Nhóm Sandbox</translation>
+        <translation>Buat Grup Kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="519"/>
         <location filename="SandMan.cpp" line="663"/>
         <source>Terminate All Processes</source>
-        <translation>Chấm dứt tất cả các tiến trình</translation>
+        <translation>Hentikan Semua Proses</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="619"/>
         <source>Disable File Recovery</source>
-        <translation>Tắt phục hồi tệp</translation>
+        <translation>Nonaktifkan Pemulihan File</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="437"/>
         <source>&amp;Maintenance</source>
-        <translation>&amp;Bảo trì</translation>
+        <translation>&amp;Pemeliharaan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="438"/>
         <source>Connect</source>
-        <translation>Kết nối</translation>
+        <translation>Hubungkan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="439"/>
         <source>Disconnect</source>
-        <translation>Ngắt kết nối</translation>
+        <translation>Putuskan Koneksi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="441"/>
         <source>Stop All</source>
-        <translation>Tất cả dừng lại</translation>
+        <translation>Hentikan Semua</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="442"/>
         <source>&amp;Advanced</source>
-        <translation>&amp;Nâng cao</translation>
+        <translation>&amp;Lanjutan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="443"/>
         <source>Install Driver</source>
-        <translation>Cài đặt trình điều khiển</translation>
+        <translation>Instal Driver</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="444"/>
         <source>Start Driver</source>
-        <translation>Khởi động trình điều khiển</translation>
+        <translation>Mulai Driver</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="445"/>
         <source>Stop Driver</source>
-        <translation>Dừng trình điều khiển</translation>
+        <translation>Hentikan Driver</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="446"/>
         <source>Uninstall Driver</source>
-        <translation>Gỡ cài đặt trình điều khiển</translation>
+        <translation>Copot Driver</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="448"/>
         <source>Install Service</source>
-        <translation>Cài đặt dịch vụ</translation>
+        <translation>Instal Layanan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="449"/>
         <source>Start Service</source>
-        <translation>Bắt đầu dịch vụ</translation>
+        <translation>Mulai Layanan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="450"/>
         <source>Stop Service</source>
-        <translation>Dừng phục vụ</translation>
+        <translation>Hentikan Layanan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="451"/>
         <source>Uninstall Service</source>
-        <translation>Gỡ cài đặt dịch vụ</translation>
+        <translation>Copot Layanan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="468"/>
         <source>Setup Wizard</source>
-        <translation>Trình hướng dẫn thiết lập</translation>
+        <translation>Panduan Penyiapan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="471"/>
         <source>Uninstall All</source>
-        <translation>Gỡ cài đặt tất cả</translation>
+        <translation>Copot Semua</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="547"/>
         <location filename="SandMan.cpp" line="703"/>
         <source>Exit</source>
-        <translation>Thoát</translation>
+        <translation>Keluar</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="550"/>
         <location filename="SandMan.cpp" line="705"/>
         <source>&amp;View</source>
-        <translation>&amp;Xem</translation>
+        <translation>&amp;Tampilan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="477"/>
         <source>Simple View</source>
-        <translation>Chế độ xem đơn giản</translation>
+        <translation>Tampilan Sederhana</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="478"/>
         <source>Advanced View</source>
-        <translation>Chế độ xem nâng cao</translation>
+        <translation>Tampilan Lanjutan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="483"/>
         <source>Always on Top</source>
-        <translation>Luôn luôn trên đầu trang</translation>
+        <translation>Selalu di Atas</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="557"/>
         <source>Show Hidden Boxes</source>
-        <translation>Hiển thị các Sandbox ẩn</translation>
+        <translation>Tampilkan Kotak Tersembunyi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="559"/>
         <source>Show All Sessions</source>
-        <translation>Hiển thị tất cả các phiên</translation>
+        <translation>Tampilkan Semua Sesi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="576"/>
         <source>Refresh View</source>
-        <translation>Làm mới chế độ xem</translation>
+        <translation>Segarkan Tampilan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="582"/>
         <source>Clean Up</source>
-        <translation>Dọn dẹp</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="583"/>
         <source>Cleanup Processes</source>
-        <translation>Dọn dẹp Tiến trình</translation>
+        <translation>Bersihkan Proses</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="585"/>
         <source>Cleanup Message Log</source>
-        <translation>Dọn dẹp nhật ký tin nhắn</translation>
+        <translation>Bersihkan Log Pesan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="586"/>
         <source>Cleanup Trace Log</source>
-        <translation>Nhật ký theo dõi dọn dẹp</translation>
+        <translation>Bersihkan Log Jejak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="587"/>
         <source>Cleanup Recovery Log</source>
-        <translation>Nhật ký khôi phục dọn dẹp</translation>
+        <translation>Bersihkan Log Pemulihan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="589"/>
         <source>Keep terminated</source>
-        <translation>Tiếp tục chấm dứt</translation>
+        <translation>Tetap dihentikan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="609"/>
         <source>&amp;Options</source>
-        <translation>&amp;Tùy chọn</translation>
+        <translation>&amp;Opsi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="610"/>
         <location filename="SandMan.cpp" line="755"/>
         <source>Global Settings</source>
-        <translation>Thiết lập toàn bộ</translation>
+        <translation>Pengaturan Global</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="644"/>
         <location filename="SandMan.cpp" line="765"/>
         <source>Reset all hidden messages</source>
-        <translation>Đặt lại tất cả các tin nhắn ẩn</translation>
+        <translation>Setel Ulang Semua Pesan Tersembunyi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="645"/>
         <location filename="SandMan.cpp" line="766"/>
         <source>Reset all GUI options</source>
-        <translation>Đặt lại tất cả các tùy chọn giao diện</translation>
-    </message>
-    <message>
-        <source>Edit ini file</source>
-        <translation type="vanished">Chỉnh sửa tệp ini</translation>
-    </message>
-    <message>
-        <source>Reload ini file</source>
-        <translation type="vanished">Tải lại tệp ini</translation>
+        <translation>Setel Ulang Semua Opsi GUI</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="602"/>
         <source>Trace Logging</source>
-        <translation>Ghi lại dấu vết</translation>
+        <translation>Pencatatan Jejak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="489"/>
         <source>&amp;Help</source>
-        <translation>&amp;Giúp đỡ</translation>
-    </message>
-    <message>
-        <source>Support Sandboxie-Plus with Donations</source>
-        <oldsource>Support Sandboxie-Plus with a Donation</oldsource>
-        <translation type="obsolete">Ủng hộ Sandboxie-Plus với một khoản đóng góp</translation>
+        <translation>&amp;Bantuan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="499"/>
         <source>Visit Support Forum</source>
-        <translation>Truy cập Diễn đàn hỗ trợ</translation>
+        <translation>Kunjungi Forum Dukungan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="498"/>
         <source>Online Documentation</source>
-        <translation>Tài liệu Trực tuyến</translation>
+        <translation>Dokumentasi Daring</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="501"/>
         <source>Check for Updates</source>
-        <translation>Kiểm tra cập nhật</translation>
+        <translation>Periksa Pembaruan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="503"/>
         <source>About the Qt Framework</source>
-        <translation>Giới thiệu về Khung Qt</translation>
+        <translation>Tentang Qt Framework</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="504"/>
         <location filename="SandMan.cpp" line="4479"/>
         <source>About Sandboxie-Plus</source>
-        <translation>Về Sandboxie-Plus</translation>
+        <translation>Tentang Sandboxie-Plus</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="738"/>
         <source>Create New Sandbox</source>
-        <translation>Tạo mới Sandbox</translation>
+        <translation>Buat Sandbox Baru</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="739"/>
         <source>Create New Group</source>
-        <translation>Tạo nhóm mới</translation>
+        <translation>Buat Grup Baru</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="844"/>
         <location filename="SandMan.cpp" line="993"/>
         <location filename="SandMan.cpp" line="994"/>
         <source>Cleanup</source>
-        <translation>Dọn dẹp</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
-        <source>Click to install update</source>
-        <translation type="vanished">Nhấp để cài đặt bản cập nhật</translation>
+        <location filename="SandMan.cpp" line="1077"/>
+        <source>&lt;a href=&quot;sbie://update/installer&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus release %1 ready&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;sbie://update/installer&quot; style=&quot;color: red;&quot;&gt;Rilis Sandboxie-Plus baru %1 sudah siap&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="1081"/>
+        <source>&lt;a href=&quot;sbie://update/apply&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus update %1 ready&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;sbie://update/apply&quot; style=&quot;color: red;&quot;&gt;Pembaruan Sandboxie-Plus %1 baru sudah siap&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="1085"/>
+        <source>&lt;a href=&quot;sbie://update/check&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus update v%1 available&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;sbie://update/check&quot; style=&quot;color: red;&quot;&gt;Pembaruan Sandboxie-Plus v%1 baru tersedia&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1096"/>
         <source>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Support Sandboxie-Plus on Patreon&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Ủng hộ Sandboxie-Plus trên Patreon&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Dukung Sandboxie-Plus di Patreon&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1097"/>
         <source>Click to open web browser</source>
-        <translation>Nhấp để mở trình duyệt web</translation>
+        <translation>Klik untuk membuka peramban web</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1281"/>
         <source>Time|Box Name|File Path</source>
-        <translation>Thời gian|Tên Sandbox|Đường dẫn tập tin</translation>
+        <translation>Waktu|Nama Kotak|Path File</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="606"/>
         <location filename="SandMan.cpp" line="716"/>
         <location filename="SandMan.cpp" line="1291"/>
         <source>Recovery Log</source>
-        <translation>Nhật ký khôi phục</translation>
+        <translation>Log Pemulihan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1078"/>
         <source>Click to run installer</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik untuk menjalankan penginstal</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1082"/>
         <source>Click to apply update</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik untuk menerapkan pembaruan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1358"/>
         <source>Do you want to close Sandboxie Manager?</source>
-        <translation>Bạn có muốn đóng Trình quản lý Sandboxie không?</translation>
+        <translation>Apakah Anda ingin menutup Sandboxie Manager?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1375"/>
         <source>Sandboxie-Plus was running in portable mode, now it has to clean up the created services. This will prompt for administrative privileges.
 
 Do you want to do the clean up?</source>
-        <translation>Sandboxie-Plus đã chạy ở chế độ Portable, bây giờ nó phải dọn dẹp các dịch vụ đã tạo. Điều này sẽ nhắc nhở các đặc quyền quản trị.
+        <translation>Sandboxie-Plus berjalan dalam mode portabel, sekarang harus membersihkan layanan yang telah dibuat. Ini akan meminta hak administratif.
 
-Bạn có muốn dọn dẹp không?</translation>
+Apakah Anda ingin melakukan pembersihan?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1376"/>
@@ -3503,24 +3414,24 @@ Bạn có muốn dọn dẹp không?</translation>
         <location filename="SandMan.cpp" line="3869"/>
         <location filename="SandMan.cpp" line="3885"/>
         <source>Don&apos;t show this message again.</source>
-        <translation>Không hiển thị lại thông báo này.</translation>
+        <translation>Jangan tampilkan pesan ini lagi.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1568"/>
         <source>This box provides &lt;a href=&quot;sbie://docs/security-mode&quot;&gt;enhanced security isolation&lt;/a&gt;, it is suitable to test untrusted software.</source>
         <oldsource>This box provides enhanced security isolation, it is suitable to test untrusted software.</oldsource>
-        <translation type="unfinished">Sandbox này cung cấp khả năng cách ly bảo mật nâng cao, nó thích hợp để kiểm tra phần mềm không đáng tin cậy.</translation>
+        <translation>Kotak ini menyediakan &lt;a href=&quot;sbie://docs/security-mode&quot;&gt;isolasi keamanan yang ditingkatkan&lt;/a&gt;, cocok untuk menguji perangkat lunak yang tidak dipercaya.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1572"/>
         <source>This box provides standard isolation, it is suitable to run your software to enhance security.</source>
-        <translation>Sandbox này cung cấp cách ly tiêu chuẩn, nó thích hợp để chạy phần mềm của bạn để tăng cường bảo mật.</translation>
+        <translation>Kotak ini menyediakan isolasi standar, cocok untuk menjalankan perangkat lunak Anda guna meningkatkan keamanan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1576"/>
         <source>This box does not enforce isolation, it is intended to be used as an &lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;application compartment&lt;/a&gt; for software virtualization only.</source>
         <oldsource>This box does not enforce isolation, it is intended to be used as an application compartment for software virtualization only.</oldsource>
-        <translation type="unfinished">Sandbox này không thực thi cách ly, nó chỉ được sử dụng làm ngăn ứng dụng cho ảo hóa phần mềm.</translation>
+        <translation>Kotak ini tidak强制隔离, hanya dimaksudkan untuk digunakan sebagai &lt;a href=&quot;sbie://docs/compartment-mode&quot;&gt;kompartemen aplikasi&lt;/a&gt; untuk virtualisasi perangkat lunak saja.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1584"/>
@@ -3528,224 +3439,159 @@ Bạn có muốn dọn dẹp không?</translation>
         <oldsource>
 
 This box &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;prevents access to all user data&lt;/a&gt; locations, except explicitly granted in the Resource Access options.</oldsource>
-        <translation type="unfinished">
-
-Sandbox này ngăn quyền truy cập vào tất cả các vị trí dữ liệu người dùng, ngoại trừ được cấp rõ ràng trong các tùy chọn Truy cập tài nguyên.</translation>
+        <translation>&lt;br /&gt;&lt;br /&gt;Kotak ini &lt;a href=&quot;sbie://docs/privacy-mode&quot;&gt;mencegah akses ke semua lokasi data pengguna&lt;/a&gt;, kecuali yang secara eksplisit diizinkan di opsi Resource Access.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1752"/>
         <source>Unknown operation &apos;%1&apos; requested via command line</source>
-        <translation>Hoạt động không xác định &apos;%1&apos; đã được yêu cầu qua dòng lệnh</translation>
+        <translation>Operasi tidak dikenal &apos;%1&apos; diminta melalui command line</translation>
     </message>
     <message>
         <location filename="SandManTray.cpp" line="106"/>
         <source>Dismiss Update Notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Abaikan Notifikasi Pembaruan</translation>
     </message>
     <message>
         <location filename="SandManTray.cpp" line="182"/>
         <source> - Driver/Service NOT Running!</source>
-        <translation> - Trình điều khiển / Dịch vụ KHÔNG chạy!</translation>
+        <translation> - Driver/Layanan TIDAK Berjalan!</translation>
     </message>
     <message>
         <location filename="SandManTray.cpp" line="184"/>
         <source> - Deleting Sandbox Content</source>
-        <translation> - Xóa nội dung hộp cát</translation>
+        <translation> - Menghapus Konten Sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2150"/>
         <source>Executing OnBoxDelete: %1</source>
-        <translation>Đang thực thi OnBoxDelete: %1</translation>
+        <translation>Menjalankan OnBoxDelete: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2175"/>
         <source>Auto Deleting %1 Content</source>
-        <translation>Tự động xóa Nội dung %1</translation>
+        <translation>Menghapus Konten %1 Secara Otomatis</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2408"/>
         <source>Auto deleting content of %1</source>
-        <translation>Tự động xóa nội dung của %1</translation>
+        <translation>Menghapus konten %1 secara otomatis</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2444"/>
         <source>%1 Directory: %2</source>
-        <translation>%1 Thư mục: %2</translation>
+        <translation>Direktori %1: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2444"/>
         <source>Application</source>
-        <translation>Đăng kí</translation>
+        <translation>Aplikasi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2444"/>
         <source>Installation</source>
-        <translation>Cài đặt</translation>
+        <translation>Instalasi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2446"/>
         <source>Current Config: %1</source>
-        <translation>Cấu hình hiện tại: %1</translation>
+        <translation>Konfigurasi Saat Ini: %1</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="2600"/>
+        <source>Do you want the setup wizard to be omitted?</source>
+        <translation>Apakah Anda ingin panduan penyiapan dilewati?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3560"/>
         <location filename="SandMan.cpp" line="3562"/>
         <location filename="SandMan.cpp" line="4145"/>
         <source>Sandboxie-Plus - Error</source>
-        <translation>Sandboxie-Plus - Lỗi</translation>
+        <translation>Sandboxie-Plus - Kesalahan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3560"/>
         <source>Failed to stop all Sandboxie components</source>
-        <translation>Không dừng được tất cả các thành phần Sandboxie</translation>
+        <translation>Gagal menghentikan semua komponen Sandboxie</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3562"/>
         <source>Failed to start required Sandboxie components</source>
-        <translation>Không thể khởi động các thành phần Sandboxie bắt buộc</translation>
-    </message>
-    <message>
-        <source>Do you want to check if there is a new version of Sandboxie-Plus?</source>
-        <translation type="vanished">Bạn có muốn kiểm tra xem có phiên bản Sandboxie-Plus mới không?</translation>
+        <translation>Gagal memulai komponen Sandboxie yang diperlukan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="176"/>
         <source>WARNING: Sandboxie-Plus.ini in %1 cannot be written to, settings will not be saved.</source>
-        <translation>CẢNH BÁO: Sandboxie-Plus.ini trong %1 không thể được ghi vào, cài đặt sẽ không được lưu.</translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="833"/>
-        <source>New-Box Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="852"/>
-        <source>Edit-ini Menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="901"/>
-        <source>Toolbar Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="903"/>
-        <source>Reset Toolbar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="1077"/>
-        <source>&lt;a href=&quot;sbie://update/installer&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus release %1 ready&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="1081"/>
-        <source>&lt;a href=&quot;sbie://update/apply&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus update %1 ready&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="1085"/>
-        <source>&lt;a href=&quot;sbie://update/check&quot; style=&quot;color: red;&quot;&gt;There is a new Sandboxie-Plus update v%1 available&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>PERINGATAN: Sandboxie-Plus.ini di %1 tidak dapat ditulis, pengaturan tidak akan disimpan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1947"/>
         <source>Some compatibility templates (%1) are missing, probably deleted, do you want to remove them from all boxes?</source>
-        <translation>Một số mẫu tương thích (%1) bị thiếu, có thể đã bị xóa, bạn có muốn xóa chúng khỏi tất cả các Sandbox không?</translation>
+        <translation>Beberapa template kompatibilitas (%1) hilang, mungkin telah dihapus, apakah Anda ingin menghapusnya dari semua kotak?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1974"/>
         <source>Cleaned up removed templates...</source>
-        <translation>Đã xóa các mẫu đã xóa ... </translation>
+        <translation>Template yang dihapus telah dibersihkan...</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2465"/>
         <source>Sandboxie-Plus was started in portable mode, do you want to put the Sandbox folder into its parent directory?
 Yes will choose: %1
 No will choose: %2</source>
-        <translation>Sandboxie-Plus đã được khởi động ở chế độ Portable, bạn có muốn đặt thư mục Sandbox vào thư mục mẹ của nó không?
-Có sẽ chọn: %1
-Không sẽ chọn: %2</translation>
+        <translation>Sandboxie-Plus dijalankan dalam mode portabel, apakah Anda ingin menempatkan folder Sandbox ke direktori induknya?
+Ya akan memilih: %1
+Tidak akan memilih: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2536"/>
         <source>Default sandbox not found; creating: %1</source>
-        <translation>Không tìm thấy Sandbox mặc định; tạo: %1</translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="2573"/>
-        <source>Your Windows build %1 exceeds the current support capabilities of your Sandboxie version, resulting in the disabling of token-based security isolation. Consequently, all applications will operate in application compartment mode without secure isolation.
-Please check if there is an update for sandboxie.</source>
-        <oldsource>Your Windows build %1 exceeds the current support capabilities of your Sandboxie version, resulting in the disabling of token-based security isolation. Consequently, all applications will operate in application compartment mode without secure isolation.<byte value="xd"/>
-Please check if there is an update for sandboxie.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="2582"/>
-        <source>Don&apos;t show this message again for the current build.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="2589"/>
-        <source>Your Windows build %1 exceeds the current known support capabilities of your Sandboxie version, Sandboxie will attempt to use the last-known offsets which may cause system instability.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="2600"/>
-        <source>Do you want the setup wizard to be omitted?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox default tidak ditemukan; membuat: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2617"/>
         <source>   -   NOT connected</source>
-        <translation>   -   Không kết nối</translation>
-    </message>
-    <message>
-        <source>PID %1: </source>
-        <translation type="vanished">PID %1: </translation>
-    </message>
-    <message>
-        <source>%1 (%2): </source>
-        <translation type="vanished">%1 (%2): </translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3107"/>
         <source>The selected feature set is only available to project supporters. Processes started in a box with this feature set enabled without a supporter certificate will be terminated after 5 minutes.&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Become a project supporter&lt;/a&gt;, and receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;</source>
-        <translation>Bộ tính năng đã chọn chỉ có sẵn cho những người ủng hộ dự án. Các quá trình bắt đầu trong một Sandbox có bật bộ tính năng này mà không có chứng chỉ hỗ trợ sẽ bị chấm dứt sau 5 phút.&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Trở thành người hỗ trợ dự án&lt;/a&gt;, và nhận được một &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt;</translation>
+        <translation>Fitur yang dipilih hanya tersedia untuk pendukung proyek. Proses yang dijalankan di dalam kotak dengan fitur ini diaktifkan tanpa sertifikat pendukung akan dihentikan setelah 5 menit.&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Jadilah pendukung proyek&lt;/a&gt;, dan dapatkan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="220"/>
         <source>Recovering file %1 to %2</source>
-        <translation>Khôi phục tập tin %1 to %2</translation>
+        <translation>Memulihkan file %1 ke %2</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="232"/>
         <source>The file %1 already exists, do you want to overwrite it?</source>
-        <translation>Tập tin %1 đã tồn tại, bạn có muốn ghi đè lên nó không?</translation>
+        <translation>File %1 sudah ada, apakah Anda ingin menimpanya?</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="197"/>
         <location filename="SandManRecovery.cpp" line="233"/>
         <source>Do this for all files!</source>
-        <translation>Làm điều này cho tất cả các tệp!</translation>
+        <translation>Lakukan ini untuk semua file!</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="123"/>
         <location filename="SandManRecovery.cpp" line="177"/>
         <source>Checking file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Memeriksa file %1</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="131"/>
         <source>The file %1 failed a security check!
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>File %1 gagal pemeriksaan keamanan! 
+
+%2</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="139"/>
         <source>All files passed the checks</source>
-        <translation type="unfinished"></translation>
+        <translation>Semua file lolos pemeriksaan</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="196"/>
@@ -3755,214 +3601,195 @@ Please check if there is an update for sandboxie.</oldsource>
         <oldsource>The file %1 failed a security check, do you want to recover it anyways?
 
 %2</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>File %1 gagal pemeriksaan keamanan, apakah Anda tetap ingin memulihkannya? 
+
+%2</translation>
     </message>
     <message>
         <location filename="SandManRecovery.cpp" line="261"/>
         <source>Failed to recover some files: 
 </source>
-        <translation>Không khôi phục được một số tệp: 
+        <translation>Gagal memulihkan beberapa file: 
 </translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3286"/>
         <source>Only Administrators can change the config.</source>
-        <translation>Chỉ Quản trị viên mới có thể thay đổi cấu hình.</translation>
+        <translation>Hanya Administrator yang dapat mengubah konfigurasi.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3296"/>
         <source>Please enter the configuration password.</source>
-        <translation>Vui lòng nhập mật khẩu cấu hình.</translation>
+        <translation>Silakan masukkan kata sandi konfigurasi.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3304"/>
         <source>Login Failed: %1</source>
-        <translation>Đăng nhập thất bại: %1</translation>
+        <translation>Login Gagal: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3333"/>
         <source>Do you want to terminate all processes in all sandboxes?</source>
-        <translation>Bạn có muốn chấm dứt tất cả các quy trình trong tất cả các hộp cát không?</translation>
-    </message>
-    <message>
-        <source>Terminate all without asking</source>
-        <translation type="vanished">Chấm dứt tất cả mà không cần hỏi</translation>
+        <translation>Apakah Anda ingin menghentikan semua proses di semua sandbox?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3423"/>
         <source>Sandboxie-Plus was started in portable mode and it needs to create necessary services. This will prompt for administrative privileges.</source>
-        <translation>Sandboxie-Plus đã được khởi động ở chế độ Portable và nó cần tạo ra các dịch vụ cần thiết. Điều này sẽ nhắc nhở các đặc quyền quản trị.</translation>
+        <translation>Sandboxie-Plus dijalankan dalam mode portabel dan perlu membuat layanan yang diperlukan. Ini akan meminta hak administratif.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3457"/>
         <source>CAUTION: Another agent (probably SbieCtrl.exe) is already managing this Sandboxie session, please close it first and reconnect to take over.</source>
-        <translation>THẬN TRỌNG: Một tác nhân khác (có thể là SbieCtrl.exe) đã quản lý phiên Sandboxie này, vui lòng đóng nó trước và kết nối lại để tiếp quản.</translation>
+        <translation>PERHATIAN: Agen lain (mungkin SbieCtrl.exe) sudah mengelola sesi Sandboxie ini, silakan tutup terlebih dahulu dan sambungkan kembali untuk mengambil alih.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3589"/>
         <source>Executing maintenance operation, please wait...</source>
-        <translation>Đang thực hiện hoạt động bảo trì, vui lòng đợi...</translation>
+        <translation>Menjalankan operasi pemeliharaan, harap tunggu...</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3779"/>
         <source>Do you also want to reset hidden message boxes (yes), or only all log messages (no)?</source>
-        <translation>Bạn cũng muốn đặt lại các hộp thông báo ẩn (có), hay chỉ tất cả các thông báo nhật ký (không)?</translation>
+        <translation>Apakah Anda juga ingin mengatur ulang kotak pesan tersembunyi (ya), atau hanya semua pesan log (tidak)?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3883"/>
         <source>The changes will be applied automatically whenever the file gets saved.</source>
-        <translation>Các thay đổi sẽ được áp dụng tự động bất cứ khi nào tệp được lưu.</translation>
+        <translation>Perubahan akan diterapkan secara otomatis setiap kali file disimpan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3884"/>
         <source>The changes will be applied automatically as soon as the editor is closed.</source>
-        <translation>Các thay đổi sẽ được áp dụng tự động ngay khi đóng trình chỉnh sửa.</translation>
+        <translation>Perubahan akan diterapkan secara otomatis segera setelah editor ditutup.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4074"/>
         <source>Error Status: 0x%1 (%2)</source>
-        <translation>Tình trạng lỗi: 0x%1 (%2)</translation>
+        <translation>Status Kesalahan: 0x%1 (%2)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4075"/>
         <source>Unknown</source>
-        <translation>Không xác định</translation>
+        <translation>Tidak Diketahui</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4095"/>
         <source>A sandbox must be emptied before it can be deleted.</source>
-        <translation>Sandbox phải được làm trống trước khi có thể bị xóa.</translation>
+        <translation>Sandbox harus dikosongkan sebelum dapat dihapus.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4100"/>
         <source>Failed to copy box data files</source>
-        <translation>Không sao chép được tệp dữ liệu từ Sandbox</translation>
+        <translation>Gagal menyalin file data kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4105"/>
         <source>Failed to remove old box data files</source>
-        <translation>Không xóa được các tệp dữ liệu Sandbox cũ</translation>
+        <translation>Gagal menghapus file data kotak lama</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4123"/>
         <source>Unknown Error Status: 0x%1</source>
-        <translation>Trạng thái lỗi không xác định: 0x%1</translation>
+        <translation>Status Kesalahan Tidak Dikenal: 0x%1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4219"/>
         <source>Do you want to open %1 in a sandboxed or unsandboxed Web browser?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin membuka %1 di browser Web yang sandboxed atau tidak?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4223"/>
         <source>Sandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dalam Sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4224"/>
         <source>Unsandboxed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidak dalam Sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4390"/>
         <source>Case Sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>Peka Huruf Besar/Kecil</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4391"/>
         <source>RegExp</source>
-        <translation type="unfinished"></translation>
+        <translation>RegExp</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4392"/>
         <source>Highlight</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorot</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4393"/>
         <source>Close</source>
-        <translation type="unfinished">Đóng</translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4394"/>
         <source>&amp;Find ...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Temukan ...</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4395"/>
         <source>All columns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;About Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;Copyright (c) 2020-2024 by DavidXanatos&lt;/p&gt;</source>
-        <oldsource>&lt;h3&gt;About Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;Copyright (c) 2020-2023 by DavidXanatos&lt;/p&gt;</oldsource>
-        <translation type="obsolete">&lt;h3&gt;Về Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Phiên bản %1&lt;/p&gt;&lt;p&gt;Copyright (c) 2020-2022 by DavidXanatos&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>This copy of Sandboxie+ is certified for: %1</source>
-        <translation type="vanished">Bản sao Sandboxie + này được chứng nhận cho: %1</translation>
-    </message>
-    <message>
-        <source>Sandboxie+ is free for personal and non-commercial use.</source>
-        <translation type="vanished">Sandboxie + miễn phí cho mục đích sử dụng cá nhân và phi thương mại.</translation>
-    </message>
-    <message>
-        <source>Sandboxie-Plus is an open source continuation of Sandboxie.&lt;br /&gt;Visit &lt;a href=&quot;https://sandboxie-plus.com&quot;&gt;sandboxie-plus.com&lt;/a&gt; for more information.&lt;br /&gt;&lt;br /&gt;%3&lt;br /&gt;&lt;br /&gt;Driver version: %1&lt;br /&gt;Features: %2&lt;br /&gt;&lt;br /&gt;Icons from &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;</source>
-        <translation type="vanished">Sandboxie-Plus là phần tiếp theo mã nguồn mở của Sandboxie.&lt;br /&gt;Ghé thăm &lt;a href=&quot;https://sandboxie-plus.com&quot;&gt;sandboxie-plus.com&lt;/a&gt; để biết thêm thông tin.&lt;br /&gt;&lt;br /&gt;%3&lt;br /&gt;&lt;br /&gt;Phiên bản trình điều khiển: %1&lt;br /&gt;Đặc trưng: %2&lt;br /&gt;&lt;br /&gt;Biểu tượng từ &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;</translation>
+        <translation>Semua kolom</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4077"/>
         <source>Administrator rights are required for this operation.</source>
-        <translation>Quyền quản trị viên được yêu cầu cho hoạt động này.</translation>
+        <translation>Hak administrator diperlukan untuk operasi ini.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="479"/>
         <source>Vintage View (like SbieCtrl)</source>
-        <translation>Chế độ xem cổ điển (giống SbieCtrl)</translation>
+        <translation>Tampilan Klasik (seperti SbieCtrl)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="496"/>
         <source>Contribute to Sandboxie-Plus</source>
-        <translation type="unfinished"></translation>
+        <translation>Berkontribusi ke Sandboxie-Plus</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="514"/>
         <source>Import Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor Kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="517"/>
         <location filename="SandMan.cpp" line="661"/>
         <source>Run Sandboxed</source>
-        <translation type="unfinished">Chạy trong Sandbox</translation>
+        <translation>Jalankan dalam Sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="622"/>
         <source>Disable Message Popup</source>
-        <translation>Tắt thông báo bật lên</translation>
+        <translation>Nonaktifkan Popup Pesan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="522"/>
         <location filename="SandMan.cpp" line="677"/>
         <source>Is Window Sandboxed?</source>
         <oldsource>Is Window Sandboxed</oldsource>
-        <translation>Cửa sổ có trong Sandbox không?</translation>
+        <translation>Apakah Jendela Dalam Sandbox?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="195"/>
         <location filename="SandMan.cpp" line="2430"/>
         <source>Sandboxie-Plus Insider [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus Insider [%1]</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="497"/>
         <source>Troubleshooting Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panduan Pemecahan Masalah</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="568"/>
         <source>Show File Panel</source>
-        <translation>Hiển thị bảng điều khiển tệp</translation>
+        <translation>Tampilkan Panel File</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="632"/>
@@ -3970,88 +3797,88 @@ Please check if there is an update for sandboxie.</oldsource>
         <location filename="SandMan.cpp" line="1021"/>
         <location filename="SandMan.cpp" line="1022"/>
         <source>Edit Sandboxie.ini</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit Sandboxie.ini</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="635"/>
         <source>Edit Templates.ini</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit Templates.ini</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="637"/>
         <source>Edit Sandboxie-Plus.ini</source>
-        <translation type="unfinished"></translation>
+        <translation>Edit Sandboxie-Plus.ini</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="641"/>
         <location filename="SandMan.cpp" line="776"/>
         <source>Reload configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Muat Ulang Konfigurasi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="660"/>
         <source>&amp;File</source>
-        <translation>&amp;Tập tin</translation>
+        <translation>&amp;Berkas</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="678"/>
         <source>Resource Access Monitor</source>
-        <translation>Giám sát truy cập tài nguyên</translation>
+        <translation>Monitor Akses Sumber Daya</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="711"/>
         <source>Programs</source>
-        <translation>Các chương trình</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="712"/>
         <source>Files and Folders</source>
-        <translation>Tệp và Thư mục</translation>
+        <translation>Berkas dan Folder</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="740"/>
         <source>Import Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor Sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="743"/>
         <source>Set Container Folder</source>
-        <translation>Đặt thư mục vùng chứa</translation>
+        <translation>Atur Folder Kontainer</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="746"/>
         <source>Set Layout and Groups</source>
-        <translation>Đặt bố cục và nhóm</translation>
+        <translation>Atur Tata Letak dan Grup</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="748"/>
         <source>Reveal Hidden Boxes</source>
-        <translation>Tiết lộ các Sandbox ẩn</translation>
+        <translation>Tampilkan Kotak Tersembunyi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="754"/>
         <source>&amp;Configure</source>
-        <translation>&amp;Định cấu hình</translation>
+        <translation>&amp;Konfigurasi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="758"/>
         <source>Program Alerts</source>
-        <translation>Cảnh báo chương trình</translation>
+        <translation>Peringatan Program</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="760"/>
         <source>Windows Shell Integration</source>
-        <translation>Tích hợp Windows Shell</translation>
+        <translation>Integrasi Shell Windows</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="762"/>
         <source>Software Compatibility</source>
-        <translation>Khả năng tương thích phần mềm</translation>
+        <translation>Kompatibilitas Perangkat Lunak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="771"/>
         <source>Lock Configuration</source>
-        <translation>Khoá cấu hình</translation>
+        <translation>Kunci Konfigurasi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="790"/>
@@ -4059,79 +3886,110 @@ Please check if there is an update for sandboxie.</oldsource>
         <translation>Sandbox %1</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;sbie://update/package&quot; style=&quot;color: red;&quot;&gt;There is a new build of Sandboxie-Plus ready&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;sbie://update/package&quot; style=&quot;color: red;&quot;&gt;Có một bản dựng mới của Sandboxie-Plus đã sẵn sàng&lt;/a&gt;</translation>
+        <location filename="SandMan.cpp" line="833"/>
+        <source>New-Box Menu</source>
+        <translation>Menu Kotak Baru</translation>
     </message>
     <message>
-        <source>&lt;a href=&quot;sbie://update/check&quot; style=&quot;color: red;&quot;&gt;There is a new build of Sandboxie-Plus available&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;sbie://update/check&quot; style=&quot;color: red;&quot;&gt;Đã có bản dựng mới của Sandboxie-Plus&lt;/a&gt;</translation>
+        <location filename="SandMan.cpp" line="852"/>
+        <source>Edit-ini Menu</source>
+        <translation>Menu Edit-ini</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="901"/>
+        <source>Toolbar Items</source>
+        <translation>Item Bilah Alat</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="903"/>
+        <source>Reset Toolbar</source>
+        <translation>Setel Ulang Toolbar</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1086"/>
         <source>Click to download update</source>
-        <translation>Nhấp để tải xuống bản cập nhật</translation>
+        <translation>Klik untuk mengunduh pembaruan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1889"/>
         <source>No Force Process</source>
-        <translation>Không có quá trình cưỡng bức</translation>
+        <translation>Tidak Ada Proses Paksa</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2252"/>
         <source>Removed Shortcut: %1</source>
-        <translation type="unfinished">Đã xóa shortcut: %1</translation>
+        <translation>Pintasan Dihapus: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2341"/>
         <source>Updated Shortcut to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pintasan diperbarui ke: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2343"/>
         <source>Added Shortcut to: %1</source>
-        <translation type="unfinished">Shortcut đã thêm vào: %1</translation>
+        <translation>Pintasan Ditambahkan ke: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2420"/>
         <source>Auto removing sandbox %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Menghapus sandbox %1 secara otomatis</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2445"/>
         <source>Sandboxie-Plus Version: %1 (%2)</source>
-        <translation>Sandboxie-Plus Phiên bản: %1 (%2)</translation>
+        <translation>Versi Sandboxie-Plus: %1 (%2)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2447"/>
         <source>Data Directory: %1</source>
-        <translation>Thư mục dữ liệu: %1</translation>
+        <translation>Direktori Data: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2506"/>
         <source> for Personal use</source>
-        <translation> chỉ dùng với mục đích cá nhân</translation>
+        <translation> untuk Penggunaan Pribadi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2508"/>
         <source>   -   for Non-Commercial use ONLY</source>
-        <translation>   -   CHỈ sử dụng cho mục đích phi thương mại</translation>
+        <translation>   -   hanya untuk penggunaan non-komersial</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="2573"/>
+        <source>Your Windows build %1 exceeds the current support capabilities of your Sandboxie version, resulting in the disabling of token-based security isolation. Consequently, all applications will operate in application compartment mode without secure isolation.
+Please check if there is an update for sandboxie.</source>
+        <oldsource>Your Windows build %1 exceeds the current support capabilities of your Sandboxie version, resulting in the disabling of token-based security isolation. Consequently, all applications will operate in application compartment mode without secure isolation.
+Please check if there is an update for sandboxie.</oldsource>
+        <translation>Build Windows Anda %1 melebihi kemampuan dukungan saat ini dari versi Sandboxie Anda, sehingga isolasi keamanan berbasis token dinonaktifkan. Akibatnya, semua aplikasi akan berjalan dalam mode kompartemen aplikasi tanpa isolasi yang aman.
+Silakan periksa apakah ada pembaruan untuk Sandboxie.</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="2582"/>
+        <source>Don&apos;t show this message again for the current build.</source>
+        <translation>Jangan tampilkan pesan ini lagi untuk build saat ini.</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="2589"/>
+        <source>Your Windows build %1 exceeds the current known support capabilities of your Sandboxie version, Sandboxie will attempt to use the last-known offsets which may cause system instability.</source>
+        <translation>Build Windows Anda %1 melebihi kemampuan dukungan yang diketahui dari versi Sandboxie Anda, Sandboxie akan mencoba menggunakan offset terakhir yang diketahui yang mungkin menyebabkan ketidakstabilan sistem.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2895"/>
         <location filename="SandMan.cpp" line="2899"/>
         <location filename="SandMan.cpp" line="2901"/>
         <source> (%1)</source>
-        <translation type="unfinished"> (%1)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3006"/>
         <source>The program %1 started in box %2 will be terminated in 5 minutes because the box was configured to use features exclusively available to project supporters.</source>
-        <translation>Chương trình %1 bắt đầu trong Sandbox %2 sẽ kết thúc sau 5 phút vì Sandbox đã được định cấu hình để sử dụng các tính năng dành riêng cho những người ủng hộ dự án.</translation>
+        <translation>Program %1 yang dijalankan di kotak %2 akan dihentikan dalam 5 menit karena kotak tersebut dikonfigurasi untuk menggunakan fitur yang hanya tersedia untuk pendukung proyek.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3008"/>
         <source>The box %1 is configured to use features exclusively available to project supporters, these presets will be ignored.</source>
-        <translation>Sandbox %1 được định cấu hình để sử dụng các tính năng dành riêng cho những người ủng hộ dự án, các giá trị đặt trước này sẽ bị bỏ qua.</translation>
+        <translation>Kotak %1 dikonfigurasi untuk menggunakan fitur yang hanya tersedia untuk pendukung proyek, preset ini akan diabaikan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2989"/>
@@ -4139,47 +3997,47 @@ Please check if there is an update for sandboxie.</oldsource>
         <location filename="SandMan.cpp" line="3009"/>
         <location filename="SandMan.cpp" line="3096"/>
         <source>&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Become a project supporter&lt;/a&gt;, and receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;</source>
-        <translation>&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt; Trở thành người hỗ trợ dự án&lt;/a&gt;, và nhận được một &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt;</translation>
+        <translation>&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Jadilah pendukung proyek&lt;/a&gt;, dan dapatkan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="456"/>
         <source>Virtual Disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Disk Virtual</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="518"/>
         <location filename="SandMan.cpp" line="662"/>
         <source>Suspend All Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangguhkan Semua Proses</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="520"/>
         <location filename="SandMan.cpp" line="664"/>
         <source>Lock All Encrypted Boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunci Semua Kotak Terenkripsi</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="546"/>
         <location filename="SandMan.cpp" line="702"/>
         <source>Restart As Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulai Ulang Sebagai Admin</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1579"/>
         <source>This box will be &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;encrypted&lt;/a&gt; and &lt;a href=&quot;sbie://docs/black-box&quot;&gt;access to sandboxed processes will be guarded&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak ini akan &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;dienkripsi&lt;/a&gt; dan &lt;a href=&quot;sbie://docs/black-box&quot;&gt;akses ke proses sandbox akan dijaga&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1654"/>
         <location filename="SandMan.cpp" line="1685"/>
         <source>Which box you want to add in?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak mana yang ingin Anda tambahkan?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1654"/>
         <location filename="SandMan.cpp" line="1685"/>
         <source>Type the box name which you are going to set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ketik nama kotak yang akan Anda atur:</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1671"/>
@@ -4188,34 +4046,34 @@ Please check if there is an update for sandboxie.</oldsource>
         <location filename="SandMan.cpp" line="1692"/>
         <location filename="SandMan.cpp" line="1696"/>
         <source>Sandboxie-Plus Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Peringatan Sandboxie-Plus</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1671"/>
         <source>The value is not an existing directory or executable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai tersebut bukan direktori atau file yang dapat dieksekusi yang ada.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1676"/>
         <location filename="SandMan.cpp" line="1692"/>
         <source>You typed a wrong box name! Nothing was changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda mengetik nama kotak yang salah! Tidak ada yang diubah.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="1680"/>
         <location filename="SandMan.cpp" line="1696"/>
         <source>User canceled this operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengguna membatalkan operasi ini.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2031"/>
         <source>USB sandbox not found; creating: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox USB tidak ditemukan; membuat: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2375"/>
         <source>Executing OnBoxTerminate: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Menjalankan OnBoxTerminate: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2607"/>
@@ -4223,126 +4081,128 @@ Please check if there is an update for sandboxie.</oldsource>
 Do you want to disable Windows Updates scanning from the software compatibility detection?</source>
         <oldsource>Sandman die not finish enumerating installed windows updates last time, it probably hang.
 Do you want to disable Windows Updates scanning from the the software compatibility detection?</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sandman tidak menyelesaikan enumerasi pembaruan Windows yang terpasang terakhir kali, kemungkinan programnya macet.
+Apakah Anda ingin menonaktifkan pemindaian Pembaruan Windows dari deteksi kompatibilitas perangkat lunak?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2809"/>
         <source>Failed to configure hotkey %1, error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengonfigurasi hotkey %1, kesalahan: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2988"/>
         <source>The box %1 is configured to use features exclusively available to project supporters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak %1 dikonfigurasi untuk menggunakan fitur yang hanya tersedia untuk pendukung proyek.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2993"/>
         <source>The box %1 is configured to use features which require an &lt;b&gt;advanced&lt;/b&gt; supporter certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotak %1 dikonfigurasi untuk menggunakan fitur yang memerlukan sertifikat pendukung &lt;b&gt;lanjutan&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="2995"/>
         <location filename="SandMan.cpp" line="3094"/>
         <source>&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-upgrade-cert&quot;&gt;Upgrade your Certificate&lt;/a&gt; to unlock advanced features.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-upgrade-cert&quot;&gt;Tingkatkan Sertifikat Anda&lt;/a&gt; untuk membuka fitur lanjutan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3090"/>
         <source>The selected feature requires an &lt;b&gt;advanced&lt;/b&gt; supporter certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur yang dipilih memerlukan sertifikat pendukung &lt;b&gt;lanjutan&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3092"/>
         <source>&lt;br /&gt;you need to be on the Great Patreon level or higher to unlock this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;Anda perlu berada di tingkat Great Patreon atau lebih tinggi untuk membuka fitur ini.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3104"/>
         <source>The selected feature set is only available to project supporters.&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Become a project supporter&lt;/a&gt;, and receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur yang dipilih hanya tersedia untuk pendukung proyek.&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;Jadilah pendukung proyek&lt;/a&gt;, dan dapatkan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3150"/>
         <source>The certificate you are attempting to use has been blocked, meaning it has been invalidated for cause. Any attempt to use it constitutes a breach of its terms of use!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat yang Anda coba gunakan telah diblokir, artinya telah dinyatakan tidak berlaku karena suatu alasan. Setiap upaya untuk menggunakannya merupakan pelanggaran terhadap ketentuan penggunaannya!</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3162"/>
         <source>The Certificate Signature is invalid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanda tangan sertifikat tidak valid!</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3163"/>
         <source>The Certificate is not suitable for this product.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat ini tidak cocok untuk produk ini.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3164"/>
         <source>The Certificate is node locked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat ini terkunci pada node tertentu.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3168"/>
         <source>The support certificate is not valid.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat dukungan tidak valid.
+Kesalahan: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3232"/>
         <source>The evaluation period has expired!!!</source>
         <oldsource>The evaluation periode has expired!!!</oldsource>
-        <translation>Thời hạn đánh giá đã hết!!!</translation>
+        <translation>Masa evaluasi telah berakhir!!!</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3334"/>
         <location filename="SandMan.cpp" line="3359"/>
         <source>Don&apos;t ask in future</source>
-        <translation type="unfinished">Không hỏi trong tương lai</translation>
+        <translation>Jangan tanyakan lagi di masa depan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3358"/>
         <source>Do you want to terminate all processes in encrypted sandboxes, and unmount them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin menghentikan semua proses di sandbox terenkripsi, dan melepaskannya?</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3384"/>
         <source>Please enter the duration, in seconds, for disabling Forced Programs rules.</source>
-        <translation>Vui lòng nhập thời lượng, tính bằng giây, để tắt các quy tắc Chương trình bắt buộc.</translation>
+        <translation>Silakan masukkan durasi, dalam detik, untuk menonaktifkan aturan Program Paksa.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3399"/>
         <source>No Recovery</source>
-        <translation>Không có phục hồi</translation>
+        <translation>Tidak Ada Pemulihan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3405"/>
         <source>No Messages</source>
-        <translation>Không có tin nhắn</translation>
+        <translation>Tidak Ada Pesan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3461"/>
         <source>&lt;b&gt;ERROR:&lt;/b&gt; The Sandboxie-Plus Manager (SandMan.exe) does not have a valid signature (SandMan.exe.sig). Please download a trusted release from the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get&quot;&gt;official Download page&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;ERROR:&lt;/b&gt; Sandboxie-Plus Manager (SandMan.exe) tidak memiliki tanda tangan yang valid (SandMan.exe.sig). Silakan unduh rilis tepercaya dari &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get&quot;&gt;halaman Unduhan resmi&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3564"/>
         <source>Maintenance operation failed (%1)</source>
-        <translation>Hoạt động bảo trì không thành công (%1)</translation>
+        <translation>Operasi pemeliharaan gagal (%1)</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3569"/>
         <source>Maintenance operation completed</source>
-        <translation>Hoạt động bảo trì đã hoàn thành</translation>
+        <translation>Operasi pemeliharaan selesai</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3710"/>
         <source>In the Plus UI, this functionality has been integrated into the main sandbox list view.</source>
-        <translation>Trong giao diện người dùng Plus, chức năng này đã được tích hợp vào chế độ xem danh sách Sandbox chính. </translation>
+        <translation>Di antarmuka Plus, fungsi ini telah diintegrasikan ke dalam tampilan daftar sandbox utama.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3711"/>
         <source>Using the box/group context menu, you can move boxes and groups to other groups. You can also use drag and drop to move the items around. Alternatively, you can also use the arrow keys while holding ALT down to move items up and down within their group.&lt;br /&gt;You can create new boxes and groups from the Sandbox menu.</source>
-        <translation>Sử dụng menu ngữ cảnh Sandbox/nhóm, bạn có thể di chuyển các Sandbox và nhóm sang các nhóm khác. Bạn cũng có thể sử dụng kéo và thả để di chuyển các mục xung quanh. Ngoài ra, bạn cũng có thể sử dụng các phím mũi tên trong khi giữ ALT để di chuyển các mục lên và xuống trong nhóm của chúng.&lt;br /&gt;Bạn có thể tạo các Sandbox và nhóm mới từ menu Sandbox.</translation>
+        <translation>Dengan menggunakan menu konteks kotak/grup, Anda dapat memindahkan kotak dan grup ke grup lain. Anda juga dapat menggunakan drag and drop untuk memindahkan item. Sebagai alternatif, Anda juga dapat menggunakan tombol panah sambil menahan ALT untuk memindahkan item ke atas dan ke bawah dalam grup mereka.&lt;br /&gt;Anda dapat membuat kotak dan grup baru dari menu Sandbox.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3867"/>
@@ -4350,284 +4210,281 @@ Error: %1</source>
 This file is part of Sandboxie and all change done to it will be reverted next time Sandboxie is updated.</source>
         <oldsource>You are about to edit the Templates.ini, thsi is generally not recommeded.
 This file is part of Sandboxie and all changed done to it will be reverted next time Sandboxie is updated.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan mengedit Templates.ini, hal ini umumnya tidak disarankan.
+File ini adalah bagian dari Sandboxie dan semua perubahan yang dilakukan padanya akan dikembalikan saat Sandboxie diperbarui berikutnya.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3947"/>
         <source>Sandboxie config has been reloaded</source>
-        <translation>Cấu hình Sandboxie đã được tải lại</translation>
+        <translation>Konfigurasi Sandboxie telah dimuat ulang</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4078"/>
         <source>Failed to execute: %1</source>
-        <translation>Không thực hiện được: %1</translation>
+        <translation>Gagal menjalankan: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4079"/>
         <source>Failed to connect to the driver</source>
-        <translation>Không kết nối được với trình điều khiển</translation>
+        <translation>Gagal terhubung ke driver</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4080"/>
         <source>Failed to communicate with Sandboxie Service: %1</source>
-        <translation>Không kết nối được với Dịch vụ Sandboxie: %1</translation>
+        <translation>Gagal berkomunikasi dengan Layanan Sandboxie: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4081"/>
         <source>An incompatible Sandboxie %1 was found. Compatible versions: %2</source>
-        <translation>Không tương thích Sandboxie %1 đã được tìm thấy. Các phiên bản tương thích: %2</translation>
+        <translation>Sandboxie %1 yang tidak kompatibel ditemukan. Versi yang kompatibel: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4082"/>
         <source>Can&apos;t find Sandboxie installation path.</source>
-        <translation>Không thể tìm thấy đường dẫn cài đặt Sandboxie.</translation>
+        <translation>Tidak dapat menemukan path instalasi Sandboxie.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4083"/>
         <source>Failed to copy configuration from sandbox %1: %2</source>
-        <translation>Không sao chép được cấu hình từ Sandbox %1: %2</translation>
+        <translation>Gagal menyalin konfigurasi dari sandbox %1: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4084"/>
         <source>A sandbox of the name %1 already exists</source>
-        <translation>Sandbox tên %1 đã tồn tại</translation>
+        <translation>Sandbox dengan nama %1 sudah ada</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4085"/>
         <source>Failed to delete sandbox %1: %2</source>
-        <translation>Không xóa được Sandbox %1: %2</translation>
+        <translation>Gagal menghapus sandbox %1: %2</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4086"/>
         <source>The sandbox name can not be longer than 32 characters.</source>
-        <translation>Tên Sandbox không được dài hơn 32 ký tự.</translation>
+        <translation>Nama sandbox tidak boleh lebih dari 32 karakter.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4087"/>
         <source>The sandbox name can not be a device name.</source>
-        <translation>Tên Sandbox không được là tên thiết bị.</translation>
+        <translation>Nama sandbox tidak boleh berupa nama perangkat.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4088"/>
         <source>The sandbox name can contain only letters, digits and underscores which are displayed as spaces.</source>
-        <translation>Tên Sandbox chỉ có thể chứa các chữ cái, chữ số và dấu gạch dưới được hiển thị dưới dạng dấu cách. </translation>
+        <translation>Nama sandbox hanya boleh berisi huruf, angka, dan garis bawah yang akan ditampilkan sebagai spasi.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4089"/>
         <source>Failed to terminate all processes</source>
-        <translation>Không thể chấm dứt tất cả các tiến trình</translation>
+        <translation>Gagal menghentikan semua proses</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4090"/>
         <source>Delete protection is enabled for the sandbox</source>
-        <translation>Xóa bảo vệ được bật cho Sandbox</translation>
+        <translation>Perlindungan penghapusan diaktifkan untuk sandbox</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4091"/>
         <source>All sandbox processes must be stopped before the box content can be deleted</source>
-        <translation>Tất cả các quá trình Sandbox phải được dừng lại trước khi có thể xóa nội dung Sandbox</translation>
+        <translation>Semua proses sandbox harus dihentikan sebelum konten kotak dapat dihapus</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4092"/>
         <source>Error deleting sandbox folder: %1</source>
-        <translation>Lỗi khi xóa thư mục Sandbox: %1</translation>
+        <translation>Kesalahan saat menghapus folder sandbox: %1</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4093"/>
         <source>All processes in a sandbox must be stopped before it can be renamed.</source>
         <oldsource>A all processes in a sandbox must be stopped before it can be renamed.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Semua proses di dalam sandbox harus dihentikan sebelum dapat diubah namanya.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4096"/>
         <source>Failed to move directory &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation>Không di chuyển được thư mục &apos;%1&apos; to &apos;%2&apos;</translation>
+        <translation>Gagal memindahkan direktori &apos;%1&apos; ke &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4097"/>
         <source>Failed to move box image &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal memindahkan image kotak &apos;%1&apos; ke &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4098"/>
         <source>This Snapshot operation can not be performed while processes are still running in the box.</source>
-        <translation>Không thể thực hiện thao tác Bản ghi nhanh này trong khi các quy trình vẫn đang chạy trong Sandbox.</translation>
+        <translation>Operasi Snapshot ini tidak dapat dilakukan saat masih ada proses yang berjalan di dalam kotak.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4099"/>
         <source>Failed to create directory for new snapshot</source>
-        <translation>Không tạo được thư mục cho Bản ghi nhanh mới</translation>
+        <translation>Gagal membuat direktori untuk snapshot baru</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4101"/>
         <source>Snapshot not found</source>
-        <translation>Bản ghi nhanh không tìm thấy</translation>
+        <translation>Snapshot tidak ditemukan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4102"/>
         <source>Error merging snapshot directories &apos;%1&apos; with &apos;%2&apos;, the snapshot has not been fully merged.</source>
-        <translation>Lỗi khi hợp nhất các thư mục bản ghi nhanh &apos;%1&apos; với &apos;%2&apos;, bản ghi nhanh chưa được hợp nhất hoàn toàn.</translation>
+        <translation>Kesalahan saat menggabungkan direktori snapshot &apos;%1&apos; dengan &apos;%2&apos;, snapshot belum sepenuhnya digabungkan.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4103"/>
         <source>Failed to remove old snapshot directory &apos;%1&apos;</source>
-        <translation>Không xóa được thư mục bản ghi nhanh cũ &apos;%1&apos;</translation>
+        <translation>Gagal menghapus direktori snapshot lama &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4104"/>
         <source>Can&apos;t remove a snapshot that is shared by multiple later snapshots</source>
-        <translation>Không thể xóa bản ghi nhanh được nhiều bản ghi nhanh sau này chia sẻ</translation>
+        <translation>Tidak dapat menghapus snapshot yang dibagikan oleh beberapa snapshot berikutnya</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4106"/>
         <source>You are not authorized to update configuration in section &apos;%1&apos;</source>
-        <translation>Bạn không được phép cập nhật cấu hình trong phần &apos;%1&apos;</translation>
+        <translation>Anda tidak berwenang untuk memperbarui konfigurasi di bagian &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4107"/>
         <source>Failed to set configuration setting %1 in section %2: %3</source>
-        <translation>Không đặt được cài đặt cấu hình %1 trong phần %2: %3</translation>
+        <translation>Gagal mengatur pengaturan konfigurasi %1 di bagian %2: %3</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4108"/>
         <source>Can not create snapshot of an empty sandbox</source>
-        <translation>Không thể tạo ảnh chụp nhanh của một Sandbox trống</translation>
+        <translation>Tidak dapat membuat snapshot dari sandbox kosong</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4109"/>
         <source>A sandbox with that name already exists</source>
-        <translation>Một Sandbox có tên đó đã tồn tại</translation>
+        <translation>Sandbox dengan nama tersebut sudah ada</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4110"/>
         <source>The config password must not be longer than 64 characters</source>
-        <translation>Mật khẩu cấu hình không được dài hơn 64 ký tự</translation>
+        <translation>Kata sandi konfigurasi tidak boleh lebih dari 64 karakter</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4111"/>
         <source>The operation was canceled by the user</source>
-        <translation>Thao tác đã bị người dùng hủy bỏ</translation>
+        <translation>Operasi dibatalkan oleh pengguna</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4112"/>
         <source>The content of an unmounted sandbox can not be deleted</source>
         <oldsource>The content of an un mounted sandbox can not be deleted</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Konten dari sandbox yang tidak ter-mount tidak dapat dihapus</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4114"/>
         <source>%1</source>
-        <translation type="unfinished">%1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4116"/>
         <source>Import/Export not available, 7z.dll could not be loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor/Ekspor tidak tersedia, 7z.dll tidak dapat dimuat</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4117"/>
         <source>Failed to create the box archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat arsip kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4118"/>
         <source>Failed to open the 7z archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuka arsip 7z</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4119"/>
         <source>Failed to unpack the box archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengekstrak arsip kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4120"/>
         <source>The selected 7z file is NOT a box archive</source>
-        <translation type="unfinished"></translation>
+        <translation>File 7z yang dipilih BUKAN arsip kotak</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4121"/>
         <source>Failed to copy directory &apos;%1&apos; to &apos;%2&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menyalin direktori &apos;%1&apos; ke &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4147"/>
         <source>Operation failed for %1 item(s).</source>
-        <translation>Thao tác không thành công cho %1 mục.</translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="4448"/>
-        <source>&lt;h3&gt;About Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="4456"/>
-        <source>This copy of Sandboxie-Plus is certified for: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="4458"/>
-        <source>Sandboxie-Plus is free for personal and non-commercial use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="SandMan.cpp" line="4462"/>
-        <source>Sandboxie-Plus is an open source continuation of Sandboxie.&lt;br /&gt;Visit &lt;a href=&quot;https://sandboxie-plus.com&quot;&gt;sandboxie-plus.com&lt;/a&gt; for more information.&lt;br /&gt;&lt;br /&gt;%2&lt;br /&gt;&lt;br /&gt;Features: %3&lt;br /&gt;&lt;br /&gt;Installation: %1&lt;br /&gt;SbieDrv.sys: %4&lt;br /&gt; SbieSvc.exe: %5&lt;br /&gt; SbieDll.dll: %6&lt;br /&gt;&lt;br /&gt;Icons from &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you want to open %1 in a sandboxed (yes) or unsandboxed (no) Web browser?</source>
-        <translation type="vanished">Bạn muốn mở %1 trong trình duyệt Web có Sandbox (có) hay không có Sandbox (không)?</translation>
+        <translation>Operasi gagal untuk %1 item.</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4220"/>
         <source>Remember choice for later.</source>
-        <translation>Hãy nhớ lựa chọn cho sau này.</translation>
+        <translation>Ingat pilihan untuk nanti.</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="4448"/>
+        <source>&lt;h3&gt;About Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Version %1&lt;/p&gt;&lt;p&gt;</source>
+        <translation>&lt;h3&gt;Tentang Sandboxie-Plus&lt;/h3&gt;&lt;p&gt;Versi %1&lt;/p&gt;&lt;p&gt;</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="4456"/>
+        <source>This copy of Sandboxie-Plus is certified for: %1</source>
+        <translation>Salinan Sandboxie-Plus ini disertifikasi untuk: %1</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="4458"/>
+        <source>Sandboxie-Plus is free for personal and non-commercial use.</source>
+        <translation>Sandboxie-Plus gratis untuk penggunaan pribadi dan non-komersial.</translation>
+    </message>
+    <message>
+        <location filename="SandMan.cpp" line="4462"/>
+        <source>Sandboxie-Plus is an open source continuation of Sandboxie.&lt;br /&gt;Visit &lt;a href=&quot;https://sandboxie-plus.com&quot;&gt;sandboxie-plus.com&lt;/a&gt; for more information.&lt;br /&gt;&lt;br /&gt;%2&lt;br /&gt;&lt;br /&gt;Features: %3&lt;br /&gt;&lt;br /&gt;Installation: %1&lt;br /&gt;SbieDrv.sys: %4&lt;br /&gt; SbieSvc.exe: %5&lt;br /&gt; SbieDll.dll: %6&lt;br /&gt;&lt;br /&gt;Icons from &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;</source>
+        <translation>Sandboxie-Plus adalah kelanjutan open source dari Sandboxie.&lt;br /&gt;Kunjungi &lt;a href=&quot;https://sandboxie-plus.com&quot;&gt;sandboxie-plus.com&lt;/a&gt; untuk informasi lebih lanjut.&lt;br /&gt;&lt;br /&gt;%2&lt;br /&gt;&lt;br /&gt;Fitur: %3&lt;br /&gt;&lt;br /&gt;Instalasi: %1&lt;br /&gt;SbieDrv.sys: %4&lt;br /&gt; SbieSvc.exe: %5&lt;br /&gt; SbieDll.dll: %6&lt;br /&gt;&lt;br /&gt;Ikon dari &lt;a href=&quot;https://icons8.com&quot;&gt;icons8.com&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3237"/>
         <source>The supporter certificate is not valid for this build, please get an updated certificate</source>
-        <translation>Chứng chỉ hỗ trợ không hợp lệ cho bản dựng này, vui lòng nhận chứng chỉ cập nhật</translation>
+        <translation>Sertifikat pendukung tidak berlaku untuk build ini, silakan dapatkan sertifikat yang diperbarui</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3240"/>
         <source>The supporter certificate has expired%1, please get an updated certificate</source>
         <oldsource>The supporter certificate is expired %1 days ago, please get an updated certificate</oldsource>
-        <translation>Chứng chỉ người hỗ trợ đã hết hạn %1, vui lòng nhận chứng chỉ cập nhật</translation>
+        <translation>Sertifikat pendukung telah kedaluwarsa%1, silakan dapatkan sertifikat yang diperbarui</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3241"/>
         <source>, but it remains valid for the current build</source>
-        <translation>, nhưng nó vẫn có giá trị cho bản dựng hiện tại</translation>
+        <translation>, tetapi tetap berlaku untuk build saat ini</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="3243"/>
         <source>The supporter certificate will expire in %1 days, please get an updated certificate</source>
-        <translation>Chứng chỉ người hỗ trợ sẽ hết hạn sau %1 ngày, xin vui lòng nhận được một chứng chỉ cập nhật</translation>
+        <translation>Sertifikat pendukung akan kedaluwarsa dalam %1 hari, silakan dapatkan sertifikat yang diperbarui</translation>
     </message>
     <message>
         <location filename="SbieFindWnd.cpp" line="88"/>
         <source>The selected window is running as part of program %1 in sandbox %2</source>
-        <translation>Cửa sổ đã chọn đang chạy như một phần của chương trình %1 trong Sandbox %2</translation>
+        <translation>Jendela yang dipilih berjalan sebagai bagian dari program %1 di sandbox %2</translation>
     </message>
     <message>
         <location filename="SbieFindWnd.cpp" line="95"/>
         <source>The selected window is not running as part of any sandboxed program.</source>
-        <translation>Cửa sổ đã chọn không chạy như một phần của bất kỳ chương trình Sandbox nào.</translation>
+        <translation>Jendela yang dipilih tidak berjalan sebagai bagian dari program sandbox apa pun.</translation>
     </message>
     <message>
         <location filename="SbieFindWnd.cpp" line="134"/>
         <source>Drag the Finder Tool over a window to select it, then release the mouse to check if the window is sandboxed.</source>
-        <translation>Kéo Công cụ Window Finder qua một cửa sổ để chọn nó, sau đó thả chuột để kiểm tra xem cửa sổ có trong Sandbox hay không.</translation>
+        <translation>Seret Alat Finder ke atas jendela untuk memilihnya, lalu lepaskan mouse untuk memeriksa apakah jendela tersebut berada dalam sandbox.</translation>
     </message>
     <message>
         <location filename="SbieFindWnd.cpp" line="204"/>
         <source>Sandboxie-Plus - Window Finder</source>
-        <translation>Sandboxie-Plus - Window Finder</translation>
+        <translation>Sandboxie-Plus - Pencari Jendela</translation>
     </message>
     <message>
         <location filename="main.cpp" line="206"/>
         <source>Sandboxie Manager can not be run sandboxed!</source>
-        <translation>Sandboxie Manager không thể chạy được Sandbox!</translation>
+        <translation>Sandboxie Manager tidak dapat dijalankan di dalam sandbox!</translation>
     </message>
 </context>
 <context>
@@ -4635,42 +4492,42 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Models/SbieModel.cpp" line="160"/>
         <source>Box Group</source>
-        <translation>Nhóm Sandbox</translation>
+        <translation>Grup Kotak</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="349"/>
         <source>Empty</source>
-        <translation>Trống rỗng</translation>
+        <translation>Kosong</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="603"/>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="604"/>
         <source>Process ID</source>
-        <translation>Tiến trình ID</translation>
+        <translation>ID Proses</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="605"/>
         <source>Status</source>
-        <translation>Trạng thái</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="606"/>
         <source>Title</source>
-        <translation>Tiêu đề</translation>
+        <translation>Judul</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="607"/>
         <source>Info</source>
-        <translation>Thông tin</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="Models/SbieModel.cpp" line="611"/>
         <source>Path / Command Line</source>
-        <translation>Đường dẫn / Dòng lệnh</translation>
+        <translation>Path / Baris Perintah</translation>
     </message>
 </context>
 <context>
@@ -4678,7 +4535,7 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Engine/SbieObject.cpp" line="204"/>
         <source>Run &amp;Un-Sandboxed</source>
-        <translation type="unfinished">Chạy ngoài Sandbox</translation>
+        <translation>Jalankan &amp;Tanpa Sandbox</translation>
     </message>
 </context>
 <context>
@@ -4686,47 +4543,47 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbieProcess.cpp" line="58"/>
         <source>Sbie RpcSs</source>
-        <translation>Sbie RpcSs</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="59"/>
         <source>Sbie DcomLaunch</source>
-        <translation>Sbie DcomLaunch</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="60"/>
         <source>Sbie Crypto</source>
-        <translation>Sbie Crypto</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="61"/>
         <source>Sbie WuauServ</source>
-        <translation>Sbie WuauServ</translation>
+        <translation>Sbie Wuauserv</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="62"/>
         <source>Sbie BITS</source>
-        <translation>Sbie BITS</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="63"/>
         <source>Sbie Svc</source>
-        <translation>Sbie Svc</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="64"/>
         <source>MSI Installer</source>
-        <translation>MSI Installer</translation>
+        <translation>Penginstal MSI</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="65"/>
         <source>Trusted Installer</source>
-        <translation>Trusted Installer</translation>
+        <translation>Penginstal Tepercaya</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="66"/>
         <source>Windows Update</source>
-        <translation>Windows Update</translation>
+        <translation>Pembaruan Windows</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="67"/>
@@ -4736,12 +4593,12 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbieProcess.cpp" line="68"/>
         <source>Internet Explorer</source>
-        <translation>Internet Explorer</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="69"/>
         <source>Firefox</source>
-        <translation>Firefox</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="70"/>
@@ -4751,83 +4608,83 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbieProcess.cpp" line="71"/>
         <source>Winamp</source>
-        <translation>Winamp</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="72"/>
         <source>KMPlayer</source>
-        <translation>KMPlayer</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="73"/>
         <source>Windows Live Mail</source>
-        <translation>Windows Live Mail</translation>
+        <translation>Surat Windows Live</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="74"/>
         <source>Service Model Reg</source>
-        <translation>Service Model Reg</translation>
+        <translation>Registrasi Model Layanan</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="75"/>
         <source>RunDll32</source>
-        <translation>RunDll32</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="76"/>
         <location filename="SbieProcess.cpp" line="77"/>
         <source>DllHost</source>
-        <translation>DllHost</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="78"/>
         <source>Windows Ink Services</source>
-        <translation>Windows Ink Services</translation>
+        <translation>Layanan Windows Ink</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="79"/>
         <source>Chromium Based</source>
-        <translation>Chromium Based</translation>
+        <translation>Berbasis Chromium</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="80"/>
         <source>Google Updater</source>
-        <translation>Google Updater</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="81"/>
         <source>Acrobat Reader</source>
-        <translation>Acrobat Reader</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="82"/>
         <source>MS Outlook</source>
-        <translation>MS Outlook</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="83"/>
         <source>MS Excel</source>
-        <translation>MS Excel</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="84"/>
         <source>Flash Player</source>
-        <translation>Flash Player</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="85"/>
         <source>Firefox Plugin Container</source>
-        <translation>Firefox Plugin Container</translation>
+        <translation>Kontainer Plugin Firefox</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="86"/>
         <source>Generic Web Browser</source>
-        <translation>Generic Web Browser</translation>
+        <translation>Peramban Web Umum</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="87"/>
         <source>Generic Mail Client</source>
-        <translation>Generic Mail Client</translation>
+        <translation>Klien Email Umum</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="88"/>
@@ -4837,42 +4694,42 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbieProcess.cpp" line="98"/>
         <source>Terminated</source>
-        <translation>Đã chấm dứt</translation>
+        <translation>Dihentikan</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="100"/>
         <source>Suspended</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditangguhkan</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="104"/>
         <source>Forced </source>
-        <translation>Bị ép </translation>
+        <translation>Dipaksa </translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="102"/>
         <source>Running</source>
-        <translation>Đang chạy</translation>
+        <translation>Sedang Berjalan</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="108"/>
         <source> Elevated</source>
-        <translation type="unfinished"></translation>
+        <translation> Ditinggikan</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="110"/>
         <source> as System</source>
-        <translation type="unfinished"></translation>
+        <translation> sebagai Sistem</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="113"/>
         <source> in session %1</source>
-        <translation> trong phiên %1</translation>
+        <translation> dalam sesi %1</translation>
     </message>
     <message>
         <location filename="SbieProcess.cpp" line="119"/>
         <source> (%1)</source>
-        <translation> (%1)</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4880,38 +4737,38 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="SbiePlusAPI.cpp" line="1271"/>
         <source>Failed to initialize COM</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menginisialisasi COM</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1277"/>
         <source>Failed to create update session</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat sesi pembaruan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1283"/>
         <source>Failed to create update searcher</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat pencari pembaruan</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1289"/>
         <source>Failed to set search options</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengatur opsi pencarian</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1297"/>
         <source>Failed to enumerate installed Windows updates</source>
         <oldsource>Failed to search for updates</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gagal menghitung pembaruan Windows yang terpasang</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1303"/>
         <source>Failed to retrieve update list from search result</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengambil daftar pembaruan dari hasil pencarian</translation>
     </message>
     <message>
         <location filename="SbiePlusAPI.cpp" line="1310"/>
         <source>Failed to get update count</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mendapatkan jumlah pembaruan</translation>
     </message>
 </context>
 <context>
@@ -4920,58 +4777,58 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Views/SbieView.cpp" line="156"/>
         <location filename="Views/SbieView.cpp" line="291"/>
         <source>Create New Box</source>
-        <translation>Tạo Sandbox mới</translation>
+        <translation>Buat Box Baru</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="414"/>
         <source>Remove Group</source>
-        <translation>Xóa nhóm</translation>
+        <translation>Hapus Grup</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="167"/>
         <location filename="Views/SbieView.cpp" line="302"/>
         <source>Run</source>
-        <translation>Chạy</translation>
+        <translation>Jalankan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="172"/>
         <source>Run Program</source>
-        <translation>Chạy chương trình</translation>
+        <translation>Jalankan Program</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="173"/>
         <source>Run from Start Menu</source>
-        <translation>Chạy từ Start Menu</translation>
+        <translation>Jalankan Dari Menu Start</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="184"/>
         <source>Default Web Browser</source>
-        <translation>Trình duyệt web mặc định</translation>
+        <translation>Peramban Web Default</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="185"/>
         <source>Default eMail Client</source>
-        <translation>Ứng dụng eMail mặc định</translation>
+        <translation>Klien Email Default</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="187"/>
         <source>Windows Explorer</source>
-        <translation>Windows Explorer</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="188"/>
         <source>Registry Editor</source>
-        <translation>Registry Editor</translation>
+        <translation>Editor Registri</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="189"/>
         <source>Programs and Features</source>
-        <translation>Programs and Features</translation>
+        <translation>Program dan Fitur</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="200"/>
         <source>Terminate All Programs</source>
-        <translation>Chấm dứt tất cả các chương trình</translation>
+        <translation>Hentikan Semua Program</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="107"/>
@@ -4980,206 +4837,206 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Views/SbieView.cpp" line="354"/>
         <location filename="Views/SbieView.cpp" line="393"/>
         <source>Create Shortcut</source>
-        <translation>Tạo Shortcut</translation>
+        <translation>Buat Pintasan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="212"/>
         <location filename="Views/SbieView.cpp" line="337"/>
         <source>Explore Content</source>
-        <translation>Khám phá nội dung</translation>
+        <translation>Jelajahi Konten</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="214"/>
         <location filename="Views/SbieView.cpp" line="344"/>
         <source>Snapshots Manager</source>
-        <translation>Trình quản lý bản ghi nhanh</translation>
+        <translation>Pengelola Snapshot</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="204"/>
         <source>Recover Files</source>
-        <translation>Khôi phục tập tin</translation>
+        <translation>Pulihkan File</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="205"/>
         <location filename="Views/SbieView.cpp" line="336"/>
         <source>Delete Content</source>
-        <translation>Xóa nội dung</translation>
+        <translation>Hapus Konten</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="221"/>
         <source>Sandbox Presets</source>
-        <translation>Cài đặt trước Sandbox</translation>
+        <translation>Preset Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="223"/>
         <source>Ask for UAC Elevation</source>
-        <translation>Yêu cầu quyền UAC</translation>
+        <translation>Minta Kenaikan UAC</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="224"/>
         <source>Drop Admin Rights</source>
-        <translation>Bỏ quyền quản trị viên</translation>
+        <translation>Lepaskan Hak Admin</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="225"/>
         <source>Emulate Admin Rights</source>
-        <translation>Giả lập quyền quản trị</translation>
+        <translation>Emulasikan Hak Admin</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="233"/>
         <source>Block Internet Access</source>
-        <translation>Chặn truy cập Internet</translation>
+        <translation>Blokir Akses Internet</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="235"/>
         <source>Allow Network Shares</source>
-        <translation>Cho phép Chia sẻ Mạng</translation>
+        <translation>Izinkan Berbagi Jaringan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="216"/>
         <source>Sandbox Options</source>
-        <translation>Tùy chọn Sandbox</translation>
+        <translation>Opsi Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="183"/>
         <source>Standard Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikasi Standar</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="207"/>
         <source>Browse Files</source>
-        <translation>Duyệt qua tệp</translation>
+        <translation>Jelajahi File</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="244"/>
         <location filename="Views/SbieView.cpp" line="342"/>
         <source>Sandbox Tools</source>
-        <translation>Công cụ Sandbox</translation>
+        <translation>Peralatan Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="245"/>
         <source>Duplicate Box Config</source>
-        <translation>Cấu hình Sandbox trùng lặp</translation>
+        <translation>Duplikasi Konfigurasi Box</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="250"/>
         <location filename="Views/SbieView.cpp" line="357"/>
         <source>Rename Sandbox</source>
-        <translation>Đổi tên Sandbox</translation>
+        <translation>Ubah Nama Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="251"/>
         <location filename="Views/SbieView.cpp" line="358"/>
         <source>Move Sandbox</source>
-        <translation>Di chuyển Sandbox</translation>
+        <translation>Pindahkan Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="262"/>
         <location filename="Views/SbieView.cpp" line="369"/>
         <source>Remove Sandbox</source>
-        <translation>Xoá Sandbox</translation>
+        <translation>Hapus Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="267"/>
         <location filename="Views/SbieView.cpp" line="391"/>
         <source>Terminate</source>
-        <translation>Chấm dứt</translation>
+        <translation>Hentikan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="270"/>
         <source>Preset</source>
-        <translation>Đặt trước</translation>
+        <translation>Preset</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="105"/>
         <location filename="Views/SbieView.cpp" line="271"/>
         <source>Pin to Run Menu</source>
-        <translation>Ghim vào menu Chạy</translation>
+        <translation>Sematkan ke Menu Jalankan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="273"/>
         <source>Block and Terminate</source>
-        <translation>Chặn và chấm dứt</translation>
+        <translation>Blokir dan Hentikan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="277"/>
         <source>Allow internet access</source>
-        <translation>Cho phép truy cập internet</translation>
+        <translation>Izinkan akses internet</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="279"/>
         <source>Force into this sandbox</source>
-        <translation>Buộc vào Sandbox này</translation>
+        <translation>Paksa ke dalam sandbox ini</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="281"/>
         <source>Set Linger Process</source>
-        <translation>Đặt quy trình kéo dài</translation>
+        <translation>Atur Proses Bertahan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="283"/>
         <source>Set Leader Process</source>
-        <translation>Đặt quy trình lãnh đạo</translation>
+        <translation>Atur Proses Pemimpin</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="553"/>
         <source>    File root: %1
 </source>
-        <translation>    Tập tin gốc: %1
+        <translation>    Root file: %1
 </translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="554"/>
         <source>    Registry root: %1
 </source>
-        <translation>    Registry gốc: %1
+        <translation>    Root registri: %1
 </translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="555"/>
         <source>    IPC root: %1
 </source>
-        <translation>    IPC gốc: %1
+        <translation>    Root IPC: %1
 </translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="559"/>
         <source>Options:
     </source>
-        <translation>Tùy chọn:
+        <translation>Opsi:
     </translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="807"/>
         <source>[None]</source>
-        <translation>[None]</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1151"/>
         <source>Please enter a new group name</source>
-        <translation>Vui lòng nhập tên nhóm mới</translation>
+        <translation>Silakan masukkan nama grup baru</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="918"/>
         <source>Do you really want to remove the selected group(s)?</source>
-        <translation>Bạn có thực sự muốn xóa nhóm đã chọn không(s)?</translation>
+        <translation>Apakah Anda benar-benar ingin menghapus grup yang dipilih?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="157"/>
         <location filename="Views/SbieView.cpp" line="292"/>
         <source>Create Box Group</source>
-        <translation>Tạo ra nhóm Sandbox</translation>
+        <translation>Buat Grup Box</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="412"/>
         <source>Rename Group</source>
-        <translation>Đổi tên nhóm</translation>
+        <translation>Ubah Nama Grup</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="163"/>
         <location filename="Views/SbieView.cpp" line="298"/>
         <source>Stop Operations</source>
-        <translation>Ngừng hoạt động</translation>
+        <translation>Hentikan Operasi</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="192"/>
@@ -5187,13 +5044,9 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <translation>Command Prompt</translation>
     </message>
     <message>
-        <source>Boxed Tools</source>
-        <translation type="vanished">Công cụ Sandbox</translation>
-    </message>
-    <message>
         <location filename="Views/SbieView.cpp" line="193"/>
         <source>Command Prompt (as Admin)</source>
-        <translation>Command Prompt (với tư cách là quản trị viên)</translation>
+        <translation>Command Prompt (sebagai Admin)</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="197"/>
@@ -5203,384 +5056,364 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Views/SbieView.cpp" line="182"/>
         <source>Execute Autorun Entries</source>
-        <translation>Thực thi các mục nhập tự động chạy</translation>
+        <translation>Jalankan Entri Autorun</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="343"/>
         <source>Browse Content</source>
-        <translation>Duyệt nội dung</translation>
+        <translation>Jelajahi Konten</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="206"/>
         <source>Box Content</source>
-        <translation>Nội dung Sandbox</translation>
+        <translation>Konten Box</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="213"/>
         <source>Open Registry</source>
-        <translation>Mở Registry</translation>
+        <translation>Buka Registri</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="209"/>
         <location filename="Views/SbieView.cpp" line="353"/>
         <source>Refresh Info</source>
-        <translation>Làm mới thông tin</translation>
+        <translation>Segarkan Info</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="158"/>
         <location filename="Views/SbieView.cpp" line="293"/>
         <source>Import Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor Box</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="176"/>
         <location filename="Views/SbieView.cpp" line="313"/>
         <source>(Host) Start Menu</source>
-        <translation type="unfinished">(Host) Start Menu</translation>
+        <translation>Menu Start (Host)</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="202"/>
+        <location filename="Views/SbieView.cpp" line="333"/>
+        <source>Mount Box Image</source>
+        <translation>Pasang Image Box</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="203"/>
+        <location filename="Views/SbieView.cpp" line="334"/>
+        <source>Unmount Box Image</source>
+        <translation>Lepaskan Image Box</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="239"/>
         <source>Immediate Recovery</source>
-        <translation>Phục hồi ngay lập tức</translation>
+        <translation>Pemulihan Segera</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="241"/>
         <source>Disable Force Rules</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Aturan Paksa</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="246"/>
+        <source>Duplicate Box with Content</source>
+        <translation>Duplikasi Box dengan Konten</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="247"/>
         <source>Export Box</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="252"/>
         <location filename="Views/SbieView.cpp" line="359"/>
         <source>Move Up</source>
-        <translation>Đi lên</translation>
+        <translation>Pindah ke Atas</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="257"/>
         <location filename="Views/SbieView.cpp" line="364"/>
         <source>Move Down</source>
-        <translation>Đi xuống</translation>
+        <translation>Pindah ke Bawah</translation>
     </message>
     <message>
-        <source>Run Sandboxed</source>
-        <translation type="vanished">Chạy trong Sandbox</translation>
+        <location filename="Views/SbieView.cpp" line="285"/>
+        <source>Suspend</source>
+        <translation>Tangguhkan</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="286"/>
+        <source>Resume</source>
+        <translation>Lanjutkan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="307"/>
         <source>Run Web Browser</source>
-        <translation>Chạy trình duyệt web</translation>
+        <translation>Jalankan Browser Web</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="308"/>
         <source>Run eMail Reader</source>
-        <translation>Chạy eMail Reader</translation>
+        <translation>Jalankan Pembaca eMail</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="309"/>
         <source>Run Any Program</source>
-        <translation>Chạy bất kỳ chương trình nào</translation>
+        <translation>Jalankan Program Apa Saja</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="310"/>
         <source>Run From Start Menu</source>
-        <translation>Chạy từ Start Menu</translation>
+        <translation>Jalankan Dari Menu Start</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="318"/>
         <source>Run Windows Explorer</source>
-        <translation>Chạy Windows Explorer</translation>
+        <translation>Jalankan Windows Explorer</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="332"/>
         <source>Terminate Programs</source>
-        <translation>Chấm dứt chương trình</translation>
+        <translation>Hentikan Program</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="335"/>
         <source>Quick Recover</source>
-        <translation>Phục hồi nhanh chóng</translation>
+        <translation>Pemulihan Cepat</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="340"/>
         <source>Sandbox Settings</source>
-        <translation>Cài đặt Sandbox</translation>
+        <translation>Pengaturan Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="347"/>
         <source>Duplicate Sandbox Config</source>
-        <translation>Cấu hình Sandboxtrùng lặp</translation>
+        <translation>Duplikasi Konfigurasi Sandbox</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="348"/>
         <source>Duplicate Sandbox with Content</source>
-        <translation type="unfinished"></translation>
+        <translation>Duplikasi Sandbox dengan Konten</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="349"/>
         <source>Export Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="413"/>
         <source>Move Group</source>
-        <translation>Di chuyển nhóm</translation>
+        <translation>Pindahkan Grup</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="557"/>
         <source>    Disk root: %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    Root disk: %1
+</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="908"/>
         <source>Please enter a new name for the Group.</source>
-        <translation>Vui lòng nhập tên mới cho Nhóm.</translation>
+        <translation>Silakan masukkan nama baru untuk Grup.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="955"/>
         <source>Move entries by (negative values move up, positive values move down):</source>
-        <translation>Di chuyển các mục nhập theo (giá trị âm tăng lên, giá trị dương di chuyển xuống):</translation>
+        <translation>Pindahkan entri dengan (nilai negatif bergerak ke atas, nilai positif bergerak ke bawah):</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1003"/>
         <source>A group can not be its own parent.</source>
-        <translation>Một nhóm không thể là nhóm mẹ của chính nhóm đó.</translation>
+        <translation>Sebuah grup tidak dapat menjadi induk dari dirinya sendiri.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1085"/>
         <source>Failed to open archive, wrong password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuka arsip, kata sandi salah?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1094"/>
         <source>Failed to open archive (%1)!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuka arsip (%1)!</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1137"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengimpor: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1177"/>
         <source>The Sandbox name and Box Group name cannot use the &apos;,()&apos; symbol or control characters.</source>
         <oldsource>The Sandbox name and Box Group name cannot use the &apos;,()&apos; symbol or control charakters.</oldsource>
-        <translation type="unfinished">Tên Sandbox và tên nhóm Sandbox không thể sử dụng ký tự &apos;,()&apos;.</translation>
+        <translation>Nama Sandbox dan nama Grup Box tidak dapat menggunakan simbol &apos;.()&quot; atau karakter kontrol.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1182"/>
         <source>This name is already used for a Box Group.</source>
-        <translation>Tên này đã được sử dụng cho một nhóm Sandbox.</translation>
+        <translation>Nama ini sudah digunakan untuk sebuah Grup Box.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1187"/>
         <source>This name is already used for a Sandbox.</source>
-        <translation>Tên này đã được sử dụng cho một Sandbox.</translation>
+        <translation>Nama ini sudah digunakan untuk sebuah Sandbox.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1256"/>
         <location filename="Views/SbieView.cpp" line="1326"/>
         <location filename="Views/SbieView.cpp" line="1646"/>
         <source>Don&apos;t show this message again.</source>
-        <translation>Không hiển thị lại thông báo này.</translation>
+        <translation>Jangan tampilkan pesan ini lagi.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1317"/>
         <location filename="Views/SbieView.cpp" line="1337"/>
         <location filename="Views/SbieView.cpp" line="1824"/>
         <source>This Sandbox is empty.</source>
-        <translation>Sandbox này trống.</translation>
-    </message>
-    <message>
-        <source>WARNING: The opened registry editor is not sandboxed, please be careful and only do changes to the pre-selected sandbox locations.</source>
-        <translation type="vanished">CẢNH BÁO: Trình chỉnh sửa sổ đăng ký đã mở không có Sandbox, hãy cẩn thận và chỉ thực hiện các thay đổi đối với các vị trí Sandbox đã chọn trước.</translation>
+        <translation>Sandbox ini kosong.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1345"/>
         <source>Don&apos;t show this warning in future</source>
-        <translation>Không hiển thị cảnh báo này trong tương lai</translation>
+        <translation>Jangan tampilkan peringatan ini di masa depan</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1404"/>
         <source>Please enter a new name for the duplicated Sandbox.</source>
-        <translation>Vui lòng nhập tên mới cho tên  trùng lặp.</translation>
+        <translation>Silakan masukkan nama baru untuk Sandbox yang diduplikasi.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1404"/>
         <source>%1 Copy</source>
-        <translation>%1 Sao chép</translation>
+        <translation>Salinan %1</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="1424"/>
+        <source>Not Created</source>
+        <translation>Belum Dibuat</translation>
+    </message>
+    <message>
+        <location filename="Views/SbieView.cpp" line="1433"/>
+        <source>Copying: %1</source>
+        <translation>Menyalin: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1525"/>
         <source>Do you really want to remove the following sandbox(es)?&lt;br /&gt;&lt;br /&gt;%1&lt;br /&gt;&lt;br /&gt;Warning: The box content will also be deleted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda benar-benar ingin menghapus sandbox berikut?&lt;br /&gt;&lt;br /&gt;%1&lt;br /&gt;&lt;br /&gt;Peringatan: Konten box juga akan dihapus!</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1590"/>
         <source>Do you want to delete the content of the following sandbox?&lt;br /&gt;&lt;br /&gt;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda ingin menghapus konten dari sandbox berikut?&lt;br /&gt;&lt;br /&gt;%1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1608"/>
         <source>Do you really want to delete the content of the following sandboxes?&lt;br /&gt;&lt;br /&gt;%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda benar-benar ingin menghapus konten dari sandbox berikut?&lt;br /&gt;&lt;br /&gt;%1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1068"/>
         <location filename="Views/SbieView.cpp" line="1459"/>
         <source>Select file name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="202"/>
-        <location filename="Views/SbieView.cpp" line="333"/>
-        <source>Mount Box Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="203"/>
-        <location filename="Views/SbieView.cpp" line="334"/>
-        <source>Unmount Box Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="246"/>
-        <source>Duplicate Box with Content</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="285"/>
-        <source>Suspend</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="286"/>
-        <source>Resume</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih nama file</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1068"/>
         <location filename="Views/SbieView.cpp" line="1459"/>
         <source>7-Zip Archive (*.7z);;Zip Archive (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1217"/>
         <source>&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1219"/>
         <source>... and %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>... dan %1 lagi</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1344"/>
         <source>WARNING: The opened registry editor is not sandboxed, please be careful and only do changes to the preselected sandbox locations.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="1424"/>
-        <source>Not Created</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Views/SbieView.cpp" line="1433"/>
-        <source>Copying: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>PERINGATAN: Editor registri yang dibuka tidak dalam sandbox, harap berhati-hati dan hanya lakukan perubahan pada lokasi sandbox yang telah dipilih sebelumnya.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1465"/>
         <source>Exporting: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengekspor: %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1478"/>
         <source>Please enter a new name for the Sandbox.</source>
-        <translation>Vui lòng nhập tên mới cho Sandbox.</translation>
+        <translation>Silakan masukkan nama baru untuk Sandbox.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1478"/>
         <source>Please enter a new alias for the Sandbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silakan masukkan alias baru untuk Sandbox.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1487"/>
         <source>The entered name is not valid, do you want to set it as an alias instead?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do you really want to remove the selected sandbox(es)?&lt;br /&gt;&lt;br /&gt;Warning: The box content will also be deleted!</source>
-        <oldsource>Do you really want to remove the selected sandbox(es)?</oldsource>
-        <translation type="vanished">Bạn có thực sự muốn xóa những Sandbox đã chọn không?&lt;br /&gt;&lt;br /&gt;Cảnh báo: Nội dung Sandbox cũng sẽ bị xóa! </translation>
+        <translation>Nama yang dimasukkan tidak valid, apakah Anda ingin mengaturnya sebagai alias?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1578"/>
         <source>This Sandbox is already empty.</source>
-        <translation>Sandbox này đã trống rỗng.</translation>
-    </message>
-    <message>
-        <source>Do you want to delete the content of the selected sandbox?</source>
-        <translation type="vanished">Bạn có muốn xóa nội dung của Sandbox đã chọn không?</translation>
+        <translation>Sandbox ini sudah kosong.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1596"/>
         <location filename="Views/SbieView.cpp" line="1611"/>
         <source>Also delete all Snapshots</source>
-        <translation>Đồng thời xóa tất cả bản ghi nhanh</translation>
-    </message>
-    <message>
-        <source>Do you really want to delete the content of all selected sandboxes?</source>
-        <translation type="vanished">Bạn có thực sự muốn xóa nội dung của tất cả các Sandbox đã chọn không?</translation>
+        <translation>Hapus juga semua Snapshot</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1628"/>
         <source>Do you want to terminate all processes in the selected sandbox(es)?</source>
-        <translation>Bạn có muốn chấm dứt tất cả các quy trình trong những Sandbox đã chọn không?</translation>
+        <translation>Apakah Anda ingin menghentikan semua proses di sandbox yang dipilih?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1629"/>
         <location filename="Views/SbieView.cpp" line="1725"/>
         <source>Terminate without asking</source>
-        <translation>Chấm dứt mà không cần hỏi</translation>
+        <translation>Hentikan tanpa bertanya</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1644"/>
         <source>The Sandboxie Start Menu will now be displayed. Select an application from the menu, and Sandboxie will create a new shortcut icon on your real desktop, which you can use to invoke the selected application under the supervision of Sandboxie.</source>
         <oldsource>The Sandboxie Start Menu will now be displayed. Select an application from the menu, and Sandboxie will create a newshortcut icon on your real desktop, which you can use to invoke the selected application under the supervision of Sandboxie.</oldsource>
-        <translation>Start Menu của Sandboxie bây giờ sẽ được hiển thị. Chọn một ứng dụng từ menu và Sandboxie sẽ tạo một biểu tượng lối tắt mới trên màn hình thực của bạn, bạn có thể sử dụng biểu tượng này để gọi ứng dụng đã chọn dưới sự giám sát của Sandboxie.</translation>
+        <translation>Menu Start Sandboxie akan ditampilkan sekarang. Pilih aplikasi dari menu, dan Sandboxie akan membuat ikon pintasan baru di desktop asli Anda, yang dapat Anda gunakan untuk menjalankan aplikasi yang dipilih di bawah pengawasan Sandboxie.</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1699"/>
         <location filename="Views/SbieView.cpp" line="1753"/>
         <source>Create Shortcut to sandbox %1</source>
-        <translation>Tạo lối tắt đến sandbox %1</translation>
+        <translation>Buat Pintasan ke sandbox %1</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1724"/>
         <source>Do you want to terminate %1?</source>
         <oldsource>Do you want to %1 %2?</oldsource>
-        <translation type="unfinished">Bạn có muốn tới %1 %2?</translation>
+        <translation>Apakah Anda ingin menghentikan %1?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1724"/>
         <source>the selected processes</source>
-        <translation>các quy trình đã chọn</translation>
+        <translation>proses yang dipilih</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1783"/>
         <source>This box does not have Internet restrictions in place, do you want to enable them?</source>
-        <translation>Sandbox không có giới hạn Internet, bạn có muốn bật chúng không?</translation>
+        <translation>Box ini tidak memiliki pembatasan Internet, apakah Anda ingin mengaktifkannya?</translation>
     </message>
     <message>
         <location filename="Views/SbieView.cpp" line="1874"/>
         <source>This sandbox is currently disabled or restricted to specific groups or users. Would you like to allow access for everyone?</source>
         <oldsource>This sandbox is disabled or restricted to a group/user, do you want to allow box for everybody ?</oldsource>
-        <translation type="unfinished">Sandbox này bị vô hiệu hóa, bạn có muốn bật nó không?</translation>
+        <translation>Sandbox ini saat ini dinonaktifkan atau dibatasi untuk grup atau pengguna tertentu. Apakah Anda ingin mengizinkan akses untuk semua orang?</translation>
     </message>
 </context>
 <context>
@@ -5588,17 +5421,17 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Engine/ScriptManager.cpp" line="85"/>
         <source>Fatal error, failed to load troubleshooting instructions!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan fatal, gagal memuat instruksi pemecahan masalah!</translation>
     </message>
     <message>
         <location filename="Engine/ScriptManager.cpp" line="159"/>
         <source>Error, troubleshooting instructions duplicated %1 (%2 &lt;-&gt; %3)!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kesalahan, instruksi pemecahan masalah duplikat %1 (%2 &lt;-&gt; %3)!</translation>
     </message>
     <message>
         <location filename="Engine/ScriptManager.cpp" line="245"/>
         <source>Downloaded troubleshooting instructions are corrupted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Instruksi pemecahan masalah yang diunduh rusak!</translation>
     </message>
 </context>
 <context>
@@ -5606,17 +5439,17 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
     <message>
         <location filename="Windows/SelectBoxWindow.cpp" line="195"/>
         <source>Sandboxie-Plus - Run Sandboxed</source>
-        <translation>Sandboxie-Plus - Chạy trong Sandbox</translation>
+        <translation>Sandboxie-Plus - Jalankan dalam Sandbox</translation>
     </message>
     <message>
         <location filename="Windows/SelectBoxWindow.cpp" line="248"/>
         <source>Are you sure you want to run the program outside the sandbox?</source>
-        <translation>Bạn có chắc chắn muốn chạy chương trình bên ngoài sandbox?</translation>
+        <translation>Apakah Anda yakin ingin menjalankan program di luar sandbox?</translation>
     </message>
     <message>
         <location filename="Windows/SelectBoxWindow.cpp" line="268"/>
         <source>Please select a sandbox.</source>
-        <translation>Vui lòng chọn một sandbox.</translation>
+        <translation>Silakan pilih sandbox.</translation>
     </message>
 </context>
 <context>
@@ -5625,227 +5458,201 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Windows/SettingsWindow.cpp" line="115"/>
         <source>Sandboxie Plus - Global Settings</source>
         <oldsource>Sandboxie Plus - Settings</oldsource>
-        <translation>Sandboxie Plus - Thiết lập toàn tổng</translation>
-    </message>
-    <message>
-        <source>Advanced Config</source>
-        <translation type="obsolete">Cấu hình nâng cao</translation>
-    </message>
-    <message>
-        <source>Sandbox Config</source>
-        <translation type="obsolete">Cấu hình hộp cát</translation>
-    </message>
-    <message>
-        <source>Config Protection</source>
-        <translation type="obsolete">Cấu hình bảo vệ</translation>
+        <translation>Sandboxie Plus - Pengaturan Global</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="213"/>
         <source>Auto Detection</source>
-        <translation>Tự động phát hiện</translation>
-    </message>
-    <message>
-        <source>No Translation</source>
-        <translation type="vanished">Không có dịch</translation>
+        <translation>Deteksi Otomatis</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="233"/>
         <location filename="Windows/SettingsWindow.cpp" line="237"/>
         <source>Don&apos;t integrate links</source>
-        <translation type="unfinished">Không tích hợp liên kết</translation>
+        <translation>Jangan integrasikan tautan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="234"/>
         <location filename="Windows/SettingsWindow.cpp" line="238"/>
         <source>As sub group</source>
-        <translation type="unfinished">Như một nhóm phụ</translation>
+        <translation>Sebagai sub grup</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="235"/>
         <location filename="Windows/SettingsWindow.cpp" line="239"/>
         <source>Fully integrate</source>
-        <translation type="unfinished">Tích hợp đầy đủ</translation>
+        <translation>Integrasi sepenuhnya</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="241"/>
         <source>Don&apos;t show any icon</source>
         <oldsource>Don&apos;t integrate links</oldsource>
-        <translation>Không hiển thị bất kỳ biểu tượng nào</translation>
+        <translation>Jangan tampilkan ikon apa pun</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="242"/>
         <source>Show Plus icon</source>
-        <translation>Hiển thị biểu tượng Plus</translation>
+        <translation>Tampilkan ikon Plus</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="243"/>
         <source>Show Classic icon</source>
-        <translation>Hiển thị biểu tượng Cổ điển</translation>
+        <translation>Tampilkan ikon Klasik</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="245"/>
         <source>All Boxes</source>
-        <translation>Tất cả các Sandbox</translation>
+        <translation>Semua Box</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="246"/>
         <source>Active + Pinned</source>
-        <translation>Đang hoạt động + Đã ghim</translation>
+        <translation>Aktif + Disematkan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="247"/>
         <source>Pinned Only</source>
-        <translation>Chỉ được ghim</translation>
+        <translation>Hanya yang Disematkan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="249"/>
         <source>Close to Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutup ke Tray</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="250"/>
         <source>Prompt before Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfirmasi sebelum Menutup</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="251"/>
         <source>Close</source>
-        <translation type="unfinished">Đóng</translation>
+        <translation>Tutup</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="252"/>
+        <source>Hide (Run invisible in Background)</source>
+        <translation>Sembunyikan (Jalankan secara tak terlihat di Latar Belakang)</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="254"/>
         <source>None</source>
-        <translation>Không có</translation>
+        <translation>Tidak Ada</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="255"/>
         <source>Native</source>
-        <translation>Tự nhiên</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="256"/>
         <source>Qt</source>
-        <translation>Qt</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="258"/>
         <source>Every Day</source>
-        <translation type="unfinished"></translation>
+        <translation>Setiap Hari</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="259"/>
         <source>Every Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Setiap Minggu</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="260"/>
         <source>Every 2 Weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Setiap 2 Minggu</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="261"/>
         <source>Every 30 days</source>
-        <translation type="unfinished"></translation>
+        <translation>Setiap 30 hari</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="263"/>
         <source>Ignore</source>
-        <translation type="unfinished"></translation>
+        <translation>Abaikan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="275"/>
         <source>%1</source>
         <oldsource>%1 %</oldsource>
-        <translation>%1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="551"/>
         <source>HwId: %1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="649"/>
         <source>Search for settings</source>
-        <translation>Tìm kiếm cài đặt</translation>
+        <translation>Cari pengaturan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="898"/>
         <location filename="Windows/SettingsWindow.cpp" line="899"/>
         <location filename="Windows/SettingsWindow.cpp" line="909"/>
         <source>Run &amp;Sandboxed</source>
-        <translation>Chạy trong Sandbox</translation>
+        <translation>Jalankan &amp;Dalam Sandbox</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1243"/>
         <source>kilobytes (%1)</source>
-        <translation type="unfinished">kilobytes (%1)</translation>
+        <translation>kilobyte (%1)</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1325"/>
         <source>Volume not attached</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume tidak terpasang</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1354"/>
+        <source>This supporter certificate has expired, please &lt;a href=&quot;%1&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
+        <translation>Sertifikat pendukung ini telah kedaluwarsa, silakan &lt;a href=&quot;%1&quot;&gt;dapatkan sertifikat yang diperbarui&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1432"/>
         <source>&lt;b&gt;You have used %1/%2 evaluation certificates. No more free certificates can be generated.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Anda telah menggunakan %1/%2 sertifikat evaluasi. Tidak ada sertifikat gratis lagi yang dapat dibuat.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1434"/>
         <source>&lt;b&gt;&lt;a href=&quot;_&quot;&gt;Get a free evaluation certificate&lt;/a&gt; and enjoy all premium features for %1 days.&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;&lt;a href=&quot;_&quot;&gt;Dapatkan sertifikat evaluasi gratis&lt;/a&gt; dan nikmati semua fitur premium selama %1 hari.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1367"/>
         <source>This supporter certificate will &lt;font color=&apos;red&apos;&gt;expire in %1 days&lt;/font&gt;, please &lt;a href=&quot;%2&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
         <oldsource>This supporter certificate has expired, please &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;get an updated certificate&lt;/a&gt;.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat pendukung ini akan &lt;font color=&apos;red&apos;&gt;kedaluwarsa dalam %1 hari&lt;/font&gt;, silakan &lt;a href=&quot;%2&quot;&gt;dapatkan sertifikat yang diperbarui&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1359"/>
         <source>&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;For the current build Plus features remain enabled&lt;/font&gt;, but you no longer have access to Sandboxie-Live services, including compatibility updates and the troubleshooting database.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1435"/>
-        <source>You can request a free %1-day evaluation certificate up to %2 times per hardware ID.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="252"/>
-        <source>Hide (Run invisible in Background)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1354"/>
-        <source>This supporter certificate has expired, please &lt;a href=&quot;%1&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;Untuk build saat ini, fitur Plus tetap diaktifkan&lt;/font&gt;, tetapi Anda tidak lagi memiliki akses ke layanan Sandboxie-Live, termasuk pembaruan kompatibilitas dan basis data pemecahan masalah.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1402"/>
         <source>Expires in: %1 days</source>
         <oldsource>Expires: %1 Days ago</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1404"/>
-        <source>Expired: %1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedaluwarsa dalam: %1 hari</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1406"/>
         <source>; eligible Patreons can always &lt;a href=&quot;https://xanasoft.com/get-supporter-certificate/&quot;&gt;obtain an updated certificate&lt;/a&gt; from xanasoft.com</source>
-        <translation type="unfinished"></translation>
+        <translation>; Patreon yang memenuhi syarat selalu dapat &lt;a href=&quot;https://xanasoft.com/get-supporter-certificate/&quot;&gt;mendapatkan sertifikat terbaru&lt;/a&gt; dari xanasoft.com</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1416"/>
         <source>Options: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi: %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1419"/>
         <source>Security/Privacy Enhanced &amp; App Boxes (SBox): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Keamanan/Privasi Ditingkatkan &amp; App Boxes (SBox): %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1419"/>
@@ -5853,7 +5660,7 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Windows/SettingsWindow.cpp" line="1421"/>
         <location filename="Windows/SettingsWindow.cpp" line="1422"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Diaktifkan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1419"/>
@@ -5861,423 +5668,403 @@ This file is part of Sandboxie and all changed done to it will be reverted next 
         <location filename="Windows/SettingsWindow.cpp" line="1421"/>
         <location filename="Windows/SettingsWindow.cpp" line="1422"/>
         <source>Disabled</source>
-        <translation type="unfinished">Vô hiệu hóa</translation>
+        <translation>Dinonaktifkan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1420"/>
         <source>Encrypted Sandboxes (EBox): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox Terenkripsi (EBox): %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1421"/>
         <source>Network Interception (NetI): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Intersepsi Jaringan (NetI): %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1422"/>
         <source>Sandboxie Desktop (Desk): %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Sandboxie (Meja): %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1453"/>
         <source>This does not look like a Sandboxie-Plus Serial Number.&lt;br /&gt;If you have attempted to enter the UpdateKey or the Signature from a certificate, that is not correct, please enter the entire certificate into the text area above instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini tidak tampak seperti Nomor Seri Sandboxie-Plus.&lt;br /&gt;Jika Anda mencoba memasukkan UpdateKey atau Tanda Tangan dari suatu sertifikat, itu tidak benar, silakan masukkan seluruh sertifikat ke dalam area teks di atas.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1460"/>
         <source>You are attempting to use a feature Upgrade-Key without having entered a pre-existing supporter certificate. Please note that this type of key (&lt;b&gt;as it is clearly stated in bold on the website&lt;/b) requires you to have a pre-existing valid supporter certificate; it is useless without one.&lt;br /&gt;If you want to use the advanced features, you need to obtain both a standard certificate and the feature upgrade key to unlock advanced functionality.</source>
         <oldsource>You are attempting to use a feature Upgrade-Key without having entered a preexisting supporter certificate. Please note that these type of key (&lt;b&gt;as it is clearly stated in bold on the website&lt;/b&gt;) require you to have a preexisting valid supporter certificate, it is useless without one.&lt;br /&gt;If you want to use the advanced features you need to obtain booth a standard certificate and the feature upgrade key to unlock advanced functionality.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda mencoba menggunakan fitur Upgrade-Key tanpa memasukkan sertifikat pendukung yang sudah ada sebelumnya. Harap perhatikan bahwa jenis kunci ini (&lt;b&gt;seperti yang dinyatakan dengan jelas dalam huruf tebal di situs web&lt;/b) mengharuskan Anda memiliki sertifikat pendukung yang valid dan sudah ada sebelumnya; tidak ada gunanya tanpa sertifikat tersebut.&lt;br /&gt;Jika Anda ingin menggunakan fitur-fitur tingkat lanjut, Anda perlu memperoleh sertifikat standar dan kunci upgrade fitur untuk membuka fungsionalitas tingkat lanjut.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1466"/>
         <source>You are attempting to use a Renew-Key without having entered a pre-existing supporter certificate. Please note that this type of key (&lt;b&gt;as it is clearly stated in bold on the website&lt;/b) requires you to have a pre-existing valid supporter certificate; it is useless without one.</source>
         <oldsource>You are attempting to use a Renew-Key without having a preexisting supporter certificate. Please note that these type of key (&lt;b&gt;as it is clearly stated in bold on the website&lt;/b&gt;) require you to have a preexisting supporter certificate, it is useless without one.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Anda mencoba menggunakan Renew-Key tanpa memasukkan sertifikat pendukung yang sudah ada sebelumnya. Harap perhatikan bahwa jenis kunci ini (&lt;b&gt;seperti yang dinyatakan dengan jelas dalam huruf tebal di situs web&lt;/b) mengharuskan Anda memiliki sertifikat pendukung yang valid dan sudah ada sebelumnya; tidak ada gunanya jika tidak ada sertifikat pendukung.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1471"/>
         <source>&lt;br /&gt;&lt;br /&gt;&lt;u&gt;If you have not read the product description and obtained this key by mistake, please contact us via email (provided on our website) to resolve this issue.&lt;/u&gt;</source>
         <oldsource>&lt;br /&gt;&lt;br /&gt;&lt;u&gt;If you have not read the product description and got this key by mistake, please contact us by email (provided on our website) to resolve this issue.&lt;/u&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br /&gt;&lt;br /&gt;&lt;u&gt;Jika Anda belum membaca deskripsi produk dan mendapatkan kunci ini secara tidak sengaja, silakan hubungi kami melalui email (yang tertera di situs web kami) untuk menyelesaikan masalah ini.&lt;/u&gt;</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1499"/>
+        <source>Sandboxie-Plus - Get EVALUATION Certificate</source>
+        <translation>Sandboxie-Plus - Dapatkan Sertifikat EVALUASI</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1499"/>
+        <source>Please enter your email address to receive a free %1-day evaluation certificate, which will be issued to %2 and locked to the current hardware.
+You can request up to %3 evaluation certificates for each unique hardware ID.</source>
+        <translation>Silakan masukkan alamat email Anda untuk menerima sertifikat evaluasi gratis selama %1 hari, yang akan diterbitkan untuk %2 dan dikunci ke perangkat keras saat ini.
+Anda dapat meminta hingga %3 sertifikat evaluasi untuk setiap ID perangkat keras yang unik.</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1525"/>
+        <source>Error retrieving certificate: %1</source>
+        <oldsource>Error retriving certificate: %1</oldsource>
+        <translation>Kesalahan mengambil sertifikat: %1</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1525"/>
+        <source>Unknown Error (probably a network issue)</source>
+        <translation>Kesalahan Tidak Diketahui (mungkin masalah jaringan)</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1580"/>
+        <source>Contributor</source>
+        <translation>Kontributor</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1582"/>
+        <source>Eternal</source>
+        <translation>Abadi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1584"/>
+        <source>Developer</source>
+        <translation>Pengembang</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1586"/>
+        <source>Business</source>
+        <translation>Bisnis</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1588"/>
+        <source>Personal</source>
+        <translation>Pribadi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1590"/>
+        <source>Great Patreon</source>
+        <translation>Patreon Hebat</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1592"/>
+        <source>Patreon</source>
+        <translation>Patreon</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1594"/>
+        <source>Family</source>
+        <translation>Keluarga</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1598"/>
+        <source>Evaluation</source>
+        <translation>Evaluasi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1600"/>
+        <source>Type %1</source>
+        <translation>Ketik %1</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1630"/>
+        <source>Advanced</source>
+        <translation>Lanjutan</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1632"/>
+        <source>Advanced (L)</source>
+        <translation>Lanjutan (L)</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1634"/>
+        <source>Max Level</source>
+        <translation>Tingkat Maksimal</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1636"/>
+        <source>Level %1</source>
+        <translation>Tingkat %1</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1661"/>
+        <source>Supporter certificate required for access</source>
+        <translation>Sertifikat pendukung diperlukan untuk akses</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1678"/>
+        <source>Supporter certificate required for automation</source>
+        <translation>Sertifikat pendukung diperlukan untuk otomatisasi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="2104"/>
+        <source>This certificate is unfortunately not valid for the current build, you need to get a new certificate or downgrade to an earlier build.</source>
+        <translation>Sertifikat ini sayangnya tidak berlaku untuk build saat ini, Anda perlu mendapatkan sertifikat baru atau menurunkan ke build sebelumnya.</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="2106"/>
+        <source>Although this certificate has expired, for the currently installed version plus features remain enabled. However, you will no longer have access to Sandboxie-Live services, including compatibility updates and the online troubleshooting database.</source>
+        <translation>Meskipun sertifikat ini telah kedaluwarsa, untuk versi yang saat ini terinstal, fitur-fiturnya tetap aktif. Akan tetapi, Anda tidak akan lagi memiliki akses ke layanan Sandboxie-Live, termasuk pembaruan kompatibilitas dan basis data pemecahan masalah daring.</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="2108"/>
+        <source>This certificate has unfortunately expired, you need to get a new certificate.</source>
+        <translation>Sertifikat ini sayangnya telah kedaluwarsa, Anda perlu mendapatkan sertifikat baru.</translation>
+    </message>
+    <message>
+        <location filename="Engine/BoxObject.cpp" line="91"/>
+        <location filename="Windows/SettingsWindow.cpp" line="930"/>
+        <source>Sandboxed Web Browser</source>
+        <translation>Peramban Web dalam Sandbox</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="264"/>
+        <location filename="Windows/SettingsWindow.cpp" line="269"/>
+        <source>Notify</source>
+        <translation>Notifikasi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="265"/>
+        <location filename="Windows/SettingsWindow.cpp" line="270"/>
+        <source>Download &amp; Notify</source>
+        <translation>Unduh &amp; Beri Notifikasi</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="266"/>
+        <location filename="Windows/SettingsWindow.cpp" line="271"/>
+        <source>Download &amp; Install</source>
+        <translation>Unduh &amp; Instal</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="403"/>
+        <source>Browse for Program</source>
+        <translation>Cari Program</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="512"/>
+        <source>Add %1 Template</source>
+        <translation>Tambahkan Template %1</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="588"/>
+        <source>Select font</source>
+        <translation>Pilih font</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="590"/>
+        <source>Reset font</source>
+        <translation>Atur ulang font</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="663"/>
+        <source>%0, %1 pt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="779"/>
+        <source>Please enter message</source>
+        <translation>Silakan masukkan pesan</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="811"/>
+        <source>Select Program</source>
+        <translation>Pilih Program</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="811"/>
+        <source>Executables (*.exe *.cmd)</source>
+        <translation>File Eksekusi (*.exe *.cmd)</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="815"/>
+        <location filename="Windows/SettingsWindow.cpp" line="831"/>
+        <source>Please enter a menu title</source>
+        <translation>Silakan masukkan judul menu</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="827"/>
+        <source>Please enter a command</source>
+        <translation>Silakan masukkan perintah</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1435"/>
+        <source>You can request a free %1-day evaluation certificate up to %2 times per hardware ID.</source>
+        <translation>Anda dapat meminta sertifikat evaluasi %1 hari gratis hingga %2 kali per ID perangkat keras.</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1357"/>
+        <source>&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;Plus features will be disabled in %1 days.&lt;/font&gt;</source>
+        <translation>&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;Fitur Plus akan dinonaktifkan dalam %1 hari.&lt;/font&gt;</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1361"/>
+        <source>&lt;br /&gt;Plus features are no longer enabled.</source>
+        <translation>&lt;br /&gt;Fitur Plus tidak lagi diaktifkan.</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="1404"/>
+        <source>Expired: %1 days ago</source>
+        <translation>Kedaluwarsa: %1 hari yang lalu</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1486"/>
         <location filename="Windows/SettingsWindow.cpp" line="1511"/>
         <location filename="Windows/SettingsWindow.cpp" line="2169"/>
         <source>Retrieving certificate...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1499"/>
-        <source>Sandboxie-Plus - Get EVALUATION Certificate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1499"/>
-        <source>Please enter your email address to receive a free %1-day evaluation certificate, which will be issued to %2 and locked to the current hardware.
-You can request up to %3 evaluation certificates for each unique hardware ID.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1525"/>
-        <source>Error retrieving certificate: %1</source>
-        <oldsource>Error retriving certificate: %1</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1525"/>
-        <source>Unknown Error (probably a network issue)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1580"/>
-        <source>Contributor</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1582"/>
-        <source>Eternal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1584"/>
-        <source>Developer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1586"/>
-        <source>Business</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1588"/>
-        <source>Personal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1590"/>
-        <source>Great Patreon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1592"/>
-        <source>Patreon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1594"/>
-        <source>Family</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengambil sertifikat...</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="1596"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Beranda</translation>
     </message>
     <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1598"/>
-        <source>Evaluation</source>
-        <translation type="unfinished"></translation>
+        <location filename="Windows/SettingsWindow.cpp" line="1785"/>
+        <source>Run &amp;Un-Sandboxed</source>
+        <translation>Jalankan &amp;Tanpa Sandbox</translation>
     </message>
     <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1600"/>
-        <source>Type %1</source>
-        <translation type="unfinished"></translation>
+        <location filename="Windows/SettingsWindow.cpp" line="1793"/>
+        <source>Set Force in Sandbox</source>
+        <translation>Atur Paksa di Sandbox</translation>
     </message>
     <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1630"/>
-        <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <location filename="Windows/SettingsWindow.cpp" line="1802"/>
+        <source>Set Open Path in Sandbox</source>
+        <translation>Atur Jalur Terbuka di Sandbox</translation>
     </message>
     <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1632"/>
-        <source>Advanced (L)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1634"/>
-        <source>Max Level</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1636"/>
-        <source>Level %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1661"/>
-        <source>Supporter certificate required for access</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1678"/>
-        <source>Supporter certificate required for automation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="2104"/>
-        <source>This certificate is unfortunately not valid for the current build, you need to get a new certificate or downgrade to an earlier build.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="2106"/>
-        <source>Although this certificate has expired, for the currently installed version plus features remain enabled. However, you will no longer have access to Sandboxie-Live services, including compatibility updates and the online troubleshooting database.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="2108"/>
-        <source>This certificate has unfortunately expired, you need to get a new certificate.</source>
-        <translation type="unfinished"></translation>
+        <location filename="Windows/SettingsWindow.cpp" line="2087"/>
+        <source>This does not look like a certificate. Please enter the entire certificate, not just a portion of it.</source>
+        <translation>Ini tidak terlihat seperti sertifikat. Silakan masukkan seluruh sertifikat, bukan hanya sebagian.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2112"/>
         <source>The evaluation certificate has been successfully applied. Enjoy your free trial!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat evaluasi telah berhasil diterapkan. Nikmati uji coba gratis Anda!</translation>
+    </message>
+    <message>
+        <location filename="Windows/SettingsWindow.cpp" line="2115"/>
+        <source>Thank you for supporting the development of Sandboxie-Plus.</source>
+        <translation>Terima kasih telah mendukung pengembangan Sandboxie-Plus.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2117"/>
         <source>
 This is a temporary Patreon certificate, valid for 3 months. Once it nears expiration, you can obtain a new certificate online that will be valid for the full term.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ini adalah sertifikat Patreon sementara, berlaku selama 3 bulan. Setelah mendekati masa kedaluwarsa, Anda dapat memperoleh sertifikat baru secara online yang akan berlaku untuk jangka waktu penuh.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2155"/>
         <source>A mandatory security update for your Sandboxie-Plus Supporter Certificate is required. Would you like to download the updated certificate now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan keamanan wajib untuk Sertifikat Pendukung Sandboxie-Plus Anda diperlukan. Apakah Anda ingin mengunduh sertifikat yang diperbarui sekarang?</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2156"/>
         <source>Auto update in future</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Engine/BoxObject.cpp" line="91"/>
-        <location filename="Windows/SettingsWindow.cpp" line="930"/>
-        <source>Sandboxed Web Browser</source>
-        <translation>Trình duyệt web trong Sandbox</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="264"/>
-        <location filename="Windows/SettingsWindow.cpp" line="269"/>
-        <source>Notify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="265"/>
-        <location filename="Windows/SettingsWindow.cpp" line="270"/>
-        <source>Download &amp; Notify</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="266"/>
-        <location filename="Windows/SettingsWindow.cpp" line="271"/>
-        <source>Download &amp; Install</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="403"/>
-        <source>Browse for Program</source>
-        <translation type="unfinished">Duyệt chương trình</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="512"/>
-        <source>Add %1 Template</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="588"/>
-        <source>Select font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="590"/>
-        <source>Reset font</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="663"/>
-        <source>%0, %1 pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="779"/>
-        <source>Please enter message</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="811"/>
-        <source>Select Program</source>
-        <translation type="unfinished">Chọn chương trình</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="811"/>
-        <source>Executables (*.exe *.cmd)</source>
-        <translation type="unfinished">Tệp thực thi (*.exe *.cmd)</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="815"/>
-        <location filename="Windows/SettingsWindow.cpp" line="831"/>
-        <source>Please enter a menu title</source>
-        <translation type="unfinished">Vui lòng nhập tiêu đề menu</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="827"/>
-        <source>Please enter a command</source>
-        <translation type="unfinished">Vui lòng nhập một lệnh</translation>
-    </message>
-    <message>
-        <source>This supporter certificate has expired, please &lt;a href=&quot;sbie://update/cert&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
-        <translation type="vanished">Chứng chỉ người hỗ trợ này đã hết hạn, vui lòng &lt;a href=&quot;sbie://update/cert&quot;&gt;nhận chứng chỉ cập nhật&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1357"/>
-        <source>&lt;br /&gt;&lt;font color=&apos;red&apos;&gt;Plus features will be disabled in %1 days.&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1361"/>
-        <source>&lt;br /&gt;Plus features are no longer enabled.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This supporter certificate will &lt;font color=&apos;red&apos;&gt;expire in %1 days&lt;/font&gt;, please &lt;a href=&quot;sbie://update/cert&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
-        <translation type="vanished">Chứng chỉ hỗ trợ này sẽ &lt;font color=&apos;red&apos;&gt;hết hạn trong %1 ngày&lt;/font&gt;, làm ơn &lt;a href=&quot;sbie://update/cert&quot;&gt;nhận chứng chỉ cập nhật&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1785"/>
-        <source>Run &amp;Un-Sandboxed</source>
-        <translation>Chạy ngoài Sandbox</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1793"/>
-        <source>Set Force in Sandbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="1802"/>
-        <source>Set Open Path in Sandbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="2087"/>
-        <source>This does not look like a certificate. Please enter the entire certificate, not just a portion of it.</source>
-        <translation>Đây không giống như một chứng chỉ. Vui lòng nhập toàn bộ chứng chỉ, không chỉ một phần của nó. </translation>
-    </message>
-    <message>
-        <source>This certificate is unfortunately expired.</source>
-        <translation type="vanished">Chứng chỉ này rất tiếc đã hết hạn.</translation>
-    </message>
-    <message>
-        <source>This certificate is unfortunately outdated.</source>
-        <translation type="vanished">Chứng chỉ này rất tiếc đã lỗi thời.</translation>
-    </message>
-    <message>
-        <location filename="Windows/SettingsWindow.cpp" line="2115"/>
-        <source>Thank you for supporting the development of Sandboxie-Plus.</source>
-        <translation>Cảm ơn bạn đã hỗ trợ sự phát triển của Sandboxie-Plus.</translation>
-    </message>
-    <message>
-        <source>This support certificate is not valid.</source>
-        <translation type="vanished">Chứng chỉ hỗ trợ này không hợp lệ.</translation>
+        <translation>Pembaruan otomatis di masa depan</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2223"/>
         <source>Update Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan Tersedia</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2225"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Terpasang</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2230"/>
         <source>by %1</source>
-        <translation type="unfinished"></translation>
+        <translation>oleh %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2238"/>
         <source>(info website)</source>
-        <translation type="unfinished"></translation>
+        <translation>(situs web info)</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2265"/>
         <source>This Add-on is mandatory and can not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-on ini wajib dan tidak dapat dihapus.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2274"/>
         <location filename="Windows/SettingsWindow.cpp" line="2423"/>
         <source>Select Directory</source>
-        <translation>Chọn thư mục</translation>
+        <translation>Pilih Direktori</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2306"/>
         <source>&lt;a href=&quot;check&quot;&gt;Check Now&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;check&quot;&gt;Kiểm tra ngay&lt;/a&gt;</translation>
+        <translation>&lt;a href=&quot;check&quot;&gt;Periksa Sekarang&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2383"/>
         <source>Please enter the new configuration password.</source>
-        <translation>Vui lòng nhập mật khẩu cấu hình mới.</translation>
+        <translation>Silakan masukkan kata sandi konfigurasi baru.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2387"/>
         <source>Please re-enter the new configuration password.</source>
-        <translation>Vui lòng nhập lại mật khẩu cấu hình mới.</translation>
+        <translation>Silakan masukkan kembali kata sandi konfigurasi baru.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2392"/>
         <source>Passwords did not match, please retry.</source>
-        <translation>Mật khẩu không khớp, vui lòng thử lại.</translation>
+        <translation>Kata sandi tidak cocok, silakan coba lagi.</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2404"/>
         <source>Process</source>
-        <translation>Tiến trình</translation>
+        <translation>Proses</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2404"/>
         <source>Folder</source>
-        <translation>Thư mục</translation>
+        <translation>Folder</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2414"/>
         <source>Please enter a program file name</source>
-        <translation>Vui lòng nhập tên tệp chương trình</translation>
+        <translation>Silakan masukkan nama file program</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2482"/>
         <source>Please enter the template identifier</source>
-        <translation type="unfinished">Vui lòng nhập mã nhận dạng mẫu</translation>
+        <translation>Silakan masukkan pengenal template</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2490"/>
         <source>Error: %1</source>
-        <translation type="unfinished">Lỗi: %1</translation>
+        <translation>Kesalahan: %1</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2522"/>
         <source>Do you really want to delete the selected local template(s)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Apakah Anda benar-benar ingin menghapus template lokal yang dipilih?</translation>
     </message>
     <message>
         <location filename="Windows/SettingsWindow.cpp" line="2730"/>
         <source>%1 (Current)</source>
-        <translation>%1 (Hiện hành)</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;0&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;0&quot;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;1&quot;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Do you want to download the version %1?</source>
-        <translation type="vanished">Bạn có muốn tải xuống phiên bản %1?</translation>
+        <translation>%1 (Saat Ini)</translation>
     </message>
 </context>
 <context>
@@ -6285,27 +6072,27 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="34"/>
         <source>Setup Wizard</source>
-        <translation>Trình hướng dẫn thiết lập</translation>
+        <translation>Panduan Penyiapan</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="45"/>
         <source>The decision you make here will affect which page you get to see next.</source>
-        <translation>Quyết định bạn đưa ra ở đây sẽ ảnh hưởng đến trang bạn xem tiếp theo.</translation>
+        <translation>Keputusan yang Anda buat di sini akan memengaruhi halaman mana yang akan Anda lihat selanjutnya.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="48"/>
         <source>This help is likely not to be of any help.</source>
-        <translation>Sự trợ giúp này có thể không giúp ích được gì.</translation>
+        <translation>Bantuan ini sepertinya tidak akan banyak membantu.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="52"/>
         <source>Sorry, I already gave all the help I could.</source>
-        <translation>Xin lỗi, tôi đã giúp đỡ tất cả những gì tôi có thể.</translation>
+        <translation>Maaf, saya sudah memberikan semua bantuan yang saya bisa.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="54"/>
         <source>Setup Wizard Help</source>
-        <translation>Trợ giúp Trình hướng dẫn Thiết lập</translation>
+        <translation>Bantuan Panduan Penyiapan</translation>
     </message>
 </context>
 <context>
@@ -6313,43 +6100,43 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="533"/>
         <source>Configure &lt;b&gt;Sandboxie-Plus&lt;/b&gt; shell integration</source>
-        <translation>Cấu hình &lt;b&gt;Sandboxie-Plus&lt;/b&gt; tích hợp vào Shell</translation>
+        <translation>Konfigurasikan integrasi shell &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="534"/>
         <source>Configure how Sandboxie-Plus should integrate with your system.</source>
-        <translation>Định cấu hình cách Sandboxie-Plus sẽ tích hợp với hệ thống của bạn.</translation>
+        <translation>Konfigurasikan bagaimana Sandboxie-Plus harus terintegrasi dengan sistem Anda.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="538"/>
         <source>Start UI with Windows</source>
-        <translation>Khởi động giao diện người dùng với Windows</translation>
+        <translation>Mulai UI bersama Windows</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="543"/>
         <source>Add &apos;Run Sandboxed&apos; to the explorer context menu</source>
-        <translation>Thêm &apos;Chạy trong Sandbox&apos; vào menu ngữ cảnh của trình Explorer</translation>
+        <translation>Tambahkan &apos;Jalankan dalam Sandbox&apos; ke menu konteks explorer</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="548"/>
         <source>Add desktop shortcut for starting Web browser under Sandboxie</source>
-        <translation>Thêm lối tắt trên màn hình để khởi động trình duyệt Web trong Sandboxie</translation>
+        <translation>Tambahkan pintasan desktop untuk memulai browser web di bawah Sandboxie</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="553"/>
         <source>Only applications with admin rights can change configuration</source>
         <oldsource>Only applications with administrator token can change ini setting.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Hanya aplikasi dengan hak admin yang dapat mengubah konfigurasi</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="565"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Peringatan</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="565"/>
         <source>Enabling this option prevents changes to the Sandboxie.ini configuration from the user interface without admin rights. Be careful, as using Sandboxie Manager with normal user rights may result in a lockout. To make changes to the configuration, you must restart Sandboxie Manager as an admin by clicking &apos;Restart as Admin&apos; in the &apos;Sandbox&apos; menu in the main window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengaktifkan opsi ini akan mencegah perubahan pada konfigurasi Sandboxie.ini dari antarmuka pengguna tanpa hak admin. Berhati-hatilah, karena penggunaan Sandboxie Manager dengan hak pengguna normal dapat mengakibatkan penguncian. Untuk membuat perubahan pada konfigurasi, Anda harus memulai ulang Sandboxie Manager sebagai admin dengan mengeklik &apos;Mulai Ulang sebagai Admin&apos; di menu &apos;Sandbox&apos; di jendela utama.</translation>
     </message>
 </context>
 <context>
@@ -6357,52 +6144,52 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="23"/>
         <source>%1 - Snapshots</source>
-        <translation>%1 - Bản ghi nhanh</translation>
+        <translation>%1 - Snapshot</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="37"/>
         <source>Snapshot</source>
-        <translation>Bản ghi nhanh</translation>
+        <translation>Snapshot</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="38"/>
         <source>Creation Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu Pembuatan</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="56"/>
         <source>Revert to empty box</source>
-        <translation>Hoàn nguyên về Sandbox trống</translation>
+        <translation>Kembalikan ke kotak kosong</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="103"/>
         <source> (default)</source>
-        <translation> (mặc định)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="186"/>
         <source>Please enter a name for the new Snapshot.</source>
-        <translation>Vui lòng nhập tên cho bản ghi nhanh mới.</translation>
+        <translation>Silakan masukkan nama untuk Snapshot baru.</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="186"/>
         <source>New Snapshot</source>
-        <translation>Bản ghi nhanh mới</translation>
+        <translation>Snapshot Baru</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="209"/>
         <source>Do you really want to switch the active snapshot? Doing so will delete the current state!</source>
-        <translation>Bạn có thực sự muốn chuyển đổi bản ghi nhanh đang hoạt động không? Làm như vậy sẽ xóa trạng thái hiện tại!</translation>
+        <translation>Apakah Anda benar-benar ingin mengganti snapshot aktif? Melakukannya akan menghapus status saat ini!</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="243"/>
         <source>Do you really want to delete the selected snapshot?</source>
-        <translation>Bạn có thực sự muốn xóa bản ghi nhanh đã chọn không?</translation>
+        <translation>Apakah Anda benar-benar ingin menghapus snapshot yang dipilih?</translation>
     </message>
     <message>
         <location filename="Windows/SnapshotsWindow.cpp" line="258"/>
         <source>Performing Snapshot operation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Melakukan operasi Snapshot...</translation>
     </message>
 </context>
 <context>
@@ -6410,7 +6197,7 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
     <message>
         <location filename="Views/StackView.cpp" line="17"/>
         <source>#|Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6418,27 +6205,27 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="813"/>
         <source>Submit Issue Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirim Laporan Masalah</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="827"/>
         <source>Detailed issue description</source>
-        <translation type="unfinished"></translation>
+        <translation>Deskripsi masalah secara rinci</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="831"/>
         <source>Attach Sandboxie.ini</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampirkan Sandboxie.ini</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="832"/>
         <source>Sandboxing compatibility is reliant on the configuration, hence attaching the Sandboxie.ini file helps a lot with finding the issue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompatibilitas sandbox tergantung pada konfigurasi, sehingga melampirkan file Sandboxie.ini sangat membantu dalam menemukan masalah.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="835"/>
         <source>Attach Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampirkan Log</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="837"/>
@@ -6446,75 +6233,77 @@ This is a temporary Patreon certificate, valid for 3 months. Once it nears expir
 Before sending, you can review the logs in the main window.</source>
         <oldsource>Select partially checked state to sends only message log but no trace log.
 Before sending you can review the logs in the main window.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Memilih status dicentang sebagian hanya mengirim log pesan, bukan log 
+jejak. Sebelum mengirim, Anda dapat meninjau log di jendela utama.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="840"/>
         <source>Attach Crash Dumps</source>
-        <translation type="unfinished"></translation>
+        <translation>Lampirkan Crash Dumps</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="841"/>
         <source>An application crashed during the troubleshooting procedure, attaching a crash dump can help with the debugging.</source>
         <oldsource>An applicatin crashed during the troubleshooting procedure, attaching a crash dump can help with the debugging.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aplikasi mogok selama prosedur pemecahan masalah, melampirkan crash dump dapat membantu dalam debugging.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="845"/>
         <source>Email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Alamat email</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="846"/>
         <source>You have the option to provide an email address to receive a notification once a solution for your issue has been identified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda dapat memberikan alamat email untuk menerima notifikasi setelah solusi untuk masalah Anda ditemukan.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="854"/>
         <source>We apologize for the inconvenience you are currently facing with Sandboxie-Plus. </source>
-        <translation type="unfinished"></translation>
+        <translation>Kami mohon maaf atas ketidaknyamanan yang Anda alami dengan Sandboxie-Plus. </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="861"/>
         <source>Unfortunately, the automated troubleshooting procedure failed. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sayangnya, prosedur pemecahan masalah otomatis gagal. </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="867"/>
         <source>Regrettably, there is no automated troubleshooting procedure available for the specific issue you have described. </source>
-        <translation type="unfinished"></translation>
+        <translation>Sayangnya, tidak ada prosedur pemecahan masalah otomatis untuk masalah spesifik yang Anda jelaskan. </translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="872"/>
         <source>If you wish to submit an issue report, please review the report below and click &apos;Finish&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jika Anda ingin mengirim laporan masalah, silakan tinjau laporan di bawah ini dan klik &apos;Selesai&apos;.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="971"/>
         <source>Compressing Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengompresi Log</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1005"/>
         <source>Compressing Dumps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengompresi Dump</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1042"/>
         <source>Submitting issue report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mengirim laporan masalah...</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1053"/>
         <source>Failed to submit issue report, error %1
 Try submitting without the log attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal mengirim laporan masalah, kesalahan %1.
+ Coba kirim tanpa melampirkan log.</translation>
     </message>
     <message>
         <location filename="Wizards/BoxAssistant.cpp" line="1057"/>
         <source>Your issue report has been successfully submitted, thank you.</source>
         <oldsource>Your issue report have been successfully submitted, thank you.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Laporan masalah Anda telah berhasil dikirim, terima kasih.</translation>
     </message>
 </context>
 <context>
@@ -6522,29 +6311,30 @@ Try submitting without the log attached.</source>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1022"/>
         <source>Create the new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Sandbox baru</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1033"/>
         <source>Almost complete, click Finish to create a new sandbox and conclude the wizard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hampir selesai, klik Selesai untuk membuat sandbox baru dan menyelesaikan panduan.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1042"/>
         <source>Save options as new defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan opsi sebagai default baru</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1053"/>
         <source>Skip this summary page when advanced options are not set</source>
         <oldsource>Don&apos;t show the summary page in future (unless advanced options were set)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Lewati halaman ringkasan ini jika opsi lanjutan tidak diatur</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1072"/>
         <source>
 This Sandbox will be saved to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Sandbox ini akan disimpan ke: %1</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1075"/>
@@ -6552,19 +6342,22 @@ This Sandbox will be saved to: %1</source>
 This box&apos;s content will be DISCARDED when it&apos;s closed, and the box will be removed.</source>
         <oldsource>
 This box&apos;s content will be DISCARDED when its closed, and the box will be removed.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>
+Konten box ini akan DIBUANG saat ditutup, dan box akan dihapus.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1077"/>
         <source>
 This box will DISCARD its content when its closed, its suitable only for temporary data.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Box ini akan MEMBUANG isinya saat ditutup, hanya cocok untuk data sementara.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1079"/>
         <source>
 Processes in this box will not be able to access the internet or the local network, this ensures all accessed data to stay confidential.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Proses dalam box ini tidak akan dapat mengakses internet atau jaringan lokal, ini memastikan semua data yang diakses tetap rahasia.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1081"/>
@@ -6572,13 +6365,15 @@ Processes in this box will not be able to access the internet or the local netwo
 This box will run the MSIServer (*.msi installer service) with a system token, this improves the compatibility but reduces the security isolation.</source>
         <oldsource>
 This box will run the MSIServer (*.msi installer service) with a system token, this improves the compatybility but reduces the security isolation.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>
+Box ini akan menjalankan MSIServer (layanan penginstal *.msi) dengan token sistem, ini meningkatkan kompatibilitas tetapi mengurangi isolasi keamanan.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1083"/>
         <source>
 Processes in this box will think they are run with administrative privileges, without actually having them, hence installers can be used even in a security hardened box.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Proses dalam box ini akan mengira dijalankan dengan hak administrator, padahal sebenarnya tidak, sehingga penginstal dapat digunakan bahkan di box yang diperkuat keamanannya.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1085"/>
@@ -6586,12 +6381,13 @@ Processes in this box will think they are run with administrative privileges, wi
 Processes in this box will be running with a custom process token indicating the sandbox they belong to.</source>
         <oldsource>
 Processes in this box will be running with a custom process token indicating the sandbox thay belong to.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>
+Proses dalam box ini akan berjalan dengan token proses khusus yang menunjukkan sandbox tempat mereka berada.</translation>
     </message>
     <message>
         <location filename="Wizards/NewBoxWizard.cpp" line="1124"/>
         <source>Failed to create new box: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Gagal membuat box baru: %1</translation>
     </message>
 </context>
 <context>
@@ -6600,121 +6396,120 @@ Processes in this box will be running with a custom process token indicating the
         <location filename="Windows/SupportDialog.cpp" line="43"/>
         <source>This Insider build requires a special certificate of type GREAT_PATREON, PERSONAL-HUGE, or CONTRIBUTOR.
 If you are a Great Supporter on Patreon already, Sandboxie can check online for an update of your certificate.</source>
-        <oldsource>This Insider build requires a special certificate of type GREAT_PATREON, PERSONAL-HUGE, or CONTRIBUTOR.
-If you are a great patreaon supporter already, sandboxie can check online for an update of your certificate.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Build Insider ini memerlukan sertifikat khusus bertipe GREAT_PATREON, PERSONAL-HUGE, atau CONTRIBUTOR.
+Jika Anda sudah menjadi Great Supporter di Patreon, Sandboxie dapat memeriksa secara online untuk mengetahui pembaruan sertifikat Anda.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="51"/>
         <location filename="Windows/SupportDialog.cpp" line="343"/>
         <source>This Insider build requires a special certificate of type GREAT_PATREON, PERSONAL-HUGE, or CONTRIBUTOR.</source>
-        <translation type="unfinished"></translation>
+        <translation>Build Insider ini memerlukan sertifikat khusus tipe GREAT_PATREON, PERSONAL-HUGE, atau KONTRIBUTOR.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="72"/>
         <source>An attempt was made to use a blocked certificate on this system. This action violates the terms of use for the support certificate. You must now purchase a valid certificate, as the usage of the free version has been restricted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Telah dilakukan percobaan untuk menggunakan sertifikat yang diblokir pada sistem ini. Tindakan ini melanggar ketentuan penggunaan sertifikat dukungan. Anda sekarang harus membeli sertifikat yang valid, karena penggunaan versi gratis telah dibatasi.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="162"/>
         <source>This is a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;exclusive Insider build&lt;/a&gt; of Sandboxie-Plus it is only available to &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Patreon Supporters&lt;/a&gt; on higher tiers as well as to project contributors and owners of a HUGE supporter certificate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ini adalah &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;versi Insider eksklusif&lt;/a&gt; dari Sandboxie-Plus yang hanya tersedia bagi &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Pendukung Patreon&lt;/a&gt; pada tingkatan lebih tinggi serta bagi kontributor proyek dan pemilik sertifikat pendukung BESAR.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="168"/>
         <source>The installed supporter certificate allows for &lt;b&gt;%1 seats&lt;/b&gt; to be active.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat pendukung yang terpasang memungkinkan &lt;b&gt;%1 kursi&lt;/b&gt; untuk aktif.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="170"/>
         <source>&lt;b&gt;There seems to be however %1 Sandboxie-Plus instances on your network, &lt;font color=&apos;red&apos;&gt;you need to obtain additional &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&amp;tip=more&quot;&gt;support certificates&lt;/a&gt;&lt;/font&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</source>
         <oldsource>&lt;b&gt;There seams to be howeever %1 Sandboxie-Plus instances on your network, &lt;font color=&apos;red&apos;&gt;you need to obtain additional &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&amp;tip=more&quot;&gt;support certificates&lt;/a&gt;&lt;/font&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Namun tampaknya ada %1 instans Sandboxie-Plus di jaringan Anda, &lt;font color=&apos;red&apos;&gt;Anda perlu memperoleh &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&amp;tip=more&quot;&gt;sertifikat dukungan&lt;/a&gt;&lt;/font&gt; tambahan.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="177"/>
         <source>The installed supporter certificate &lt;b&gt;has expired %1 days ago&lt;/b&gt; and &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;must be renewed&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</source>
         <oldsource>The installed supporter certificate &lt;b&gt;has expired %1 days ago&lt;/b&gt; and &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;must be renewed&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Chứng chỉ hỗ trợ đã cài đặt &lt;b&gt;đã hết hạn %1 ngày trước&lt;/b&gt; và &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;phải được làm mới&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Sertifikat pendukung yang terpasang &lt;b&gt;telah kedaluwarsa %1 hari yang lalu&lt;/b&gt; dan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;harus diperbarui&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="179"/>
         <source>&lt;b&gt;You have installed Sandboxie-Plus more than %1 days ago.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>&lt;b&gt;Bạn đã cài đặt Sandboxie-Plus nhiều hơn %1 ngày trước.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>&lt;b&gt;Anda telah menginstal Sandboxie-Plus lebih dari %1 hari yang lalu.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="181"/>
         <source>&lt;u&gt;Commercial use of Sandboxie past the evaluation period&lt;/u&gt;, requires a valid &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;support certificate&lt;/a&gt;.</source>
         <oldsource>&lt;u&gt;Commercial use of Sandboxie past the evaluation period&lt;/u&gt;, requires a valid &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;support certificate&lt;/a&gt;.</oldsource>
-        <translation type="unfinished">&lt;u&gt;Việc sử dụng Sandboxie cho mục đích thương mại đã qua giai đoạn đánh giá&lt;/u&gt;, yêu cầu một &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;chứng chỉ hỗ trợ hợp lệ&lt;/a&gt;.</translation>
+        <translation>&lt;u&gt;Penggunaan komersial Sandboxie setelah masa evaluasi&lt;/u&gt;, memerlukan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;sertifikat dukungan&lt;/a&gt; yang valid.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="188"/>
         <source>The installed supporter certificate is &lt;b&gt;outdated&lt;/b&gt; and it is &lt;u&gt;not valid for&lt;b&gt; this version&lt;/b&gt;&lt;/u&gt; of Sandboxie-Plus.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Chứng chỉ trình hỗ trợ đã cài đặt đã &lt;b&gt;hết hạn&lt;/b&gt; và nó là &lt;u&gt;không hợp lệ cho&lt;b&gt; phiên bản này&lt;/b&gt;&lt;/u&gt; của Sandboxie-Plus.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Sertifikat pendukung yang terpasang sudah &lt;b&gt;kedaluwarsa&lt;/b&gt; dan &lt;u&gt;tidak berlaku untuk&lt;b&gt; versi ini&lt;/b&gt;&lt;/u&gt; dari Sandboxie-Plus.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="190"/>
         <source>The installed supporter certificate is &lt;b&gt;expired&lt;/b&gt; and &lt;u&gt;should be renewed&lt;/u&gt;.&lt;br /&gt;&lt;br /&gt;</source>
         <oldsource>The installed supporter certificate is &lt;b&gt;expired&lt;/b&gt; and &lt;u&gt;should to be renewed&lt;/u&gt;.&lt;br /&gt;&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Chứng chỉ trình hỗ trợ đã cài đặt dã &lt;b&gt;hết hạn&lt;/b&gt; and &lt;u&gt;nên được làm mới&lt;/u&gt;.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Sertifikat pendukung yang terpasang sudah &lt;b&gt;kedaluwarsa&lt;/b&gt; dan &lt;u&gt;harus diperbarui&lt;/u&gt;.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="192"/>
         <source>&lt;b&gt;You have been using Sandboxie-Plus for more than %1 days now.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>&lt;b&gt;Bạn đã sử dụng Sandboxie-Plus hơn %1 ngày.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>&lt;b&gt;Anda telah menggunakan Sandboxie-Plus selama lebih dari %1 hari sekarang.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="195"/>
         <source>Sandboxie on ARM64 requires a valid supporter certificate for continued use.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Sandboxie trên ARM64 yêu cầu chứng chỉ hỗ trợ hợp lệ để tiếp tục sử dụng.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Sandboxie di ARM64 memerlukan sertifikat pendukung yang valid untuk penggunaan berkelanjutan.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="197"/>
         <source>Personal use of Sandboxie is free of charge on x86/x64, although some functionality is only available to project supporters.&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>Sử dụng Sandboxie cá nhân miễn phí trên x86/x64, mặc dù một số chức năng chỉ có sẵn cho những người ủng hộ dự án.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>Penggunaan pribadi Sandboxie gratis pada x86/x64, meskipun beberapa fungsi hanya tersedia untuk pendukung proyek.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="200"/>
         <source>Please continue &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;supporting the project&lt;/a&gt; by renewing your &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; and continue using the &lt;b&gt;enhanced functionality&lt;/b&gt; in new builds.</source>
         <oldsource>Please continue &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporting the project&lt;/a&gt; by renewing your &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; and continue using the &lt;b&gt;enhanced functionality&lt;/b&gt; in new builds.</oldsource>
-        <translation type="unfinished">Xin vui lòng tiếp tục &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;hỗ trợ dự án&lt;/a&gt; bằng cách làm mới &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt; và tiếp tục sử dụng &lt;b&gt;chức năng nâng cao&lt;/b&gt; trong các bản dựng mới.</translation>
+        <translation>Harap teruskan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;dukungan proyek&lt;/a&gt; dengan memperbarui &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt; Anda dan terus gunakan &lt;b&gt;fungsionalitas yang ditingkatkan&lt;/b&gt; pada versi baru.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="203"/>
         <source>Sandboxie &lt;u&gt;without&lt;/u&gt; a valid supporter certificate will sometimes &lt;b&gt;&lt;font color=&apos;red&apos;&gt;pause for a few seconds&lt;/font&gt;&lt;/b&gt;. This pause allows you to consider &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;purchasing a supporter certificate&lt;/a&gt; or &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-contribute&quot;&gt;earning one by contributing&lt;/a&gt; to the project. &lt;br /&gt;&lt;br /&gt;A &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; not just removes this reminder, but also enables &lt;b&gt;exclusive enhanced functionality&lt;/b&gt; providing better security and compatibility.</source>
         <oldsource>Sandboxie &lt;u&gt;without&lt;/u&gt; a valid supporter certificate will sometimes &lt;b&gt;&lt;font color=&apos;red&apos;&gt;pause for a few seconds&lt;/font&gt;&lt;/b&gt;, to give you time to contemplate the option of &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporting the project&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;A &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt; not just removes this reminder, but also enables &lt;b&gt;exclusive enhanced functionality&lt;/b&gt; providing better security and compatibility.</oldsource>
-        <translation type="unfinished">Sandboxie &lt;u&gt;không có&lt;/u&gt; một chứng chỉ hỗ trợ hợp lệ đôi khi sẽ &lt;b&gt;&lt;font color=&apos;red&apos;&gt;tạm dừng trong vài giây&lt;/font&gt;&lt;/b&gt;, để cho bạn thời gian để suy ngẫm về tùy chọn &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporting the project&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;A &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt; không chỉ xóa lời nhắc này, nhưng cũng cho phép &lt;b&gt;chức năng nâng cao độc quyền&lt;/b&gt; cung cấp khả năng tương thích và bảo mật tốt hơn.</translation>
+        <translation>Sandboxie &lt;u&gt;tanpa&lt;/u&gt; sertifikat pendukung yang valid terkadang akan &lt;b&gt;&lt;font color=&apos;red&apos;&gt;berhenti sejenak selama beberapa detik&lt;/font&gt;&lt;/b&gt;. Jeda ini memungkinkan Anda untuk mempertimbangkan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;membeli sertifikat pendukung&lt;/a&gt; atau &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-contribute&quot;&gt;memperolehnya dengan berkontribusi&lt;/a&gt; pada proyek. &lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;Sertifikat pendukung&lt;/a&gt; tidak hanya menghilangkan pengingat ini, tetapi juga memungkinkan &lt;b&gt;fungsionalitas eksklusif yang disempurnakan&lt;/b&gt; yang menyediakan keamanan dan kompatibilitas yang lebih baik.</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="233"/>
         <source>Sandboxie-Plus - Support Reminder</source>
-        <translation>Sandboxie-Plus - Nhắc nhở người hỗ trợ</translation>
+        <translation>Sandboxie-Plus - Pengingat Dukungan</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="308"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="315"/>
         <source>Quit</source>
-        <translation>Thoát</translation>
+        <translation>Berhenti</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="316"/>
         <source>Continue</source>
-        <translation>Tiếp tục</translation>
+        <translation>Melanjutkan</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="317"/>
         <source>Get Certificate</source>
-        <translation>Nhận chứng chỉ</translation>
+        <translation>Dapatkan Sertifikat</translation>
     </message>
     <message>
         <location filename="Windows/SupportDialog.cpp" line="318"/>
         <source>Enter Certificate</source>
-        <translation>Nhập chứng chỉ</translation>
+        <translation>Masukkan Sertifikat</translation>
     </message>
 </context>
 <context>
@@ -6722,17 +6517,17 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="258"/>
         <source>Create new Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Template baru</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="270"/>
         <source>Select template type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih jenis template:</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="274"/>
         <source>%1 template</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6741,71 +6536,71 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Wizards/TemplateWizard.cpp" line="37"/>
         <source>Compatibility Template Wizard</source>
         <oldsource>Compatybility Template Wizard</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Panduan Template Kompatibilitas</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="48"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustom</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="49"/>
         <source>Web Browser</source>
-        <translation type="unfinished">Trình duyệt web</translation>
+        <translation>Peramban Web</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="82"/>
         <source>Force %1 to run in this sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa %1 untuk dijalankan di sandbox ini</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="100"/>
         <source>Allow direct access to the entire %1 profile folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke seluruh folder profil %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="113"/>
         <location filename="Wizards/TemplateWizard.cpp" line="168"/>
         <source>Allow direct access to %1 phishing database</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke basis data phishing %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="127"/>
         <source>Allow direct access to %1 session management</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke manajemen sesi %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="136"/>
         <location filename="Wizards/TemplateWizard.cpp" line="199"/>
         <source>Allow direct access to %1 passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke kata sandi %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="146"/>
         <location filename="Wizards/TemplateWizard.cpp" line="208"/>
         <source>Allow direct access to %1 cookies</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke cookie %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="155"/>
         <location filename="Wizards/TemplateWizard.cpp" line="227"/>
         <source>Allow direct access to %1 bookmark and history database</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke basis data bookmark dan riwayat %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="180"/>
         <source>Allow direct access to %1 sync data</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke data sinkronisasi %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="190"/>
         <source>Allow direct access to %1 preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke preferensi %1</translation>
     </message>
     <message>
         <location filename="Wizards/TemplateWizard.cpp" line="217"/>
         <source>Allow direct access to %1 bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan akses langsung ke bookmark %1</translation>
     </message>
 </context>
 <context>
@@ -6818,49 +6613,49 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Windows/TestProxyDialog.cpp" line="373"/>
         <location filename="Windows/TestProxyDialog.cpp" line="379"/>
         <source>Sandboxie-Plus - Test Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus - Uji Proxy</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="37"/>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="42"/>
         <location filename="Windows/TestProxyDialog.cpp" line="308"/>
         <source>Testing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengujian...</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="62"/>
         <source>This test cannot be disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes ini tidak dapat dinonaktifkan.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="80"/>
         <source>[%1] Starting Test 1: Connection to the Proxy Server</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Memulai Tes 1: Koneksi ke Server Proxy</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="81"/>
         <source>[%1] IP Address: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Alamat IP: %2</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="97"/>
         <source>[%1] Connection established.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Koneksi berhasil dibuat.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="98"/>
         <location filename="Windows/TestProxyDialog.cpp" line="246"/>
         <source>[%1] Test passed.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Tes berhasil.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="103"/>
         <source>[%1] Connection to proxy server failed: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Koneksi ke server proxy gagal: %2.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="104"/>
@@ -6868,88 +6663,88 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Windows/TestProxyDialog.cpp" line="252"/>
         <location filename="Windows/TestProxyDialog.cpp" line="259"/>
         <source>[%1] Test failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Tes gagal.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="114"/>
         <source>[%1] Starting Test 2: Connection through the Proxy Server</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Memulai Tes 2: Koneksi melalui Server Proxy</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="141"/>
         <source>[%1] Authentication was successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Autentikasi berhasil.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="142"/>
         <source>[%1] Connection to %2 established through the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Koneksi ke %2 berhasil melalui server proxy.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="146"/>
         <source>[%1] Loading a web page to test the proxy server.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Memuat halaman web untuk menguji server proxy.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="152"/>
         <source>[%1] %2.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="157"/>
         <source>[%1] Connection through proxy server failed: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Koneksi melalui server proxy gagal: %2.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="191"/>
         <source>[%1] Web page loaded successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Halaman web berhasil dimuat.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="196"/>
         <source>Timeout</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu Habis</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="197"/>
         <source>[%1] Failed to load web page: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Gagal memuat halaman web: %2.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="214"/>
         <source>[%1] Starting Test 3: Proxy Server latency</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Memulai Tes 3: Latensi Server Proxy</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="245"/>
         <source>[%1] Latency through proxy server: %2ms.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Latensi melalui server proxy: %2ms.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="251"/>
         <source>[%1] Failed to get proxy server latency: Request timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Gagal mendapatkan latensi server proxy: Permintaan waktu habis.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="258"/>
         <source>[%1] Failed to get proxy server latency.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Gagal mendapatkan latensi server proxy.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="287"/>
         <source>[%1] Test Finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Tes Selesai.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="300"/>
         <location filename="Windows/TestProxyDialog.cpp" line="337"/>
         <source>Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Dihentikan</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="309"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Hentikan</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="312"/>
@@ -6958,42 +6753,46 @@ If you are a great patreaon supporter already, sandboxie can check online for an
 	Address:		%2
 	Protocol:		%3
 	Authentication:	%4%5</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] Pengujian dimulai...
+	Proxy Server
+	Alamat:		%2
+	Protokol:	%3
+	Autentikasi:	%4%5</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="332"/>
         <source>Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>Coba Lagi</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="341"/>
         <source>Test Passed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes Berhasil</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="347"/>
         <source>Test Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes Gagal</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="360"/>
         <source>Invalid Timeout value. Please enter a value between 1 and 60.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai Timeout tidak valid. Silakan masukkan nilai antara 1 dan 60.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="367"/>
         <source>Invalid Port value. Please enter a value between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai Port tidak valid. Silakan masukkan nilai antara 1 dan 65535.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="373"/>
         <source>Invalid Host value. Please enter a valid host name excluding &apos;http[s]://&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai Host tidak valid. Silakan masukkan nama host yang valid tanpa &apos;http[s]://&apos;.</translation>
     </message>
     <message>
         <location filename="Windows/TestProxyDialog.cpp" line="379"/>
         <source>Invalid Ping Count value. Please enter a value between 1 and 10.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai Jumlah Ping tidak valid. Silakan masukkan nilai antara 1 dan 10.</translation>
     </message>
 </context>
 <context>
@@ -7001,42 +6800,42 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Models/TraceModel.cpp" line="196"/>
         <source>Unknown</source>
-        <translation>Không xác định</translation>
+        <translation>Tidak dikenal</translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="175"/>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="176"/>
         <source>Process %1</source>
-        <translation>Tiến trình %1</translation>
+        <translation>Proses %1</translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="179"/>
         <source>Thread %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Benang %1</translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="333"/>
         <source>Process</source>
-        <translation>Tiến trình</translation>
+        <translation>Proses</translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="335"/>
         <source>Type</source>
-        <translation>Loại</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="336"/>
         <source>Status</source>
-        <translation>Trạng thái</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Models/TraceModel.cpp" line="337"/>
         <source>Value</source>
-        <translation>Giá trị</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7044,17 +6843,17 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Views/TraceView.cpp" line="258"/>
         <source>Show as task tree</source>
-        <translation>Hiển thị dưới dạng cây công việc</translation>
+        <translation>Tampilkan sebagai pohon tugas</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="262"/>
         <source>Show NT Object Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Pohon Objek NT</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="269"/>
         <source>PID:</source>
-        <translation>PID:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="271"/>
@@ -7065,106 +6864,102 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Views/TraceView.cpp" line="571"/>
         <location filename="Views/TraceView.cpp" line="687"/>
         <source>[All]</source>
-        <translation>[All]</translation>
+        <translation>[Semua]</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="276"/>
         <source>TID:</source>
-        <translation>TID:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="284"/>
         <source>Type:</source>
-        <translation>Loại:</translation>
+        <translation>Tipe:</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="295"/>
         <source>Status:</source>
-        <translation>Trạng thái:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="298"/>
         <source>Open</source>
-        <translation>Mở</translation>
+        <translation>Buka</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="299"/>
         <source>Closed</source>
-        <translation>Đã đóng cửa</translation>
+        <translation>Tertutup</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="300"/>
         <source>Trace</source>
-        <translation>Dấu vết</translation>
+        <translation>Jejak</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="301"/>
         <source>Other</source>
-        <translation>Khác</translation>
+        <translation>Lainnya</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="309"/>
         <source>Show All Boxes</source>
-        <translation>Hiển thị tất cả Sandbox</translation>
+        <translation>Tampilkan Semua Box</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="313"/>
         <source>Show Stack Trace</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan Stack Trace</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="318"/>
         <source>Save to file</source>
-        <translation>Lưu vào tệp</translation>
+        <translation>Simpan ke file</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="331"/>
         <source>Auto Scroll</source>
-        <translation type="unfinished"></translation>
+        <translation>Gulir Otomatis</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="337"/>
         <source>Cleanup Trace Log</source>
-        <translation>Dọn dẹp nhật ký theo dõi</translation>
+        <translation>Bersihkan Log Jejak</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="383"/>
         <source>To use the stack traces feature the DbgHelp.dll and SymSrv.dll are required, do you want to download and install them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Untuk menggunakan fitur jejak tumpukan, DbgHelp.dll dan SymSrv.dll diperlukan, apakah Anda ingin mengunduh dan menginstalnya?</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="730"/>
         <source>Save trace log to file</source>
-        <translation>Lưu nhật ký theo dõi vào tệp</translation>
+        <translation>Simpan log jejak ke file</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="736"/>
         <source>Failed to open log file for writing</source>
-        <translation>Không mở được tệp nhật ký để ghi</translation>
+        <translation>Gagal membuka file log untuk penulisan</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="756"/>
         <source>Saving TraceLog...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="vanished">Không xác định</translation>
+        <translation>Menyimpan TraceLog...</translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="640"/>
         <source>%1 (%2)</source>
-        <translation>%1 (%2)</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="254"/>
         <source>Monitor mode</source>
-        <translation>Chế độ giám sát</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Views/TraceView.cpp" line="653"/>
         <source>%1</source>
-        <translation>%1</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7172,7 +6967,7 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Views/TraceView.cpp" line="824"/>
         <source>Sandboxie-Plus - Trace Monitor</source>
-        <translation>Sandboxie-Plus - Màn hình theo dõi</translation>
+        <translation>Sandboxie-Plus - Pemantau Jejak</translation>
     </message>
 </context>
 <context>
@@ -7180,56 +6975,37 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="418"/>
         <source>Configure &lt;b&gt;Sandboxie-Plus&lt;/b&gt; UI</source>
-        <translation>Định cấu hình Giao diện người dùng của &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
+        <translation>Konfigurasikan UI &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="419"/>
         <source>Select the user interface style you prefer.</source>
-        <translation>Chọn kiểu giao diện người dùng bạn thích.</translation>
+        <translation>Pilih gaya antarmuka pengguna yang Anda sukai.</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="423"/>
         <source>&amp;Advanced UI for experts</source>
-        <translation>&amp;Giao diện người dùng nâng cao cho các chuyên gia</translation>
+        <translation>&amp;UI Lanjutan untuk ahli</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="428"/>
         <source>&amp;Simple UI for beginners</source>
-        <translation>&amp;Giao diện người dùng đơn giản cho người mới bắt đầu</translation>
+        <translation>&amp;UI Sederhana untuk pemula</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="433"/>
         <source>&amp;Vintage SbieCtrl.exe UI</source>
-        <translation>&amp;Giao diện người dùng Cổ điển SbieCtrl.exe</translation>
+        <translation>&amp;UI SbieCtrl.exe Klasik</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="458"/>
         <source>Use Bright Mode</source>
-        <translation>Sử dụng Chế độ sáng</translation>
+        <translation>Gunakan Mode Terang</translation>
     </message>
     <message>
         <location filename="Wizards/SetupWizard.cpp" line="462"/>
         <source>Use Dark Mode</source>
-        <translation>Sử dụng Chế độ tối</translation>
-    </message>
-</context>
-<context>
-    <name>CWFPPage</name>
-    <message>
-        <source>Configure &lt;b&gt;Sandboxie-Plus&lt;/b&gt; network filtering</source>
-        <translation type="vanished">Định cấu hình lọc mạng của &lt;b&gt;Sandboxie-Plus&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Sandboxie can use the Windows Filtering Platform (WFP) to restrict network access.</source>
-        <translation type="vanished">Sandboxie có thể sử dụng Nền tảng lọc Windows (WFP) để hạn chế quyền truy cập mạng.</translation>
-    </message>
-    <message>
-        <source>Using WFP allows Sandboxie to reliably enforce IP/Port based rules for network access. Unlike system level application firewalls, Sandboxie can use different rules in each box for the same application. If you already have a good and reliable application firewall and do not need per box rules, you can leave this option unchecked. Without WFP enabled, Sandboxie will still be able to reliably and entirely block processes from accessing the network. However, this can cause the process to crash, as the driver blocks the required network device endpoints. Even with WFP disabled, Sandboxie offers to set IP/Port based rules, however these will be applied in user mode only and not be enforced by the driver. Hence, without WFP enabled, an intentionally malicious process could bypass those rules, but not the entire network block.</source>
-        <translation type="vanished">Sử dụng WFP cho phép Sandboxie thực thi các quy tắc dựa trên IP / Cổng một cách đáng tin cậy để truy cập mạng. Không giống như tường lửa ứng dụng cấp hệ thống, Sandboxie có thể sử dụng các quy tắc khác nhau trong mỗi Sandbox cho cùng một ứng dụng. Nếu bạn đã có một tường lửa ứng dụng tốt và đáng tin cậy và không cần quy tắc cho mỗi Sandbox, bạn có thể bỏ chọn tùy chọn này. Nếu không bật WFP, Sandboxie sẽ vẫn có thể chặn hoàn toàn và đáng tin cậy các quy trình truy cập vào mạng. Tuy nhiên, điều này có thể khiến quá trình gặp sự cố, vì trình điều khiển chặn các điểm cuối thiết bị mạng được yêu cầu. Ngay cả khi WFP bị vô hiệu hóa, Sandboxie vẫn đề xuất đặt các quy tắc dựa trên IP / Cổng, tuy nhiên, các quy tắc này sẽ chỉ được áp dụng trong chế độ người dùng và không được trình điều khiển thực thi. Do đó, nếu không kích hoạt WFP, một quá trình cố ý độc hại có thể vượt qua các quy tắc đó, nhưng không phải toàn bộ khối mạng.</translation>
-    </message>
-    <message>
-        <source>Enable Windows Filtering Platform (WFP) support</source>
-        <translation type="vanished">Bật hỗ trợ Nền tảng lọc Windows (WFP)</translation>
+        <translation>Gunakan Mode Gelap</translation>
     </message>
 </context>
 <context>
@@ -7237,38 +7013,38 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Forms/CompressDialog.ui" line="14"/>
         <source>Compress Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompres File</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="58"/>
         <source>Compression</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompresi</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="38"/>
         <source>When selected you will be prompted for a password after clicking OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat dipilih, Anda akan dimintai kata sandi setelah mengklik OK</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="41"/>
         <source>Encrypt archive content</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkripsi konten arsip</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="48"/>
         <source>Solid archiving improves compression ratios by treating multiple files as a single continuous data block. Ideal for a large number of small files, it makes the archive more compact but may increase the time required for extracting individual files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengarsipan solid meningkatkan rasio kompresi dengan memperlakukan beberapa file sebagai satu blok data yang berkelanjutan. Ideal untuk sejumlah besar file kecil, metode ini membuat arsip menjadi lebih ringkas tetapi dapat meningkatkan waktu yang dibutuhkan untuk mengekstrak file secara individual.</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="51"/>
         <source>Create Solide Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Buat Arsip Solid</translation>
     </message>
     <message>
         <location filename="Forms/CompressDialog.ui" line="75"/>
         <source>Export Sandbox to an archive, choose your compression rate and customize additional compression settings.</source>
         <oldsource>Export Sandbox to a archive, Choose Your Compression Rate and Customize Additional Compression Settings.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Ekspor Sandbox ke arsip, pilih tingkat kompresi Anda dan sesuaikan pengaturan kompresi tambahan.</translation>
     </message>
 </context>
 <context>
@@ -7276,56 +7052,33 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Forms/ExtractDialog.ui" line="14"/>
         <source>Extract Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstrak File</translation>
     </message>
     <message>
         <location filename="Forms/ExtractDialog.ui" line="59"/>
         <source>Import Sandbox from an archive</source>
         <oldsource>Export Sandbox from an archive</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Impor Sandbox dari arsip</translation>
     </message>
     <message>
         <location filename="Forms/ExtractDialog.ui" line="49"/>
         <source>Import Sandbox Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Impor Nama Sandbox</translation>
     </message>
     <message>
         <location filename="Forms/ExtractDialog.ui" line="22"/>
         <source>Box Root Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Folder Root Box</translation>
     </message>
     <message>
         <location filename="Forms/ExtractDialog.ui" line="35"/>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/ExtractDialog.ui" line="82"/>
         <source>Import without encryption</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>NewBoxWindow</name>
-    <message>
-        <source>SandboxiePlus new box</source>
-        <translation type="vanished">SandboxiePlus Sandbox mới</translation>
-    </message>
-    <message>
-        <source>Box Type Preset:</source>
-        <translation type="vanished">Đặt trước loại Sandbox:</translation>
-    </message>
-    <message>
-        <source>A sandbox isolates your host system from processes running within the box, it prevents them from making permanent changes to other programs and data in your computer. The level of isolation impacts your security as well as the compatibility with applications, hence there will be a different level of isolation depending on the selected Box Type. Sandboxie can also protect your personal data from being accessed by processes running under its supervision.</source>
-        <translation type="vanished">Sandbox cát cô lập hệ thống máy chủ của bạn khỏi các quy trình đang chạy trong Sandbox, nó ngăn chúng thực hiện các thay đổi vĩnh viễn đối với các chương trình và dữ liệu khác trong máy tính của bạn. Mức độ cô lập ảnh hưởng đến bảo mật của bạn cũng như khả năng tương thích với các ứng dụng, do đó sẽ có mức độ cô lập khác nhau tùy thuộc vào Loại Sandbox được chọn. Sandboxie cũng có thể bảo vệ dữ liệu cá nhân của bạn khỏi bị truy cập bởi các quy trình đang chạy dưới sự giám sát của nó.</translation>
-    </message>
-    <message>
-        <source>Box info</source>
-        <translation type="vanished">Thông tin Sandbox</translation>
-    </message>
-    <message>
-        <source>Sandbox Name:</source>
-        <translation type="vanished">Tên Sandbox:</translation>
+        <translation>Impor tanpa enkripsi</translation>
     </message>
 </context>
 <context>
@@ -7333,52 +7086,52 @@ If you are a great patreaon supporter already, sandboxie can check online for an
     <message>
         <location filename="Forms/OptionsWindow.ui" line="32"/>
         <source>SandboxiePlus Options</source>
-        <translation>SandboxiePlus Tùy chọn</translation>
+        <translation>Opsi SandboxiePlus</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="52"/>
         <source>General Options</source>
-        <translation>Các tùy chọn chung</translation>
+        <translation>Opsi Umum</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="62"/>
         <source>Box Options</source>
-        <translation>Tùy chọn Sandbox</translation>
+        <translation>Opsi Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="246"/>
         <source>Sandbox Indicator in title:</source>
-        <translation>Nhận diện Sandbox trong tiêu đề:</translation>
+        <translation>Indikator Sandbox di judul:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="207"/>
         <source>Sandboxed window border:</source>
-        <translation>Đường viền cửa sổ Sandbox:</translation>
+        <translation>Bingkai jendela sandbox:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="194"/>
         <source>Double click action:</source>
-        <translation type="unfinished">Nhấp đúp vào hành động:</translation>
+        <translation>Aksi klik ganda:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="362"/>
         <source>Separate user folders</source>
-        <translation type="unfinished">Tách các thư mục người dùng</translation>
+        <translation>Pisahkan folder pengguna</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="342"/>
         <source>Box Structure</source>
-        <translation type="unfinished">Cấu trúc Sandbox</translation>
+        <translation>Struktur Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1138"/>
         <source>Security Options</source>
-        <translation type="unfinished">Tùy chọn bảo mật</translation>
+        <translation>Opsi Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1148"/>
         <source>Security Hardening</source>
-        <translation type="unfinished">Tăng cường bảo mật</translation>
+        <translation>Penguatan Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="727"/>
@@ -7390,163 +7143,159 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="3998"/>
         <location filename="Forms/OptionsWindow.ui" line="4039"/>
         <source>Protect the system from sandboxed processes</source>
-        <translation>Bảo vệ hệ thống khỏi các tiến trình Sandbox</translation>
+        <translation>Lindungi sistem dari proses dalam sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1280"/>
         <source>Elevation restrictions</source>
-        <translation>Hạn chế</translation>
+        <translation>Pembatasan Elevasi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1264"/>
         <source>Drop rights from Administrators and Power Users groups</source>
-        <translation>Bỏ quyền khỏi nhóm Quản trị viên và Người dùng quyền lực</translation>
+        <translation>Hapus hak dari grup Administrator dan Power Users</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="233"/>
         <source>px Width</source>
-        <translation>px Bề rộng</translation>
+        <translation>Lebar px</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1303"/>
         <source>Make applications think they are running elevated (allows to run installers safely)</source>
-        <translation>Làm cho các ứng dụng nghĩ rằng chúng đang chạy trên quyền truy cập cao (cho phép chạy trình cài đặt một cách an toàn)</translation>
+        <translation>Buat aplikasi berpikir bahwa mereka berjalan dengan hak istimewa (memungkinkan penginstal berjalan dengan aman)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1231"/>
         <source>CAUTION: When running under the built in administrator, processes can not drop administrative privileges.</source>
-        <translation>THẬN TRỌNG: Khi chạy dưới quyền quản trị viên tích hợp, các quy trình không thể bỏ các đặc quyền quản trị.</translation>
+        <translation>PERHATIAN: Saat dijalankan di bawah administrator bawaan, proses tidak dapat menurunkan hak administratif.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="285"/>
         <source>Appearance</source>
-        <translation>Vẻ bề ngoài</translation>
+        <translation>Tampilan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1316"/>
         <source>(Recommended)</source>
-        <translation>(Khuyến khích)</translation>
+        <translation>(Direkomendasikan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="155"/>
         <source>Show this box in the &apos;run in box&apos; selection prompt</source>
-        <translation>Hiển thị hộp này trong lời nhắc lựa chọn của &apos;chạy trong Sandbox&apos;</translation>
+        <translation>Tampilkan kotak ini di prompt pemilihan &apos;jalankan di kotak&apos;</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="321"/>
         <source>File Options</source>
-        <translation>Tùy chọn tệp</translation>
+        <translation>Opsi File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="329"/>
         <source>Auto delete content changes when last sandboxed process terminates</source>
         <oldsource>Auto delete content when last sandboxed process terminates</oldsource>
-        <translation type="unfinished">Tự động xóa nội dung khi quá trình Sandbox cát cuối cùng kết thúc</translation>
+        <translation>Hapus otomatis perubahan konten saat proses sandbox terakhir dihentikan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="556"/>
         <source>Copy file size limit:</source>
-        <translation>Sao chép giới hạn kích thước tệp:</translation>
+        <translation>Batas ukuran file salinan:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="391"/>
         <source>Box Delete options</source>
-        <translation>Tùy chọn xoá Sandbox</translation>
+        <translation>Opsi Hapus Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="352"/>
         <source>Protect this sandbox from deletion or emptying</source>
-        <translation>Bảo vệ Sandbox này khỏi bị xóa hoặc làm trống</translation>
-    </message>
-    <message>
-        <source>Raw Disk access</source>
-        <translation type="vanished">Quyền truy cập đĩa thô</translation>
+        <translation>Lindungi sandbox ini dari penghapusan atau pengosongan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="536"/>
         <location filename="Forms/OptionsWindow.ui" line="576"/>
         <source>File Migration</source>
-        <translation>Di chuyển tệp</translation>
+        <translation>Migrasi File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="473"/>
         <source>Allow elevated sandboxed applications to read the harddrive</source>
-        <translation>Cho phép các ứng dụng Sandbox nâng cao đọc ổ cứng</translation>
+        <translation>Izinkan aplikasi sandbox yang ditingkatkan haknya membaca harddisk</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="453"/>
         <source>Warn when an application opens a harddrive handle</source>
-        <translation>Cảnh báo khi ứng dụng mở ổ đĩa cứng</translation>
+        <translation>Peringatkan saat aplikasi membuka handle harddisk</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="605"/>
         <source>kilobytes</source>
-        <translation>kilobytes</translation>
+        <translation>kilobyte</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="698"/>
         <source>Issue message 2102 when a file is too large</source>
-        <translation>Thông báo sự cố 2102 khi một tệp quá lớn</translation>
+        <translation>Tampilkan pesan 2102 saat file terlalu besar</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="563"/>
         <source>Prompt user for large file migration</source>
-        <translation>Nhắc người dùng di chuyển tệp lớn</translation>
+        <translation>Minta konfirmasi pengguna untuk migrasi file besar</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="757"/>
         <source>Allow the print spooler to print to files outside the sandbox</source>
-        <translation>Cho phép bộ đệm in in ra các tệp bên ngoài Sandbox</translation>
+        <translation>Izinkan printer spooler mencetak ke file di luar sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="744"/>
         <source>Remove spooler restriction, printers can be installed outside the sandbox</source>
-        <translation>Loại bỏ hạn chế bộ đệm, máy in có thể được cài đặt bên ngoài Sandbox</translation>
+        <translation>Hapus pembatasan spooler, printer dapat diinstal di luar sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="813"/>
         <source>Block read access to the clipboard</source>
-        <translation>Chặn quyền truy cập đã đọc vào khay nhớ tạm</translation>
+        <translation>Blokir akses baca ke clipboard</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="780"/>
         <source>Open System Protected Storage</source>
-        <translation>Mở bộ nhớ được bảo vệ hệ thống</translation>
+        <translation>Buka Penyimpanan yang Dilindungi Sistem</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="737"/>
         <source>Block access to the printer spooler</source>
-        <translation>Chặn quyền truy cập vào bộ đệm máy in</translation>
+        <translation>Blokir akses ke printer spooler</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="773"/>
         <source>Other restrictions</source>
-        <translation>Các hạn chế khác</translation>
+        <translation>Pembatasan Lainnya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="730"/>
         <source>Printing restrictions</source>
-        <translation>Hạn chế in ấn</translation>
+        <translation>Pembatasan Pencetakan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4042"/>
         <source>Network restrictions</source>
-        <translation>Hạn chế mạng</translation>
+        <translation>Pembatasan Jaringan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4093"/>
         <source>Block network files and folders, unless specifically opened.</source>
-        <translation>Chặn các tệp và thư mục mạng, trừ khi được mở cụ thể.</translation>
+        <translation>Blokir file dan folder jaringan, kecuali yang dibuka secara spesifik.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="986"/>
         <source>Run Menu</source>
-        <translation>Menu Chạy</translation>
+        <translation>Menu Jalankan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1110"/>
         <source>You can configure custom entries for the sandbox run menu.</source>
-        <translation>Bạn có thể định cấu hình các mục nhập tùy chỉnh cho menu chạy Sandbox.</translation>
+        <translation>Anda dapat mengonfigurasi entri khusus untuk menu jalankan sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1059"/>
@@ -7563,17 +7312,17 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="5618"/>
         <location filename="Forms/OptionsWindow.ui" line="5759"/>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1064"/>
         <source>Command Line</source>
-        <translation>Dòng lệnh</translation>
+        <translation>Baris Perintah</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1035"/>
         <source>Add program</source>
-        <translation>Thêm chương trình</translation>
+        <translation>Tambah program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1016"/>
@@ -7601,7 +7350,7 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="5229"/>
         <location filename="Forms/OptionsWindow.ui" line="5599"/>
         <source>Remove</source>
-        <translation>Loại bỏ</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2211"/>
@@ -7612,17 +7361,17 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="3188"/>
         <location filename="Forms/OptionsWindow.ui" line="3262"/>
         <source>Type</source>
-        <translation>Loại</translation>
+        <translation>Tipe</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2048"/>
         <source>Program Groups</source>
-        <translation>Nhóm chương trình</translation>
+        <translation>Grup Program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2076"/>
         <source>Add Group</source>
-        <translation>Thêm nhóm</translation>
+        <translation>Tambah Grup</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2083"/>
@@ -7631,24 +7380,24 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="2721"/>
         <location filename="Forms/OptionsWindow.ui" line="3493"/>
         <source>Add Program</source>
-        <translation>Thêm chương trình</translation>
+        <translation>Tambah program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2256"/>
         <source>Force Folder</source>
-        <translation>Buộc thư mục</translation>
+        <translation>Paksa Folder</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2850"/>
         <location filename="Forms/OptionsWindow.ui" line="2950"/>
         <location filename="Forms/OptionsWindow.ui" line="3083"/>
         <source>Path</source>
-        <translation>Đường dẫn</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2200"/>
         <source>Force Program</source>
-        <translation>Chương trình bắt buộc</translation>
+        <translation>Paksa Program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="652"/>
@@ -7671,165 +7420,123 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="4873"/>
         <location filename="Forms/OptionsWindow.ui" line="4944"/>
         <source>Show Templates</source>
-        <translation>Hiển thị Mẫu</translation>
+        <translation>Tampilkan Template</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1247"/>
         <source>Security note: Elevated applications running under the supervision of Sandboxie, with an admin or system token, have more opportunities to bypass isolation and modify the system outside the sandbox.</source>
-        <translation>Lưu ý bảo mật: Các ứng dụng nâng cao chạy dưới sự giám sát của Sandboxie, với mã thông báo quản trị hoặc hệ thống, có nhiều cơ hội hơn để vượt qua sự cô lập và sửa đổi hệ thống bên ngoài Sandbox.</translation>
+        <translation>Catatan keamanan: Aplikasi yang dijalankan dengan hak istimewa di bawah pengawasan Sandboxie, menggunakan token admin atau sistem, memiliki lebih banyak peluang untuk melewati isolasi dan memodifikasi sistem di luar sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1218"/>
         <source>Allow MSIServer to run with a sandboxed system token and apply other exceptions if required</source>
-        <translation>Cho phép MSIServer chạy với mã thông báo hệ thống hộp cát và áp dụng các ngoại lệ khác nếu được yêu cầu</translation>
+        <translation>Izinkan MSIServer berjalan dengan token sistem sandbox dan terapkan pengecualian lain jika diperlukan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1163"/>
         <source>Note: Msi Installer Exemptions should not be required, but if you encounter issues installing a msi package which you trust, this option may help the installation complete successfully. You can also try disabling drop admin rights.</source>
-        <translation>Ghi chú: Không bắt buộc phải có Msi Installer Exemptions, nhưng nếu bạn gặp sự cố khi cài đặt gói msi mà bạn tin tưởng, tùy chọn này có thể giúp quá trình cài đặt hoàn tất thành công. Bạn cũng có thể thử tắt bỏ quyền quản trị viên.</translation>
+        <translation>Catatan: Pengecualian Installer Msi seharusnya tidak diperlukan, tetapi jika Anda mengalami masalah saat menginstal paket msi yang Anda percayai, opsi ini dapat membantu instalasi berhasil. Anda juga dapat mencoba menonaktifkan penurunan hak admin.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="265"/>
         <source>General Configuration</source>
-        <translation>Cấu hình chung</translation>
+        <translation>Konfigurasi Umum</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="92"/>
         <source>Box Type Preset:</source>
-        <translation>Đặt trước loại Sandbox:</translation>
+        <translation>Prasetel Tipe Kotak:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="105"/>
         <source>Box info</source>
-        <translation>Thông tin Sandbox</translation>
+        <translation>Info Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="76"/>
         <source>&lt;b&gt;More Box Types&lt;/b&gt; are exclusively available to &lt;u&gt;project supporters&lt;/u&gt;, the Privacy Enhanced boxes &lt;b&gt;&lt;font color=&apos;red&apos;&gt;protect user data from illicit access&lt;/font&gt;&lt;/b&gt; by the sandboxed programs.&lt;br /&gt;If you are not yet a supporter, then please consider &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporting the project&lt;/a&gt;, to receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;.&lt;br /&gt;You can test the other box types by creating new sandboxes of those types, however processes in these will be auto terminated after 5 minutes.</source>
-        <translation>&lt;b&gt;Các loại Sandbox khác&lt;/b&gt; chỉ dành riêng cho &lt;u&gt;những người ủng hộ dự án&lt;/u&gt;, các Sandbox Nâng cao quyền riêng tư &lt;b&gt;&lt;font color=&apos;red&apos;&gt;bảo vệ dữ liệu người dùng khỏi bị truy cập bất hợp pháp&lt;/font&gt;&lt;/b&gt; bởi các chương trình trong Sandbox.&lt;br /&gt;Nếu bạn chưa phải là người ủng hộ, sau đó hãy xem xét &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;hỗ trợ dự án&lt;/a&gt;, để nhận được một &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt;.&lt;br /&gt;Bạn có thể kiểm tra các loại Sandbox khác bằng cách tạo các Sandbox mới thuộc các loại đó, tuy nhiên, các quy trình trong các Sandbox này sẽ tự động kết thúc sau 5 phút.</translation>
+        <translation>&lt;b&gt;Lebih Banyak Tipe Kotak&lt;/b&gt; hanya tersedia untuk &lt;u&gt;pendukung proyek&lt;/u&gt;, kotak dengan Privasi Ditingkatkan &lt;b&gt;&lt;font color=&apos;red&apos;&gt;melindungi data pengguna dari akses ilegal&lt;/font&gt;&lt;/b&gt; oleh program dalam sandbox.&lt;br /&gt;Jika Anda belum menjadi pendukung, silakan pertimbangkan untuk &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;mendukung proyek ini&lt;/a&gt;, untuk menerima &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;.&lt;br /&gt;Anda dapat menguji tipe kotak lain dengan membuat sandbox baru dengan tipe tersebut, namun proses di dalamnya akan otomatis dihentikan setelah 5 menit.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="128"/>
         <source>Always show this sandbox in the systray list (Pinned)</source>
-        <translation>Luôn hiển thị Sandbox cát này trong danh sách systray (Đã ghim)</translation>
+        <translation>Selalu tampilkan sandbox ini di daftar systray (Disematkan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="806"/>
         <source>Open Windows Credentials Store (user mode)</source>
-        <translation>Mở Windows Credentials Store (chế độ người dùng)</translation>
+        <translation>Buka Penyimpanan Kredensial Windows (mode pengguna)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4086"/>
         <source>Prevent change to network and firewall parameters (user mode)</source>
-        <translation>Ngăn chặn sự thay đổi đối với các thông số mạng và tường lửa (chế độ người dùng)</translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="398"/>
-        <source>Force protection on mount</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="858"/>
-        <source>This feature does not block all means of obtaining a screen capture, only some common ones.</source>
-        <oldsource>This feature does not block all means of optaining a screen capture only some common once.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="841"/>
-        <source>Prevent move mouse, bring in front, and similar operations, this is likely to cause issues with games.</source>
-        <oldsource>Prevent move mouse, bring in front, and simmilar operations, this is likely to cause issues with games.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="895"/>
-        <source>Isolation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1661"/>
-        <source>Only Administrator user accounts can make changes to this sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Cegah perubahan pada parameter jaringan dan firewall (mode pengguna)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2090"/>
         <source>You can group programs together and give them a group name.  Program groups can be used with some of the settings instead of program names. Groups defined for the box overwrite groups defined in templates.</source>
-        <translation>Bạn có thể nhóm các chương trình lại với nhau và đặt tên nhóm cho chúng. Nhóm chương trình có thể được sử dụng với một số cài đặt thay vì tên chương trình. Các nhóm được xác định cho Sandbox sẽ ghi đè các nhóm được xác định trong mẫu.</translation>
+        <translation>Anda dapat mengelompokkan program bersama-sama dan memberinya nama grup. Grup program dapat digunakan dengan beberapa pengaturan sebagai pengganti nama program. Grup yang didefinisikan untuk kotak akan menimpa grup yang didefinisikan dalam template.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2164"/>
         <source>Programs entered here, or programs started from entered locations, will be put in this sandbox automatically, unless they are explicitly started in another sandbox.</source>
-        <translation>Các chương trình được nhập tại đây hoặc các chương trình được bắt đầu từ các vị trí đã nhập sẽ tự động được đưa vào Sandbox cát này, trừ khi chúng được khởi động rõ ràng trong Sandbox cát khác.</translation>
+        <translation>Program yang dimasukkan di sini, atau program yang dijalankan dari lokasi yang dimasukkan, akan secara otomatis dimasukkan ke dalam sandbox ini, kecuali secara eksplisit dijalankan di sandbox lain.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2436"/>
         <location filename="Forms/OptionsWindow.ui" line="2618"/>
         <source>Stop Behaviour</source>
-        <translation>Ngừng hành vi</translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2604"/>
-        <source>Stop Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2625"/>
-        <source>Use Linger Leniency</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2635"/>
-        <source>Don&apos;t stop lingering processes with windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Perilaku Penghentian</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2675"/>
         <source>Start Restrictions</source>
-        <translation>Bắt đầu hạn chế</translation>
+        <translation>Mulai Pembatasan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2755"/>
         <source>Issue message 1308 when a program fails to start</source>
-        <translation>Thông báo sự cố 1308 khi một chương trình không khởi động được</translation>
+        <translation>Tampilkan pesan 1308 saat program gagal dijalankan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2705"/>
         <source>Allow only selected programs to start in this sandbox. *</source>
-        <translation>Chỉ cho phép các chương trình đã chọn bắt đầu trong Sandbox này. *</translation>
+        <translation>Hanya izinkan program tertentu berjalan di sandbox ini. *</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2712"/>
         <source>Prevent selected programs from starting in this sandbox.</source>
-        <translation>Ngăn các chương trình đã chọn khởi động trong Sandbox này.</translation>
+        <translation>Cegah program tertentu berjalan di sandbox ini.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2698"/>
         <source>Allow all programs to start in this sandbox.</source>
-        <translation>Cho phép tất cả các chương trình bắt đầu trong Sandbox này.</translation>
+        <translation>Izinkan semua program berjalan di sandbox ini.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2688"/>
         <source>* Note: Programs installed to this sandbox won&apos;t be able to start at all.</source>
-        <translation>* Ghi chú: Các chương trình được cài đặt vào Sandbox này sẽ không thể khởi động được.</translation>
+        <translation>* Catatan: Program yang diinstal di sandbox ini tidak akan bisa dijalankan sama sekali.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3466"/>
         <source>Process Restrictions</source>
-        <translation>Hạn chế Tiến trình</translation>
+        <translation>Pembatasan Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3486"/>
         <source>Issue message 1307 when a program is denied internet access</source>
-        <translation>Thông báo sự cố 1307 khi một chương trình bị từ chối truy cập internet</translation>
+        <translation>Tampilkan pesan 1307 saat program ditolak akses internetnya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3500"/>
         <source>Prompt user whether to allow an exemption from the blockade.</source>
-        <translation>Nhắc người dùng xem có cho phép miễn lệnh phong tỏa hay không.</translation>
+        <translation>Tanyakan kepada pengguna apakah akan mengizinkan pengecualian dari pemblokiran.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3514"/>
         <source>Note: Programs installed to this sandbox won&apos;t be able to access the internet at all.</source>
-        <translation>Ghi chú: Các chương trình được cài đặt vào Sandbox này sẽ không thể truy cập internet.</translation>
+        <translation>Catatan: Program yang diinstal di sandbox ini tidak akan dapat mengakses internet sama sekali.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2845"/>
@@ -7839,235 +7546,226 @@ If you are a great patreaon supporter already, sandboxie can check online for an
         <location filename="Forms/OptionsWindow.ui" line="3272"/>
         <location filename="Forms/OptionsWindow.ui" line="3543"/>
         <source>Access</source>
-        <translation>Truy cập</translation>
+        <translation>Akses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="415"/>
         <source>Use volume serial numbers for drives, like: \drive\C~1234-ABCD</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan nomor seri volume untuk drive, seperti: \drive\C~1234-ABCD</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="432"/>
         <source>The box structure can only be changed when the sandbox is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Struktur kotak hanya dapat diubah saat sandbox kosong</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="486"/>
         <source>Disk/File access</source>
-        <translation type="unfinished"></translation>
+        <translation>Akses Disk/Berkas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="446"/>
         <source>Encrypt sandbox content</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkripsi konten sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="460"/>
         <source>When &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Box Encryption&lt;/a&gt; is enabled the box&apos;s root folder, including its registry hive, is stored in an encrypted disk image, using &lt;a href=&quot;https://diskcryptor.org&quot;&gt;Disk Cryptor&apos;s&lt;/a&gt; AES-XTS implementation.</source>
         <oldsource>When &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Box Encryption&lt;/a&gt; is enabled the box’s root folder, including its registry hive, is stored in an encrypted disk image, using &lt;a href=&quot;https://diskcryptor.org&quot;&gt;Disk Cryptor&apos;s&lt;/a&gt; AES-XTS implementation.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Saat &lt;a href=&quot;sbie://docs/boxencryption&quot;&gt;Enkripsi Kotak&lt;/a&gt; diaktifkan, folder root kotak beserta hive registry-nya akan disimpan dalam citra disk terenkripsi, menggunakan implementasi AES-XTS dari &lt;a href=&quot;https://diskcryptor.org&quot;&gt;Disk Cryptor&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="349"/>
         <source>Partially checked means prevent box removal but not content deletion.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dicentang sebagian berarti mencegah penghapusan kotak tetapi tidak penghapusan konten.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="408"/>
         <source>&lt;a href=&quot;addon://ImDisk&quot;&gt;Install ImDisk&lt;/a&gt; driver to enable Ram Disk and Disk Image support.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;addon://ImDisk&quot;&gt;Instal ImDisk&lt;/a&gt; driver untuk mengaktifkan dukungan Ram Disk dan Disk Image.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="506"/>
         <source>Store the sandbox content in a Ram Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpan konten sandbox di Ram Disk</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="439"/>
         <source>Set Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Atur Kata Sandi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="422"/>
         <source>Virtualization scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Skema Virtualisasi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="526"/>
         <source>Allow sandboxed processes to open files protected by EFS</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan proses sandbox membuka file yang dilindungi oleh EFS</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="583"/>
         <source>2113: Content of migrated file was discarded
 2114: File was not migrated, write access to file was denied
 2115: File was not migrated, file will be opened read only</source>
-        <translation type="unfinished"></translation>
+        <translation>2113: Konten file yang dimigrasikan telah dibuang
+2114: File tidak dimigrasikan, akses tulis ke file ditolak
+2115: File tidak dimigrasikan, file akan dibuka hanya-baca</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="588"/>
         <source>Issue message 2113/2114/2115 when a file is not fully migrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan pesan 2113/2114/2115 saat file tidak sepenuhnya dimigrasikan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="612"/>
         <source>Add Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah Pola</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="619"/>
         <source>Remove Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Pola</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="673"/>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Pola</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="681"/>
         <source>Sandboxie does not allow writing to host files, unless permitted by the user. When a sandboxed application attempts to modify a file, the entire file must be copied into the sandbox, for large files this can take a significate amount of time. Sandboxie offers options for handling these cases, which can be configured on this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie tidak mengizinkan penulisan ke file host, kecuali diizinkan oleh pengguna. Ketika aplikasi dalam sandbox mencoba memodifikasi file, seluruh file harus disalin ke dalam sandbox, untuk file besar ini bisa memakan waktu cukup lama. Sandboxie menawarkan opsi untuk menangani kasus-kasus ini, yang dapat dikonfigurasi di halaman ini.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="691"/>
         <source>Using wildcard patterns file specific behavior can be configured in the list below:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dengan menggunakan pola wildcard, perilaku spesifik file dapat dikonfigurasi dalam daftar di bawah ini:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="705"/>
         <source>When a file cannot be migrated, open it in read-only mode instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Ketika file tidak dapat dimigrasikan, buka saja dalam mode hanya-baca</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="976"/>
         <source>Open access to Proxy Configurations</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka akses ke Konfigurasi Proxy</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1084"/>
         <location filename="Forms/OptionsWindow.ui" line="3932"/>
         <source>Move Up</source>
-        <translation type="unfinished">Đi lên</translation>
+        <translation>Pindahkan ke Atas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1103"/>
         <location filename="Forms/OptionsWindow.ui" line="3943"/>
         <source>Move Down</source>
-        <translation type="unfinished">Đi xuống</translation>
+        <translation>Pindahkan ke Bawah</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1296"/>
         <source>File ACLs</source>
-        <translation type="unfinished"></translation>
+        <translation>ACL File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1356"/>
         <source>Security Isolation</source>
-        <translation type="unfinished">Cách ly an ninh</translation>
+        <translation>Isolasi Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1447"/>
         <source>Various isolation features can break compatibility with some applications. If you are using this sandbox &lt;b&gt;NOT for Security&lt;/b&gt; but for application portability, by changing these options you can restore compatibility by sacrificing some security.</source>
-        <translation type="unfinished"></translation>
+        <translation>Berbagai fitur isolasi dapat menyebabkan ketidakcocokan dengan beberapa aplikasi. Jika Anda menggunakan sandbox ini &lt;b&gt;BUKAN untuk Keamanan&lt;/b&gt; melainkan untuk portabilitas aplikasi, Anda dapat memulihkan kompatibilitas dengan mengubah opsi-opsi ini, meskipun harus mengorbankan sebagian keamanan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1417"/>
         <source>Disable Security Isolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan Isolasi Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="949"/>
         <source>Access Isolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Isolasi Akses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1483"/>
         <location filename="Forms/OptionsWindow.ui" line="1601"/>
         <source>Box Protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1637"/>
-        <source>Prevent processes from capturing window images from sandboxed windows</source>
-        <oldsource>Prevents getting an image of the window in the sandbox.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1608"/>
-        <source>Allow useful Windows processes access to protected processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Perlindungan Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1519"/>
         <source>Protect processes within this box from host processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Lindungi proses dalam kotak ini dari proses host</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1489"/>
         <source>Allow Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Izinkan Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1552"/>
         <source>Issue message 1318/1317 when a host process tries to access a sandboxed process/the box root</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan pesan 1318/1317 saat proses host mencoba mengakses proses sandbox/akar kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1496"/>
         <source>Sandboxie-Plus is able to create confidential sandboxes that provide robust protection against unauthorized surveillance or tampering by host processes. By utilizing an encrypted sandbox image, this feature delivers the highest level of operational confidentiality, ensuring the safety and integrity of sandboxed processes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus dapat membuat sandbox rahasia yang memberikan perlindungan kuat terhadap pengawasan atau gangguan tidak sah oleh proses host. Dengan menggunakan citra sandbox terenkripsi, fitur ini memberikan tingkat kerahasiaan operasional tertinggi, memastikan keamanan dan integritas proses dalam sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1644"/>
         <source>Deny Process</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolak Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1993"/>
         <source>Use a Sandboxie login instead of an anonymous token</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan login Sandboxie alih-alih token anonim</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3218"/>
         <source>Configure which processes can access Desktop objects like Windows and alike.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasikan proses mana yang dapat mengakses objek Desktop seperti Windows dan sejenisnya.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4338"/>
         <source>When the global hotkey is pressed 3 times in short succession this exception will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ketika hotkey global ditekan 3 kali secara berurutan dalam waktu singkat, pengecualian ini akan diabaikan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4341"/>
         <source>Exclude this sandbox from being terminated when &quot;Terminate All Processes&quot; is invoked.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kecualikan sandbox ini dari penghentian saat &quot;Hentikan Semua Proses&quot; dijalankan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4455"/>
         <source>Image Protection</source>
-        <translation type="unfinished"></translation>
+        <translation>Perlindungan Citra</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4493"/>
         <source>Issue message 1305 when a program tries to load a sandboxed dll</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan pesan 1305 saat program mencoba memuat dll dalam sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4486"/>
         <source>Prevent sandboxed programs installed on the host from loading DLLs from the sandbox</source>
         <oldsource>Prevent sandboxes programs installed on host from loading dll&apos;s from the sandbox</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Cegah program sandbox yang diinstal di host memuat DLL dari sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4425"/>
         <source>Dlls &amp;&amp; Extensions</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4474"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Deskripsi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4482"/>
@@ -8075,238 +7773,326 @@ If you are a great patreaon supporter already, sandboxie can check online for an
 This is done to prevent rogue processes inside the sandbox from creating a renamed copy of themselves and accessing protected resources. Another exploit vector is the injection of a library into an authorized process to get access to everything it is allowed to access. Using Host Image Protection, this can be prevented by blocking applications (installed on the host) running inside a sandbox from loading libraries from the sandbox itself.</source>
         <oldsource>Sandboxie’s resource access rules often discriminate against program binaries located inside the sandbox. OpenFilePath and OpenKeyPath work only for application binaries located on the host natively. In order to define a rule without this restriction, OpenPipePath or OpenConfPath must be used. Likewise, all Closed(File|Key|Ipc)Path directives which are defined by negation e.g. ‘ClosedFilePath=! iexplore.exe,C:Users*’ will be always closed for binaries located inside a sandbox. Both restriction policies can be disabled on the “Access policies” page.
 This is done to prevent rogue processes inside the sandbox from creating a renamed copy of themselves and accessing protected resources. Another exploit vector is the injection of a library into an authorized process to get access to everything it is allowed to access. Using Host Image Protection, this can be prevented by blocking applications (installed on the host) running inside a sandbox from loading libraries from the sandbox itself.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Aturan akses sumber daya Sandboxie sering membedakan binary program yang berada di dalam sandbox. OpenFilePath dan OpenKeyPath hanya berfungsi untuk binary aplikasi yang berada secara native di host. Untuk mendefinisikan aturan tanpa batasan ini, harus digunakan OpenPipePath atau OpenConfPath. Demikian pula, semua direktif Closed(File|Key|Ipc)Path yang didefinisikan dengan negasi, misalnya &apos;ClosedFilePath=!iexplore.exe,C:Users*&apos;, akan selalu tertutup untuk binary yang berada di dalam sandbox. Kedua kebijakan pembatasan ini dapat dinonaktifkan di halaman &quot;Access policies&quot;.
+Ini dilakukan untuk mencegah proses jahat di dalam sandbox membuat salinan dirinya sendiri dengan nama lain dan mengakses sumber daya yang dilindungi. Vektor eksploitasi lain adalah injeksi pustaka ke dalam proses yang diizinkan untuk mendapatkan akses ke semua yang dapat diaksesnya. Dengan menggunakan Host Image Protection, hal ini dapat dicegah dengan memblokir aplikasi (yang diinstal di host) yang berjalan di dalam sandbox agar tidak memuat pustaka dari sandbox itu sendiri.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4506"/>
         <source>Sandboxie&apos;s functionality can be enhanced by using optional DLLs which can be loaded into each sandboxed process on start by the SbieDll.dll file, the add-on manager in the global settings offers a couple of useful extensions, once installed they can be enabled here for the current box.</source>
         <oldsource>Sandboxies functionality can be enhanced using optional dll’s which can be loaded into each sandboxed process on start by the SbieDll.dll, the add-on manager in the global settings offers a couple useful extensions, once installed they can be enabled here for the current box.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Fungsionalitas Sandboxie dapat ditingkatkan dengan menggunakan DLL opsional yang dapat dimuat ke setiap proses sandbox saat dimulai oleh file SbieDll.dll. Manajer add-on di pengaturan global menawarkan beberapa ekstensi yang berguna, setelah diinstal, ekstensi tersebut dapat diaktifkan di sini untuk kotak saat ini.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1876"/>
         <source>Advanced Security</source>
         <oldsource>Adcanced Security</oldsource>
-        <translation type="unfinished">Bảo mật nâng cao</translation>
-    </message>
-    <message>
-        <source>Use a Sandboxie login instead of an anonymous token (experimental)</source>
-        <translation type="obsolete">Sử dụng thông tin đăng nhập Sandboxie thay vì mã thông báo ẩn danh (thử nghiệm)</translation>
+        <translation>Keamanan Lanjutan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1790"/>
         <source>Other isolation</source>
-        <translation type="unfinished">Cách ly khác</translation>
+        <translation>Isolasi Lainnya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1979"/>
         <source>Privilege isolation</source>
-        <translation type="unfinished">Cô lập đặc quyền</translation>
+        <translation>Isolasi Hak Istimewa</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1940"/>
         <source>Using a custom Sandboxie Token allows to isolate individual sandboxes from each other better, and it shows in the user column of task managers the name of the box a process belongs to. Some 3rd party security solutions may however have problems with custom tokens.</source>
-        <translation type="unfinished">Sử dụng Mã thông báo Sandbox tùy chỉnh cho phép cô lập các Sandbox riêng lẻ với nhau tốt hơn và nó hiển thị trong cột người dùng của người quản lý tác vụ tên của Sandbox mà một quy trình thuộc về. Tuy nhiên, một số giải pháp bảo mật của bên thứ 3 có thể gặp sự cố với mã thông báo tùy chỉnh.</translation>
+        <translation>Menggunakan Token Sandboxie khusus memungkinkan isolasi sandbox satu sama lain dengan lebih baik, dan akan menampilkan nama kotak tempat proses berada di kolom pengguna task manager. Namun, beberapa solusi keamanan pihak ketiga mungkin bermasalah dengan token khusus.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2122"/>
         <source>Program Control</source>
-        <translation type="unfinished">Kiểm soát chương trình</translation>
+        <translation>Kontrol Program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2144"/>
         <source>Force Programs</source>
-        <translation type="unfinished">Chương trình bắt buộc</translation>
+        <translation>Paksa Program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2224"/>
         <source>Disable forced Process and Folder for this sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Nonaktifkan proses dan folder paksa untuk sandbox ini</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2285"/>
         <source>Breakout Programs</source>
-        <translation type="unfinished">Chương trình đột phá</translation>
+        <translation>Program Breakout</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2390"/>
         <source>Breakout Program</source>
-        <translation type="unfinished">Chương trình đột phá</translation>
+        <translation>Program Breakout</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2364"/>
         <source>Breakout Folder</source>
-        <translation type="unfinished">Thư mục đột phá</translation>
+        <translation>Folder Breakout</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="398"/>
+        <source>Force protection on mount</source>
+        <translation>Paksa perlindungan saat mount</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="1637"/>
+        <source>Prevent processes from capturing window images from sandboxed windows</source>
+        <oldsource>Prevents getting an image of the window in the sandbox.</oldsource>
+        <translation>Cegah proses mengambil gambar jendela dari jendela sandbox</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="1608"/>
+        <source>Allow useful Windows processes access to protected processes</source>
+        <translation>Izinkan proses Windows yang berguna mengakses proses yang dilindungi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="858"/>
+        <source>This feature does not block all means of obtaining a screen capture, only some common ones.</source>
+        <oldsource>This feature does not block all means of optaining a screen capture only some common once.</oldsource>
+        <translation>Fitur ini tidak memblokir semua cara untuk mengambil tangkapan layar, hanya beberapa yang umum saja.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="841"/>
+        <source>Prevent move mouse, bring in front, and similar operations, this is likely to cause issues with games.</source>
+        <oldsource>Prevent move mouse, bring in front, and simmilar operations, this is likely to cause issues with games.</oldsource>
+        <translation>Cegah operasi seperti memindahkan mouse, membawa ke depan, dan operasi serupa, ini kemungkinan akan menyebabkan masalah pada game.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="851"/>
+        <source>Allow sandboxed windows to cover the taskbar</source>
+        <oldsource>Allow sandboxed windows to cover taskbar</oldsource>
+        <translation>Izinkan jendela sandbox menutupi taskbar</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="895"/>
+        <source>Isolation</source>
+        <translation>Isolasi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="1661"/>
+        <source>Only Administrator user accounts can make changes to this sandbox</source>
+        <translation>Hanya akun pengguna Administrator yang dapat membuat perubahan pada sandbox ini</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="1669"/>
+        <source>Job Object</source>
+        <translation>Objek Pekerjaan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2342"/>
         <source>Programs entered here will be allowed to break out of this sandbox when they start. It is also possible to capture them into another sandbox, for example to have your web browser always open in a dedicated box.</source>
         <oldsource>Programs entered here will be allowed to break out of this box when thay start, you can capture them into an other box. For example to have your web browser always open in a dedicated box. This feature requires a valid supporter certificate to be installed.</oldsource>
-        <translation type="unfinished">Các chương trình được nhập ở đây sẽ được phép thoát ra khỏi Sandbox này khi chúng bắt đầu. Cũng có thể thu thập chúng vào một Sandbox khác, chẳng hạn như để trình duyệt web của bạn luôn mở trong một Sandbox chuyên dụng.</translation>
+        <translation>Program yang dimasukkan di sini akan diizinkan keluar dari sandbox ini saat dijalankan. Anda juga dapat menangkapnya ke sandbox lain, misalnya agar browser web Anda selalu terbuka di kotak khusus.</translation>
     </message>
     <message>
-        <location filename="Forms/OptionsWindow.ui" line="2024"/>
-        <source>Create a new sandboxed token instead of stripping down the original token</source>
-        <translation type="unfinished"></translation>
+        <location filename="Forms/OptionsWindow.ui" line="1715"/>
+        <location filename="Forms/OptionsWindow.ui" line="1760"/>
+        <location filename="Forms/OptionsWindow.ui" line="1836"/>
+        <source>unlimited</source>
+        <translation>tidak terbatas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="301"/>
         <source>Box Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Catatan Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1346"/>
         <source>Use original Access Control Entries for boxed Files and Folders (for MSIServer enable exemptions)</source>
         <oldsource>Use original Access Control Entries for boxed Files and Folders (for MSIServer enable excemptions)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan Entri Kontrol Akses asli untuk file dan folder dalam sandbox (aktifkan pengecualian untuk MSIServer)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1364"/>
         <source>Run Processes on an own Sandboxed Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Jalankan proses di Desktop Sandbox sendiri</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1466"/>
         <source>Desktop Isolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Isolasi Desktop</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1473"/>
         <source>Open Window Station (improves compatibility by reducing desktop isolation)</source>
         <oldsource>Open Window Station (improves compatybility by reducing desktop isolation)</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Buka Window Station (meningkatkan kompatibilitas dengan mengurangi isolasi desktop)</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="1820"/>
+        <location filename="Forms/OptionsWindow.ui" line="1853"/>
+        <source>bytes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2020"/>
+        <source>Checked: A local group will also be added to the newly created sandboxed token, which allows addressing all sandboxes at once. Would be useful for auditing policies.
+Partially checked: No groups will be added to the newly created sandboxed token.</source>
+        <translation>Dicentang: Sebuah grup lokal juga akan ditambahkan ke token sandbox baru yang dibuat, sehingga memungkinkan untuk mengakses semua sandbox sekaligus. Ini akan berguna untuk audit kebijakan.
+Dicentang sebagian: Tidak ada grup yang akan ditambahkan ke token sandbox baru yang dibuat.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2024"/>
+        <source>Create a new sandboxed token instead of stripping down the original token</source>
+        <translation>Buat token sandbox baru alih-alih mengurangi hak token asli</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2034"/>
         <source>Drop ConHost.exe Process Integrity Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Turunkan Tingkat Integritas Proses ConHost.exe</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2275"/>
         <source>Force Children</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa Anak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2409"/>
         <source>Breakout Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokumen Breakout</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2416"/>
         <source>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SECURITY ADVISORY&lt;/font&gt;:&lt;/b&gt; Using &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; and/or &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in combination with Open[File/Pipe]Path directives can compromise security, as can the use of &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; allowing any * or insecure (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc...) extensions. Please review the security section for each option in the documentation before use.</source>
         <oldsource>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;SECURITY ADVISORY&lt;/font&gt;:&lt;/b&gt; Using &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; and/or &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; in combination with Open[File/Pipe]Path directives can compromise security, as can the use of &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; allowing any * or insecure (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;etc…) extensions. Please review the security section for each option in the documentation before use.</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;&lt;font color=&apos;red&apos;&gt;PERINGATAN KEAMANAN&lt;/font&gt;:&lt;/b&gt; Penggunaan &lt;a href=&quot;sbie://docs/breakoutfolder&quot;&gt;BreakoutFolder&lt;/a&gt; dan/atau &lt;a href=&quot;sbie://docs/breakoutprocess&quot;&gt;BreakoutProcess&lt;/a&gt; bersama dengan arahan Open[File/Pipe]Path dapat membahayakan keamanan, begitu juga penggunaan &lt;a href=&quot;sbie://docs/breakoutdocument&quot;&gt;BreakoutDocument&lt;/a&gt; yang mengizinkan ekstensi * atau tidak aman (*.exe;*.dll;*.ocx;*.cmd;*.bat;*.lnk;*.pif;*.url;*.ps1;dll...). Harap tinjau bagian keamanan untuk setiap opsi di dokumentasi sebelum digunakan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2446"/>
         <source>Lingering Programs</source>
-        <translation type="unfinished">Chương trình kéo dài</translation>
+        <translation>Program yang Tertinggal</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2492"/>
         <source>Lingering programs will be automatically terminated if they are still running after all other processes have been terminated.</source>
-        <translation type="unfinished">Các chương trình kéo dài sẽ tự động bị chấm dứt nếu chúng vẫn đang chạy sau khi tất cả các quá trình khác đã được chấm dứt.</translation>
+        <translation>Program yang masih berjalan akan otomatis dihentikan jika masih aktif setelah semua proses lain dihentikan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2525"/>
         <source>Leader Programs</source>
-        <translation type="unfinished">Các chương trình dẫn đầu</translation>
+        <translation>Program Pemimpin</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2591"/>
         <source>If leader processes are defined, all others are treated as lingering processes.</source>
-        <translation type="unfinished">If các quy trình của nhà lãnh đạo được xác định, tất cả các quy trình khác được coi là các quy trình kéo dài.</translation>
+        <translation>Jika proses pemimpin didefinisikan, semua proses lainnya dianggap sebagai proses yang tertinggal.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2604"/>
+        <source>Stop Options</source>
+        <translation>Opsi Penghentian</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2625"/>
+        <source>Use Linger Leniency</source>
+        <translation>Gunakan Linger Leniency</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2635"/>
+        <source>Don&apos;t stop lingering processes with windows</source>
+        <translation>Jangan hentikan proses yang tertinggal dengan jendela</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2762"/>
+        <source>This setting can be used to prevent programs from running in the sandbox without the user&apos;s knowledge or consent.</source>
+        <oldsource>This can be used to prevent a host malicious program from breaking through by launching a pre-designed malicious program into an unlocked encrypted sandbox.</oldsource>
+        <translation>Pengaturan ini dapat digunakan untuk mencegah program berjalan di sandbox tanpa sepengetahuan atau persetujuan pengguna.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="2765"/>
+        <source>Display a pop-up warning before starting a process in the sandbox from an external source</source>
+        <oldsource>A pop-up warning before launching a process into the sandbox from an external source.</oldsource>
+        <translation>Tampilkan peringatan pop-up sebelum memulai proses di sandbox dari sumber eksternal</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2797"/>
         <source>Files</source>
-        <translation type="unfinished">Các tập tin</translation>
+        <translation>Berkas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2890"/>
         <source>Configure which processes can access Files, Folders and Pipes. 
 &apos;Open&apos; access only applies to program binaries located outside the sandbox, you can use &apos;Open for All&apos; instead to make it apply to all programs, or change this behavior in the Policies tab.</source>
-        <translation type="unfinished">Định cấu hình quy trình nào có thể truy cập Tệp, Thư mục và Đường ống. 
-&apos;Mở&apos; quyền truy cập chỉ áp dụng cho các mã nhị phân của chương trình nằm bên ngoài Sandbox, bạn có thể dùng &apos;Mở cho tất cả&apos; thay vào đó để làm cho nó áp dụng cho tất cả các chương trình hoặc thay đổi hành vi này trong tab Chính sách.</translation>
+        <translation>Konfigurasikan proses mana yang dapat mengakses File, Folder, dan Pipe.
+Akses &apos;Open&apos; hanya berlaku untuk binary program yang berada di luar sandbox, Anda dapat menggunakan &apos;Open for All&apos; agar berlaku untuk semua program, atau ubah perilaku ini di tab Kebijakan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2904"/>
         <source>Registry</source>
-        <translation type="unfinished">Registry</translation>
+        <translation>Registry</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2997"/>
         <source>Configure which processes can access the Registry. 
 &apos;Open&apos; access only applies to program binaries located outside the sandbox, you can use &apos;Open for All&apos; instead to make it apply to all programs, or change this behavior in the Policies tab.</source>
-        <translation type="unfinished">Định cấu hình những tiến trình nào có thể truy cập vào Registry. 
-&apos;Mở&apos; quyền truy cập chỉ áp dụng cho các mã nhị phân của chương trình nằm bên ngoài Sandbox, bạn có thể dùng &apos;Mở cho tất cả&apos; thay vào đó để làm cho nó áp dụng cho tất cả các chương trình hoặc thay đổi hành vi này trong tab Chính sách.</translation>
+        <translation>Konfigurasikan proses mana yang dapat mengakses Registry.
+Akses &apos;Open&apos; hanya berlaku untuk binary program yang berada di luar sandbox, Anda dapat menggunakan &apos;Open for All&apos; agar berlaku untuk semua program, atau ubah perilaku ini di tab Kebijakan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3011"/>
         <source>IPC</source>
-        <translation type="unfinished">IPC</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3104"/>
         <source>Configure which processes can access NT IPC objects like ALPC ports and other processes memory and context.
 To specify a process use &apos;$:program.exe&apos; as path.</source>
-        <translation type="unfinished">Định cấu hình quy trình nào có thể truy cập các đối tượng NT IPC như cổng ALPC và bộ nhớ và ngữ cảnh quy trình khác.
-Để chỉ định một quy trình sử dụng &apos;$:program.exe&apos; như đường dẫn.</translation>
+        <translation>Konfigurasikan proses mana yang dapat mengakses objek IPC NT seperti port ALPC dan memori serta konteks proses lain.
+Untuk menentukan proses, gunakan &apos;$:program.exe&apos; sebagai path.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3118"/>
         <source>Wnd</source>
-        <translation type="unfinished">Wnd</translation>
+        <translation>Wnd</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3203"/>
         <source>Wnd Class</source>
-        <translation type="unfinished">Wnd Class</translation>
-    </message>
-    <message>
-        <source>Configure which processes can access desktop objects like windows and alike.</source>
-        <oldsource>Configure which processes can access Desktop objects like Windows and alike.</oldsource>
-        <translation type="obsolete">Định cấu hình các tiến trình nào có thể truy cập các đối tượng Máy tính để bàn như Windows và các quy trình tương tự.</translation>
+        <translation>Kelas Wnd</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3231"/>
         <source>COM</source>
-        <translation type="unfinished">COM</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3277"/>
         <source>Class Id</source>
-        <translation type="unfinished">Class Id</translation>
+        <translation>ID Kelas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3324"/>
         <source>Configure which processes can access COM objects.</source>
-        <translation type="unfinished">Định cấu hình tiến trình nào có thể truy cập các đối tượng COM.</translation>
+        <translation>Konfigurasikan proses mana yang dapat mengakses objek COM.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3336"/>
         <source>Don&apos;t use virtualized COM, Open access to hosts COM infrastructure (not recommended)</source>
-        <translation type="unfinished">Không sử dụng COM ảo hóa, Mở quyền truy cập vào máy chủ cơ sở hạ tầng COM (không được khuyến nghị)</translation>
+        <translation>Jangan gunakan COM virtual, Buka akses ke infrastruktur COM host (tidak disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3344"/>
         <source>Access Policies</source>
-        <translation type="unfinished">Chính sách truy cập</translation>
+        <translation>Kebijakan Akses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3456"/>
         <source>Network Options</source>
-        <translation type="unfinished">Tùy chọn mạng</translation>
+        <translation>Opsi Jaringan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3553"/>
         <source>Set network/internet access for unlisted processes:</source>
-        <translation>Đặt quyền truy cập mạng / internet cho các quy trình không công khai:</translation>
+        <translation>Atur akses jaringan/internet untuk proses yang tidak terdaftar:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3603"/>
         <source>Test Rules, Program:</source>
-        <translation>Quy tắc kiểm tra, chương trình:</translation>
+        <translation>Uji Aturan, Program:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3616"/>
@@ -8316,22 +8102,22 @@ To specify a process use &apos;$:program.exe&apos; as path.</source>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3629"/>
         <source>IP:</source>
-        <translation>IP:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3642"/>
         <source>Protocol:</source>
-        <translation>Giao thức:</translation>
+        <translation>Protokol:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3655"/>
         <source>X</source>
-        <translation>X</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3671"/>
         <source>Add Rule</source>
-        <translation>Thêm quy tắc</translation>
+        <translation>Tambah Aturan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="668"/>
@@ -8345,7 +8131,7 @@ To specify a process use &apos;$:program.exe&apos; as path.</source>
         <location filename="Forms/OptionsWindow.ui" line="3887"/>
         <location filename="Forms/OptionsWindow.ui" line="4627"/>
         <source>Program</source>
-        <translation>Chương trình</translation>
+        <translation>Program</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="663"/>
@@ -8353,173 +8139,255 @@ To specify a process use &apos;$:program.exe&apos; as path.</source>
         <location filename="Forms/OptionsWindow.ui" line="3687"/>
         <location filename="Forms/OptionsWindow.ui" line="4780"/>
         <source>Action</source>
-        <translation>Hoạt động</translation>
+        <translation>Aksi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3692"/>
         <location filename="Forms/OptionsWindow.ui" line="3897"/>
         <source>Port</source>
-        <translation>Port</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3697"/>
         <location filename="Forms/OptionsWindow.ui" line="3804"/>
         <location filename="Forms/OptionsWindow.ui" line="3892"/>
         <source>IP</source>
-        <translation>IP</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3702"/>
         <source>Protocol</source>
-        <translation>Giao thức</translation>
+        <translation>Protokol</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3723"/>
         <source>CAUTION: Windows Filtering Platform is not enabled with the driver, therefore these rules will be applied only in user mode and can not be enforced!!! This means that malicious applications may bypass them.</source>
-        <translation>THẬN TRỌNG:Nền tảng lọc của Windows không được kích hoạt với trình điều khiển, do đó các quy tắc này sẽ chỉ được áp dụng trong chế độ người dùng và không thể được thực thi !!! Điều này có nghĩa là các ứng dụng độc hại có thể bỏ qua chúng.</translation>
+        <translation>PERHATIAN: Windows Filtering Platform tidak diaktifkan pada driver, sehingga aturan ini hanya akan diterapkan di mode pengguna dan tidak dapat ditegakkan!!! Ini berarti aplikasi berbahaya dapat melewatinya.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2787"/>
         <source>Resource Access</source>
-        <translation>Quyền truy cập tài nguyên</translation>
+        <translation>Akses Sumber Daya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2870"/>
         <source>Add File/Folder</source>
-        <translation>Thêm tệp / thư mục</translation>
+        <translation>Tambah Berkas/Folder</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3164"/>
         <source>Add Wnd Class</source>
-        <translation>Thêm Wnd Class</translation>
+        <translation>Tambahkan Kelas Wnd</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3043"/>
         <source>Add IPC Path</source>
-        <translation>Thêm IPC Path</translation>
+        <translation>Tambah Path IPC</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1323"/>
         <source>Use the original token only for approved NT system calls</source>
-        <translation type="unfinished">Chỉ sử dụng mã thông báo ban đầu cho các cuộc gọi hệ thống NT đã được phê duyệt</translation>
+        <translation>Gunakan token asli hanya untuk panggilan sistem NT yang disetujui</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1257"/>
         <source>Enable all security enhancements (make security hardened box)</source>
-        <translation type="unfinished">Bật tất cả các cải tiến bảo mật (làm cho hộp tăng cường bảo mật)</translation>
+        <translation>Aktifkan semua peningkatan keamanan (jadikan kotak lebih aman)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1156"/>
         <source>Restrict driver/device access to only approved ones</source>
-        <translation type="unfinished">Chỉ giới hạn quyền truy cập của trình điều khiển / thiết bị đối với những người đã được phê duyệt</translation>
+        <translation>Batasi akses driver/perangkat hanya untuk yang disetujui</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1339"/>
         <source>Security enhancements</source>
-        <translation type="unfinished">Cải tiến bảo mật</translation>
+        <translation>Peningkatan Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="827"/>
         <source>Issue message 2111 when a process access is denied</source>
-        <translation type="unfinished">Thông báo sự cố 2111 khi quyền truy cập quy trình bị từ chối</translation>
+        <translation>Tampilkan pesan 2111 saat akses proses ditolak</translation>
     </message>
     <message>
-        <source>Various advanced isolation features can break compatibility with some applications. If you are using this sandbox &lt;b&gt;NOT for Security&lt;/b&gt; but for simple application portability, by changing these options you can restore compatibility by sacrificing some security.</source>
-        <translation type="obsolete">Các tính năng cách ly nâng cao khác nhau có thể phá vỡ khả năng tương thích với một số ứng dụng. Nếu bạn đang sử dụng Sandbox này &lt;b&gt;KHÔNG dành cho bảo mật&lt;/b&gt; nhưng đối với tính di động của ứng dụng đơn giản, bằng cách thay đổi các tùy chọn này, bạn có thể khôi phục khả năng tương thích bằng cách hy sinh một số bảo mật.</translation>
+        <location filename="Forms/OptionsWindow.ui" line="834"/>
+        <source>Prevent sandboxed processes from interfering with power operations (Experimental)</source>
+        <translation>Cegah proses sandbox mengganggu operasi daya (Eksperimental)</translation>
     </message>
     <message>
-        <source>Access isolation</source>
-        <translation type="obsolete">Truy cập cách ly</translation>
+        <location filename="Forms/OptionsWindow.ui" line="844"/>
+        <source>Prevent interference with the user interface (Experimental)</source>
+        <translation>Cegah gangguan pada antarmuka pengguna (Eksperimental)</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="861"/>
+        <source>Prevent sandboxed processes from capturing window images (Experimental, may cause UI glitches)</source>
+        <translation>Cegah proses sandbox mengambil gambar jendela (Eksperimental, dapat menyebabkan gangguan UI)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1933"/>
         <source>Sandboxie token</source>
-        <translation type="unfinished">Mã thông báo Sandboxie</translation>
+        <translation>Token Sandboxie</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2977"/>
         <source>Add Reg Key</source>
-        <translation>Thêm Reg Key</translation>
+        <translation>Tambah Kunci Reg</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3304"/>
         <source>Add COM Object</source>
-        <translation>Thêm Đối tượng COM</translation>
+        <translation>Tambah Objek COM</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3357"/>
         <source>Apply Close...=!&lt;program&gt;,... rules also to all binaries located in the sandbox.</source>
-        <translation type="unfinished">Áp dụng Đóng...=!&lt;chương trình&gt;,... quy tắc cũng cho tất cả các tệp nhị phân nằm trong Sandbox.</translation>
+        <translation>Terapkan aturan Close...=!&lt;program&gt;,... juga untuk semua binary yang berada di dalam sandbox.</translation>
     </message>
     <message>
-        <location filename="Forms/OptionsWindow.ui" line="3917"/>
-        <source>Bypass IPs</source>
-        <translation type="unfinished"></translation>
+        <location filename="Forms/OptionsWindow.ui" line="3736"/>
+        <source>DNS Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3753"/>
+        <source>Add Filter</source>
+        <translation>Tambah Filter</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3773"/>
+        <source>With the DNS filter individual domains can be blocked, on a per process basis. Leave the IP column empty to block or enter an ip to redirect.</source>
+        <translation>Dengan filter DNS, domain individual dapat diblokir berdasarkan proses. Biarkan kolom IP kosong untuk memblokir atau masukkan IP untuk mengalihkan.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3799"/>
+        <source>Domain</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3815"/>
+        <source>Internet Proxy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3876"/>
+        <source>Add Proxy</source>
+        <translation>Tambah Proxy</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3849"/>
+        <source>Test Proxy</source>
+        <translation>Uji Proxy</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3902"/>
+        <source>Auth</source>
+        <translation>Otentikasi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3907"/>
+        <source>Login</source>
+        <translation>Masuk</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3912"/>
+        <source>Password</source>
+        <translation>Kata Sandi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3832"/>
+        <source>Sandboxed programs can be forced to use a preset SOCKS5 proxy.</source>
+        <translation>Program dalam sandbox dapat dipaksa untuk menggunakan proxy SOCKS5 yang telah ditetapkan.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3842"/>
+        <source>Resolve hostnames via proxy</source>
+        <translation>Resolusi nama host melalui proxy</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3970"/>
+        <source>Other Options</source>
+        <translation>Opsi Lainnya</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4025"/>
+        <source>Port Blocking</source>
+        <translation>Pemblokiran Port</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4107"/>
+        <source>Block common SAMBA ports</source>
+        <translation>Blokir port SAMBA umum</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4100"/>
+        <source>Block DNS, UDP port 53</source>
+        <translation>Blokir DNS, port UDP 53</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4121"/>
         <source>File Recovery</source>
-        <translation>Phục hồi tập tin</translation>
+        <translation>Pemulihan File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4131"/>
         <source>Quick Recovery</source>
-        <translation type="unfinished">Khôi phục nhanh</translation>
+        <translation>Pemulihan Cepat</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4200"/>
         <source>Add Folder</source>
-        <translation>Thêm thư mục</translation>
+        <translation>Tambah Folder</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4210"/>
         <source>Immediate Recovery</source>
-        <translation type="unfinished">Phục hồi ngay lập tức</translation>
+        <translation>Pemulihan Langsung</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4240"/>
         <source>Ignore Extension</source>
-        <translation>Bỏ qua phần mở rộng</translation>
+        <translation>Abaikan Ekstensi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4286"/>
         <source>Ignore Folder</source>
-        <translation>Bỏ qua thư mục</translation>
+        <translation>Abaikan Folder</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4247"/>
         <source>Enable Immediate Recovery prompt to be able to recover files as soon as they are created.</source>
-        <translation>Bật lời nhắc Khôi phục ngay lập tức để có thể khôi phục tệp ngay sau khi chúng được tạo.</translation>
+        <translation>Aktifkan prompt Pemulihan Langsung agar dapat memulihkan file segera setelah dibuat.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4230"/>
         <source>You can exclude folders and file types (or file extensions) from Immediate Recovery.</source>
-        <translation>Bạn có thể loại trừ các thư mục và loại tệp (hoặc phần mở rộng tệp) khỏi Khôi phục ngay lập tức.</translation>
+        <translation>Anda dapat mengecualikan folder dan tipe file (atau ekstensi file) dari Pemulihan Langsung.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4163"/>
         <source>When the Quick Recovery function is invoked, the following folders will be checked for sandboxed content. </source>
-        <translation>Khi chức năng Khôi phục nhanh được gọi, các thư mục sau sẽ được kiểm tra nội dung Sandbox. </translation>
+        <translation>Saat fungsi Pemulihan Cepat dijalankan, folder berikut akan diperiksa untuk konten sandbox. </translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4549"/>
         <source>Advanced Options</source>
-        <translation>Tùy chọn nâng cao</translation>
+        <translation>Opsi Lanjutan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4565"/>
         <source>Miscellaneous</source>
-        <translation>Khác</translation>
+        <translation>Lain-lain</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3211"/>
         <source>Don&apos;t alter window class names created by sandboxed programs</source>
-        <translation>Không thay đổi tên lớp cửa sổ được tạo bởi các chương trình Sandbox</translation>
+        <translation>Jangan mengubah nama kelas jendela yang dibuat oleh program sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="2000"/>
         <source>Do not start sandboxed services using a system token (recommended)</source>
-        <translation>Không khởi động các dịch vụ Sandbox bằng mã thông báo hệ thống (được khuyến nghị)</translation>
+        <translation>Jangan mulai layanan sandbox dengan token sistem (disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="946"/>
@@ -8531,156 +8399,152 @@ To specify a process use &apos;$:program.exe&apos; as path.</source>
         <location filename="Forms/OptionsWindow.ui" line="1976"/>
         <location filename="Forms/OptionsWindow.ui" line="4452"/>
         <source>Protect the sandbox integrity itself</source>
-        <translation>Bảo vệ tính toàn vẹn của hộp cát</translation>
+        <translation>Lindungi integritas sandbox itu sendiri</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1950"/>
         <source>Drop critical privileges from processes running with a SYSTEM token</source>
-        <translation>Bỏ các đặc quyền quan trọng khỏi các quy trình đang chạy với mã thông báo HỆ THỐNG</translation>
+        <translation>Hapus hak istimewa penting dari proses yang berjalan dengan token SYSTEM</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1890"/>
         <location filename="Forms/OptionsWindow.ui" line="1903"/>
         <source>(Security Critical)</source>
-        <translation>(Bảo mật quan trọng)</translation>
+        <translation>(Kritis Keamanan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1917"/>
         <source>Protect sandboxed SYSTEM processes from unprivileged processes</source>
-        <translation>Bảo vệ các quy trình HỆ THỐNG hộp cát khỏi các quy trình không có đặc quyền</translation>
+        <translation>Lindungi proses SYSTEM dalam sandbox dari proses tanpa hak istimewa</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4395"/>
         <source>Force usage of custom dummy Manifest files (legacy behaviour)</source>
-        <translation>Buộc sử dụng các tệp Tệp kê khai giả tùy chỉnh (hành vi kế thừa)</translation>
+        <translation>Paksa penggunaan file Manifest dummy khusus (perilaku lama)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3440"/>
         <source>The rule specificity is a measure to how well a given rule matches a particular path, simply put the specificity is the length of characters from the begin of the path up to and including the last matching non-wildcard substring. A rule which matches only file types like &quot;*.tmp&quot; would have the highest specificity as it would always match the entire file path.
 The process match level has a higher priority than the specificity and describes how a rule applies to a given process. Rules applying by process name or group have the strongest match level, followed by the match by negation (i.e. rules applying to all processes but the given one), while the lowest match levels have global matches, i.e. rules that apply to any process.</source>
-        <translation>Độ cụ thể của quy tắc là thước đo mức độ phù hợp của một quy tắc nhất định với một đường dẫn cụ thể, chỉ cần đặt độ cụ thể là độ dài của các ký tự từ đầu đường dẫn đến và bao gồm chuỗi con không phải ký tự đại diện phù hợp cuối cùng. Quy tắc chỉ khớp với các loại tệp như &quot;*.tmp&quot; sẽ có độ đặc hiệu cao nhất vì nó sẽ luôn khớp với toàn bộ đường dẫn tệp.
-Mức độ đối sánh tiến trình có mức độ ưu tiên cao hơn mức độ cụ thể và mô tả cách áp dụng quy tắc cho một tiến trình nhất định. Các quy tắc áp dụng theo tên tiến trình hoặc nhóm có mức đối sánh mạnh nhất, tiếp theo là đối sánh bằng phủ định (tức là các quy tắc áp dụng cho tất cả các tiến trình trừ quy trình đã cho), trong khi các cấp đối sánh thấp nhất có các đối sánh toàn cục, tức là các quy tắc áp dụng cho bất kỳ tiến trình nào.</translation>
+        <translation>Spesifisitas aturan adalah ukuran seberapa baik suatu aturan cocok dengan path tertentu, sederhananya, spesifisitas adalah panjang karakter dari awal path hingga dan termasuk substring non-wildcard terakhir yang cocok. Aturan yang hanya cocok dengan tipe file seperti &quot;*.tmp&quot; akan memiliki spesifisitas tertinggi karena selalu cocok dengan seluruh path file.
+Tingkat kecocokan proses memiliki prioritas lebih tinggi daripada spesifisitas dan menggambarkan bagaimana aturan diterapkan pada proses tertentu. Aturan yang diterapkan berdasarkan nama atau grup proses memiliki tingkat kecocokan terkuat, diikuti oleh kecocokan dengan negasi (yaitu aturan yang berlaku untuk semua proses kecuali yang disebutkan), sedangkan tingkat kecocokan terendah adalah kecocokan global, yaitu aturan yang berlaku untuk semua proses.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3374"/>
         <source>Prioritize rules based on their Specificity and Process Match Level</source>
-        <translation>Ưu tiên các quy tắc dựa trên Mức độ cụ thể và Đối sánh quy trình của chúng</translation>
+        <translation>Prioritaskan aturan berdasarkan Spesifisitas dan Tingkat Kecocokan Prosesnya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3420"/>
         <source>Privacy Mode, block file and registry access to all locations except the generic system ones</source>
-        <translation>Chế độ bảo mật, chặn tệp và quyền truy cập đăng ký vào tất cả các vị trí ngoại trừ các vị trí hệ thống chung</translation>
+        <translation>Mode Privasi, blokir akses file dan registry ke semua lokasi kecuali lokasi sistem umum</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3400"/>
         <source>Access Mode</source>
-        <translation>Chế độ truy cập</translation>
+        <translation>Mode Akses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3364"/>
         <source>When the Privacy Mode is enabled, sandboxed processes will be only able to read C:\Windows\*, C:\Program Files\*, and parts of the HKLM registry, all other locations will need explicit access to be readable and/or writable. In this mode, Rule Specificity is always enabled.</source>
-        <translation>Khi Chế độ bảo mật được bật, các quy trình Sandbox sẽ chỉ có thể đọc C:\Windows\*, C:\Program Files\* và các phần của sổ đăng ký HKLM, tất cả các vị trí khác sẽ cần quyền truy cập rõ ràng để có thể đọc được và / hoặc có thể ghi được. Trong chế độ này, Tính cụ thể của quy tắc luôn được bật.</translation>
+        <translation>Saat Mode Privasi diaktifkan, proses dalam sandbox hanya dapat membaca C:\Windows\*, C:\Program Files\*, dan sebagian registry HKLM, semua lokasi lain memerlukan akses eksplisit agar dapat dibaca dan/atau ditulis. Dalam mode ini, Spesifisitas Aturan selalu diaktifkan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3433"/>
         <source>Rule Policies</source>
-        <translation>Chính sách Quy tắc</translation>
+        <translation>Kebijakan Aturan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3350"/>
         <source>Apply File and Key Open directives only to binaries located outside the sandbox.</source>
-        <translation>Chỉ áp dụng lệnh Mở tệp và Khóa cho các tệp nhị phân nằm bên ngoài Sandbox.</translation>
+        <translation>Terapkan arahan File dan Key Open hanya untuk binary yang berada di luar sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1986"/>
         <source>Start the sandboxed RpcSs as a SYSTEM process (not recommended)</source>
-        <translation>Bắt đầu các RpcS có Sandbox dưới dạng quy trình HỆ THỐNG (không được khuyến nghị)</translation>
+        <translation>Jalankan RpcSs dalam sandbox sebagai proses SYSTEM (tidak disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1910"/>
         <source>Allow only privileged processes to access the Service Control Manager</source>
-        <translation>Chỉ cho phép các quy trình đặc quyền truy cập Trình quản lý kiểm soát dịch vụ</translation>
+        <translation>Hanya izinkan proses dengan hak istimewa mengakses Service Control Manager</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4323"/>
         <location filename="Forms/OptionsWindow.ui" line="4388"/>
         <source>Compatibility</source>
-        <translation>Khả năng tương thích</translation>
+        <translation>Kompatibilitas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1774"/>
         <source>Add sandboxed processes to job objects (recommended)</source>
-        <translation>Thêm các quy trình Sandbox vào các đối tượng công việc (được khuyến nghị)</translation>
+        <translation>Tambahkan proses sandbox ke objek job (disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4402"/>
         <source>Emulate sandboxed window station for all processes</source>
-        <translation>Mô phỏng trạm cửa sổ Sandbox cho tất cả các quy trình</translation>
+        <translation>Emulasikan window station sandbox untuk semua proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1400"/>
         <source>Security Isolation through the usage of a heavily restricted process token is Sandboxie&apos;s primary means of enforcing sandbox restrictions, when this is disabled the box is operated in the application compartment mode, i.e. it&apos;s no longer providing reliable security, just simple application compartmentalization.</source>
         <oldsource>Security Isolation through the usage of a heavily restricted process token is Sandboxie&apos;s primary means of enforcing sandbox restrictions, when this is disabled the box is operated in the application compartment mode, i.e. it’s no longer providing reliable security, just simple application compartmentalization.</oldsource>
-        <translation type="unfinished">Cách ly bảo mật thông qua việc sử dụng mã thông báo quy trình bị hạn chế nhiều là phương tiện chính của Sandboxie để thực thi các hạn chế Sandbox, khi điều này bị vô hiệu hóa, Sandbox sẽ được vận hành ở chế độ ngăn ứng dụng, tức là nó không còn cung cấp bảo mật đáng tin cậy nữa, chỉ phân chia ứng dụng đơn giản.</translation>
+        <translation>Isolasi keamanan melalui penggunaan token proses yang sangat dibatasi adalah cara utama Sandboxie menegakkan pembatasan sandbox. Jika ini dinonaktifkan, kotak akan dijalankan dalam mode kompartemen aplikasi, artinya tidak lagi memberikan keamanan yang andal, hanya sekadar pemisahan aplikasi sederhana.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="969"/>
         <source>Allow sandboxed programs to manage Hardware/Devices</source>
-        <translation>Cho phép các chương trình hộp cát quản lý Phần cứng/Thiết bị</translation>
-    </message>
-    <message>
-        <source>Disable Security Isolation (experimental)</source>
-        <translation type="vanished">Tắt cách ly bảo mật (thử nghiệm)</translation>
+        <translation>Izinkan program sandbox mengelola Perangkat Keras/Perangkat</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="920"/>
         <source>Open access to Windows Security Account Manager</source>
-        <translation>Mở quyền truy cập vào Trình quản lý tài khoản bảo mật của Windows</translation>
+        <translation>Buka akses ke Windows Security Account Manager</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="913"/>
         <source>Open access to Windows Local Security Authority</source>
-        <translation>Mở quyền truy cập vào Windows Local Security Authority</translation>
+        <translation>Buka akses ke Windows Local Security Authority</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="820"/>
         <source>Allow to read memory of unsandboxed processes (not recommended)</source>
-        <translation>Cho phép đọc bộ nhớ của các quy trình không trong Sandbox (không được khuyến nghị)</translation>
+        <translation>Izinkan membaca memori proses di luar sandbox (tidak disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4348"/>
         <source>Disable the use of RpcMgmtSetComTimeout by default (this may resolve compatibility issues)</source>
-        <translation>Vô hiệu hóa việc sử dụng RpcMgmtSetComTimeout theo mặc định (điều này có thể giải quyết các vấn đề tương thích)</translation>
+        <translation>Nonaktifkan penggunaan RpcMgmtSetComTimeout secara default (ini mungkin dapat mengatasi masalah kompatibilitas)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1393"/>
         <source>Security Isolation &amp; Filtering</source>
-        <translation>Cách ly an ninh &amp; Lọc</translation>
+        <translation>Isolasi &amp; Penyaringan Keamanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1410"/>
         <source>Disable Security Filtering (not recommended)</source>
-        <translation>Tắt tính năng Lọc bảo mật (không được khuyến nghị)</translation>
+        <translation>Nonaktifkan Penyaringan Keamanan (tidak disarankan)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1424"/>
         <source>Security Filtering used by Sandboxie to enforce filesystem and registry access restrictions, as well as to restrict process access.</source>
-        <translation>Lọc bảo mật được Sandboxie sử dụng để thực thi các hạn chế truy cập hệ thống tệp và sổ đăng ký, cũng như để hạn chế quyền truy cập quy trình.</translation>
+        <translation>Penyaringan keamanan yang digunakan oleh Sandboxie untuk menegakkan pembatasan akses sistem file dan registry, serta membatasi akses proses.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="903"/>
         <source>The below options can be used safely when you don&apos;t grant admin rights.</source>
-        <translation>Các tùy chọn dưới đây có thể được sử dụng một cách an toàn khi bạn không cấp quyền quản trị viên.</translation>
+        <translation>Opsi-opsi di bawah ini dapat digunakan dengan aman jika Anda tidak memberikan hak admin.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4663"/>
         <source>Triggers</source>
-        <translation>Triggers</translation>
+        <translation>Pemicu</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4775"/>
         <source>Event</source>
-        <translation>Event</translation>
+        <translation>Peristiwa</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4725"/>
@@ -8688,197 +8552,244 @@ Mức độ đối sánh tiến trình có mức độ ưu tiên cao hơn mức 
         <location filename="Forms/OptionsWindow.ui" line="4911"/>
         <location filename="Forms/OptionsWindow.ui" line="4930"/>
         <source>Run Command</source>
-        <translation>Chạy lệnh</translation>
+        <translation>Jalankan Perintah</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4892"/>
         <source>Start Service</source>
-        <translation>Bắt đầu dịch vụ</translation>
+        <translation>Mulai Layanan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4838"/>
         <source>These events are executed each time a box is started</source>
-        <translation>Các sự kiện này được thực thi mỗi khi một Sandbox được khởi động</translation>
+        <translation>Peristiwa-peristiwa ini dijalankan setiap kali sebuah沙盒启动</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4841"/>
         <source>On Box Start</source>
-        <translation>Khi bắt đầu Sandbox</translation>
+        <translation>Saat Kotak Dimulai</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4700"/>
         <location filename="Forms/OptionsWindow.ui" line="4758"/>
         <source>These commands are run UNBOXED just before the box content is deleted</source>
-        <translation>Các lệnh này được chạy ngoài Sandbox ngay trước khi nội dung Sandbox bị xóa</translation>
+        <translation>Perintah-perintah ini dijalankan di luar沙盒 tepat sebelum konten kotak dihapus</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1767"/>
         <source>Allow use of nested job objects (works on Windows 8 and later)</source>
-        <translation type="unfinished">Cho phép sử dụng các đối tượng công việc lồng ghép nhau (hoạt động trên Windows 8 trở lên)</translation>
+        <translation>Izinkan penggunaan objek job bertingkat (berfungsi di Windows 8 ke atas)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4732"/>
         <source>These commands are executed only when a box is initialized. To make them run again, the box content must be deleted.</source>
-        <translation>Các lệnh này chỉ được thực thi khi một Sandbox được khởi tạo. Để làm cho chúng chạy lại, nội dung Sandbox phải được xóa. </translation>
+        <translation>Perintah-perintah ini hanya dijalankan saat sebuah沙盒初始化。Untuk menjalankannya lagi, konten kotak harus dihapus.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4735"/>
         <source>On Box Init</source>
-        <translation>Khi khởi động Sandbox</translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4793"/>
-        <source>These commands are run UNBOXED after all processes in the sandbox have finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat Inisialisasi Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4806"/>
         <source>Here you can specify actions to be executed automatically on various box events.</source>
-        <translation>Tại đây, bạn có thể chỉ định các hành động được thực thi tự động trên các sự kiện Sandbox khác nhau.</translation>
-    </message>
-    <message>
-        <source>Hide Processes</source>
-        <translation type="vanished">Ẩn các tiến trình</translation>
+        <translation>Di sini Anda dapat menentukan tindakan yang akan dijalankan secara otomatis pada berbagai peristiwa kotak.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5041"/>
         <source>Add Process</source>
-        <translation>Thêm tiến trình</translation>
+        <translation>Tambah Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5004"/>
         <source>Hide host processes from processes running in the sandbox.</source>
-        <translation>Ẩn các tiến trình máy chủ khỏi các tiến trình đang chạy trong Sandbox.</translation>
+        <translation>Sembunyikan proses host dari proses yang berjalan di dalam sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="715"/>
         <source>Restrictions</source>
-        <translation type="unfinished">Những hạn chế</translation>
+        <translation>Pembatasan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4307"/>
         <source>Various Options</source>
-        <translation type="unfinished">Các tùy chọn khác nhau</translation>
+        <translation>Berbagai Opsi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4331"/>
         <source>Apply ElevateCreateProcess Workaround (legacy behaviour)</source>
-        <translation type="unfinished">Áp dụng ElevateCreateProcess Workaround (hành vi cũ)</translation>
+        <translation>Terapkan Solusi ElevateCreateProcess (perilaku lama)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4355"/>
         <source>Use desktop object workaround for all processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan solusi objek desktop untuk semua proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4863"/>
         <source>This command will be run before the box content will be deleted</source>
-        <translation type="unfinished">Lệnh này sẽ được chạy trước khi nội dung Sandbox bị xóa</translation>
+        <translation>Perintah ini akan dijalankan sebelum konten kotak dihapus</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4703"/>
         <source>On File Recovery</source>
-        <translation type="unfinished">Khi phục hồi tệp</translation>
+        <translation>Saat Pemulihan File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4828"/>
         <source>This command will be run before a file is being recovered and the file path will be passed as the first argument. If this command returns anything other than 0, the recovery will be blocked</source>
         <oldsource>This command will be run before a file is being recoverd and the file path will be passed as the first argument, if this command return something other than 0 the recovery will be blocked</oldsource>
-        <translation type="unfinished">Lệnh này sẽ được chạy trước khi tệp được khôi phục và đường dẫn tệp sẽ được chuyển làm đối số đầu tiên. Nếu lệnh này trả về bất kỳ điều gì khác với 0, quá trình khôi phục sẽ bị chặn</translation>
+        <translation>Perintah ini akan dijalankan sebelum file dipulihkan dan path file akan diteruskan sebagai argumen pertama. Jika perintah ini mengembalikan nilai selain 0, pemulihan akan diblokir</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4831"/>
         <source>Run File Checker</source>
-        <translation type="unfinished">Chạy trình kiểm tra tệp</translation>
+        <translation>Jalankan Pemeriksa File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4761"/>
         <source>On Delete Content</source>
-        <translation type="unfinished">Khi xóa nội dung</translation>
+        <translation>Saat Menghapus Konten</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5027"/>
         <source>Don&apos;t allow sandboxed processes to see processes running in other boxes</source>
-        <translation>Không cho phép các tiến trình trong Sandbox cát xem các quy trình đang chạy trong các Sandbox khác</translation>
+        <translation>Jangan izinkan proses sandbox melihat proses yang berjalan di kotak lain</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1651"/>
         <source>Protect processes in this box from being accessed by specified unsandboxed host processes.</source>
-        <translation type="unfinished">Bảo vệ các tiến trình trong Sandbox này khỏi bị truy cập bởi các quy trình máy chủ lưu trữ không có Sandbox được chỉ định.</translation>
+        <translation>Lindungi proses dalam kotak ini agar tidak diakses oleh proses host yang tidak berada dalam sandbox yang ditentukan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1619"/>
         <location filename="Forms/OptionsWindow.ui" line="4971"/>
         <source>Process</source>
-        <translation type="unfinished">Tiến trình</translation>
-    </message>
-    <message>
-        <source>Block also read access to processes in this sandbox</source>
-        <translation type="obsolete">Chặn cũng đọc quyền truy cập vào các tiến trình trong Sandbox này</translation>
+        <translation>Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5181"/>
         <source>Users</source>
-        <translation>Người dùng</translation>
+        <translation>Pengguna</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5199"/>
         <source>Restrict Resource Access monitor to administrators only</source>
-        <translation>Giới hạn giám sát Quyền truy cập tài nguyên chỉ dành cho quản trị viên</translation>
+        <translation>Batasi monitor Akses Sumber Daya hanya untuk administrator</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5206"/>
         <source>Add User</source>
-        <translation>Thêm người dùng</translation>
+        <translation>Tambah Pengguna</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5236"/>
         <source>Add user accounts and user groups to the list below to limit use of the sandbox to only those accounts.  If the list is empty, the sandbox can be used by all user accounts.
 
 Note:  Forced Programs and Force Folders settings for a sandbox do not apply to user accounts which cannot use the sandbox.</source>
-        <translation>Thêm tài khoản người dùng và nhóm người dùng vào danh sách bên dưới để giới hạn việc sử dụng Sandboxchỉ cho những tài khoản đó. Nếu danh sách trống, Sandbox có thể được sử dụng bởi tất cả các tài khoản người dùng.
+        <translation>Tambahkan akun pengguna dan grup pengguna ke daftar di bawah ini untuk membatasi penggunaan sandbox hanya untuk akun tersebut. Jika daftar kosong, sandbox dapat digunakan oleh semua akun pengguna.
 
-Ghi chú:  Cài đặt Buộc chương trình và Thư mục bắt buộc cho Sandbox không áp dụng cho các tài khoản người dùng không thể sử dụng Sandbox. </translation>
+Catatan: Pengaturan Program Paksa dan Folder Paksa untuk sandbox tidak berlaku untuk akun pengguna yang tidak dapat menggunakan sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4597"/>
         <source>Add Option</source>
-        <translation type="unfinished">Thêm tùy chọn</translation>
+        <translation>Tambah Opsi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="3917"/>
+        <source>Bypass IPs</source>
+        <translation>Lewati IP</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4611"/>
         <source>Here you can configure advanced per process options to improve compatibility and/or customize sandboxing behavior.</source>
         <oldsource>Here you can configure advanced per process options to improve compatibility and/or customize sand boxing behavior.</oldsource>
-        <translation type="unfinished">Tại đây, bạn có thể định cấu hình các tùy chọn nâng cao cho mỗi quy trình để cải thiện khả năng tương thích và / hoặc tùy chỉnh hành vi Sandbox.</translation>
+        <translation>Di sini Anda dapat mengonfigurasi opsi lanjutan per proses untuk meningkatkan kompatibilitas dan/atau menyesuaikan perilaku sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4622"/>
         <source>Option</source>
-        <translation type="unfinished">Tuỳ chọn</translation>
+        <translation>Opsi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4793"/>
+        <source>These commands are run UNBOXED after all processes in the sandbox have finished.</source>
+        <translation>Perintah-perintah ini dijalankan di luar沙盒 setelah semua proses di dalam沙盒 selesai.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5065"/>
+        <source>Privacy</source>
+        <translation>Privasi</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5074"/>
+        <source>Hide Firmware Information</source>
+        <oldsource>Hide Firmware Informations</oldsource>
+        <translation>Sembunyikan Informasi Firmware</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4951"/>
+        <source>Some programs read system details through WMI (a Windows built-in database) instead of normal ways. For example, &quot;tasklist.exe&quot; could get full processes list through accessing WMI, even if &quot;HideOtherBoxes&quot; is used. Enable this option to stop this behaviour.</source>
+        <oldsource>Some programs read system deatils through WMI(A Windows built-in database) instead of normal ways. For example,&quot;tasklist.exe&quot; could get full processes list even if &quot;HideOtherBoxes&quot; is opened through accessing WMI. Enable this option to stop these behaviour.</oldsource>
+        <translation>Beberapa program membaca detail sistem melalui WMI (database bawaan Windows) alih-alih cara normal. Misalnya, &quot;tasklist.exe&quot; dapat memperoleh daftar proses lengkap melalui akses WMI, bahkan jika &quot;HideOtherBoxes&quot; digunakan. Aktifkan opsi ini untuk menghentikan perilaku tersebut.</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4954"/>
+        <source>Prevent sandboxed processes from accessing system details through WMI (see tooltip for more info)</source>
+        <oldsource>Prevent sandboxed processes from accessing system deatils through WMI (see tooltip for more Info)</oldsource>
+        <translation>Cegah proses sandbox mengakses detail sistem melalui WMI (lihat tooltip untuk info lebih lanjut)</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="4997"/>
+        <source>Process Hiding</source>
+        <translation>Penyembunyian Proses</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5141"/>
+        <source>Use a custom Locale/LangID</source>
+        <translation>Gunakan Locale/LangID khusus</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5134"/>
+        <source>Data Protection</source>
+        <translation>Perlindungan Data</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5108"/>
+        <source>Dump the current Firmware Tables to HKCU\System\SbieCustom</source>
+        <oldsource>Dump the current Firmare Tables to HKCU\System\SbieCustom</oldsource>
+        <translation>Ekspor Tabel Firmware saat ini ke HKCU\System\SbieCustom</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5111"/>
+        <source>Dump FW Tables</source>
+        <translation>Ekspor Tabel FW</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5249"/>
         <source>Tracing</source>
-        <translation>Truy tìm</translation>
-    </message>
-    <message>
-        <source>API call trace (requires LogAPI to be installed in the Sbie directory)</source>
-        <translation type="obsolete">Theo dõi cuộc gọi API (yêu cầu phải cài đặt LogAPI trong thư mục Sbie)</translation>
+        <translation>Pelacakan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5380"/>
         <source>Pipe Trace</source>
-        <translation>Pipe Trace</translation>
+        <translation>Pelacakan Pipe</translation>
+    </message>
+    <message>
+        <location filename="Forms/OptionsWindow.ui" line="5448"/>
+        <source>API call Trace (traces all SBIE hooks)</source>
+        <translation>Pelacakan Panggilan API (melacak semua hook SBIE)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5434"/>
         <source>Log all SetError&apos;s to Trace log (creates a lot of output)</source>
-        <translation>Ghi lại tất cả SetError&apos; đến Nhật ký theo dõi (tạo ra nhiều đầu ra)</translation>
+        <translation>Catat semua SetError ke log jejak (menghasilkan banyak output)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5339"/>
         <source>Log Debug Output to the Trace Log</source>
-        <translation>Ghi đầu ra Gỡ lỗi vào Nhật ký theo dõi</translation>
+        <translation>Catat Output Debug ke Log Jejak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5401"/>
@@ -8890,482 +8801,287 @@ You can customize the logging using the ini by specifying
 &quot;D&quot; - Denied accesses
 &quot;I&quot; - Ignore access requests
 instead of &quot;*&quot;.</source>
-        <translation>Ghi nhật ký tất cả các sự kiện truy cập được trình điều khiển xem vào nhật ký truy cập tài nguyên.
+        <translation>Catat semua peristiwa akses yang dilihat oleh driver ke log akses sumber daya.
 
-Tùy chọn này đặt mặt nạ sự kiện thành &quot;*&quot; -Tất cả các sự kiện truy cập
-Bạn có thể tùy chỉnh việc ghi nhật ký bằng ini bằng cách chỉ định
-&quot;A&quot; - Quyền truy cập được phép
-&quot;D&quot; - Quyền truy cập bị từ chối
-&quot;I&quot; - Bỏ qua các yêu cầu truy cập
-thay vì &quot;*&quot;.</translation>
-    </message>
-    <message>
-        <source>Ntdll syscall Trace (creates a lot of output)</source>
-        <translation type="vanished">Ntdll syscall Trace (tạo ra nhiều đầu ra)</translation>
+Opsi ini mengatur event mask ke &quot;*&quot; - Semua peristiwa akses
+Anda dapat menyesuaikan pencatatan menggunakan file ini dengan menentukan
+&quot;A&quot; - Akses yang diizinkan
+&quot;D&quot; - Akses yang ditolak
+&quot;I&quot; - Abaikan permintaan akses
+sebagai pengganti &quot;*&quot;.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5394"/>
         <source>File Trace</source>
-        <translation>Theo dõi tệp</translation>
+        <translation>Pelacakan File</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5257"/>
         <source>Disable Resource Access Monitor</source>
-        <translation>Tắt tính năng giám sát quyền truy cập tài nguyên</translation>
+        <translation>Nonaktifkan Monitor Akses Sumber Daya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5264"/>
         <source>IPC Trace</source>
-        <translation>Theo dõi IPC</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5298"/>
         <source>GUI Trace</source>
-        <translation>Theo dõi giao diện người dùng</translation>
+        <translation>Pelacakan GUI</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5360"/>
         <source>Resource Access Monitor</source>
-        <translation>Giám sát truy cập tài nguyên</translation>
+        <translation>Monitor Akses Sumber Daya</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5312"/>
         <source>Access Tracing</source>
-        <translation>Truy cập theo dõi</translation>
+        <translation>Pelacakan Akses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5346"/>
         <source>COM Class Trace</source>
-        <translation>Theo dõi lớp COM</translation>
+        <translation>Pelacakan Kelas COM</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5441"/>
         <source>Key Trace</source>
-        <translation>Theo dõi khoá</translation>
+        <translation>Pelacakan Kunci</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5871"/>
         <source>To compensate for the lost protection, please consult the Drop Rights settings page in the Restrictions settings group.</source>
-        <translation type="unfinished">Để bù đắp cho sự bảo vệ đã mất, vui lòng tham khảo trang cài đặt Quyền thả trong nhóm cài đặt Hạn chế.</translation>
+        <translation>Untuk mengimbangi perlindungan yang hilang, silakan lihat halaman pengaturan Drop Rights di grup pengaturan Pembatasan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="3571"/>
         <location filename="Forms/OptionsWindow.ui" line="5319"/>
         <source>Network Firewall</source>
-        <translation>Tường lửa mạng</translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1715"/>
-        <location filename="Forms/OptionsWindow.ui" line="1760"/>
-        <location filename="Forms/OptionsWindow.ui" line="1836"/>
-        <source>unlimited</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1820"/>
-        <location filename="Forms/OptionsWindow.ui" line="1853"/>
-        <source>bytes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2020"/>
-        <source>Checked: A local group will also be added to the newly created sandboxed token, which allows addressing all sandboxes at once. Would be useful for auditing policies.
-Partially checked: No groups will be added to the newly created sandboxed token.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5065"/>
-        <source>Privacy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5074"/>
-        <source>Hide Firmware Information</source>
-        <oldsource>Hide Firmware Informations</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4951"/>
-        <source>Some programs read system details through WMI (a Windows built-in database) instead of normal ways. For example, &quot;tasklist.exe&quot; could get full processes list through accessing WMI, even if &quot;HideOtherBoxes&quot; is used. Enable this option to stop this behaviour.</source>
-        <oldsource>Some programs read system deatils through WMI(A Windows built-in database) instead of normal ways. For example,&quot;tasklist.exe&quot; could get full processes list even if &quot;HideOtherBoxes&quot; is opened through accessing WMI. Enable this option to stop these behaviour.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4954"/>
-        <source>Prevent sandboxed processes from accessing system details through WMI (see tooltip for more info)</source>
-        <oldsource>Prevent sandboxed processes from accessing system deatils through WMI (see tooltip for more Info)</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4997"/>
-        <source>Process Hiding</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5141"/>
-        <source>Use a custom Locale/LangID</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5134"/>
-        <source>Data Protection</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5108"/>
-        <source>Dump the current Firmware Tables to HKCU\System\SbieCustom</source>
-        <oldsource>Dump the current Firmare Tables to HKCU\System\SbieCustom</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5111"/>
-        <source>Dump FW Tables</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="5448"/>
-        <source>API call Trace (traces all SBIE hooks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Firewall Jaringan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5464"/>
         <source>Debug</source>
-        <translation>Gỡ lỗi</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5519"/>
         <source>WARNING, these options can disable core security guarantees and break sandbox security!!!</source>
-        <translation>CẢNH BÁO, các tùy chọn này có thể vô hiệu hóa các đảm bảo bảo mật cốt lõi và phá vỡ bảo mật Sandbox !!!</translation>
+        <translation>PERINGATAN, opsi-opsi ini dapat menonaktifkan jaminan keamanan inti dan merusak keamanan sandbox!!!</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5529"/>
         <source>These options are intended for debugging compatibility issues, please do not use them in production use. </source>
-        <translation>Các tùy chọn này nhằm gỡ lỗi các vấn đề tương thích, vui lòng không sử dụng chúng trong sản xuất. </translation>
+        <translation>Opsi-opsi ini ditujukan untuk debug masalah kompatibilitas, jangan gunakan di lingkungan produksi. </translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5544"/>
         <source>App Templates</source>
-        <translation>Mẫu ứng dụng</translation>
+        <translation>Template Aplikasi</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5574"/>
         <source>Filter Categories</source>
-        <translation>Lọc danh mục</translation>
+        <translation>Kategori Filter</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5648"/>
         <source>Text Filter</source>
-        <translation>Bộ lọc văn bản</translation>
+        <translation>Filter Teks</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5638"/>
         <source>Add Template</source>
-        <translation>Thêm mẫu</translation>
+        <translation>Tambah Template</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5674"/>
         <source>This list contains a large amount of sandbox compatibility enhancing templates</source>
-        <translation>Danh sách này chứa một lượng lớn các mẫu nâng cao khả năng tương thích với Sandbox</translation>
+        <translation>Daftar ini berisi banyak template peningkat kompatibilitas sandbox</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5613"/>
         <source>Category</source>
-        <translation>Loại</translation>
+        <translation>Kategori</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5713"/>
         <source>Template Folders</source>
-        <translation>Thư mục Mẫu</translation>
+        <translation>Folder Template</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5733"/>
         <source>Configure the folder locations used by your other applications.
 
 Please note that this values are currently user specific and saved globally for all boxes.</source>
-        <translation>Định cấu hình các vị trí thư mục được sử dụng bởi các ứng dụng khác của bạn.
+        <translation>Konfigurasikan lokasi folder yang digunakan oleh aplikasi Anda yang lain.
 
-Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dùng và được lưu trên toàn cầu cho tất cả các Sandbox.</translation>
+Harap perhatikan bahwa nilai ini saat ini bersifat khusus pengguna dan disimpan secara global untuk semua kotak.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4632"/>
         <location filename="Forms/OptionsWindow.ui" line="5764"/>
         <source>Value</source>
-        <translation>Giá trị</translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="834"/>
-        <source>Prevent sandboxed processes from interfering with power operations (Experimental)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="844"/>
-        <source>Prevent interference with the user interface (Experimental)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="861"/>
-        <source>Prevent sandboxed processes from capturing window images (Experimental, may cause UI glitches)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3970"/>
-        <source>Other Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4025"/>
-        <source>Port Blocking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4107"/>
-        <source>Block common SAMBA ports</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3736"/>
-        <source>DNS Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3753"/>
-        <source>Add Filter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3773"/>
-        <source>With the DNS filter individual domains can be blocked, on a per process basis. Leave the IP column empty to block or enter an ip to redirect.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3799"/>
-        <source>Domain</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3815"/>
-        <source>Internet Proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3876"/>
-        <source>Add Proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3849"/>
-        <source>Test Proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3902"/>
-        <source>Auth</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3907"/>
-        <source>Login</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3912"/>
-        <source>Password</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3832"/>
-        <source>Sandboxed programs can be forced to use a preset SOCKS5 proxy.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="851"/>
-        <source>Allow sandboxed windows to cover the taskbar</source>
-        <oldsource>Allow sandboxed windows to cover taskbar</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2762"/>
-        <source>This setting can be used to prevent programs from running in the sandbox without the user&apos;s knowledge or consent.</source>
-        <oldsource>This can be used to prevent a host malicious program from breaking through by launching a pre-designed malicious program into an unlocked encrypted sandbox.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="2765"/>
-        <source>Display a pop-up warning before starting a process in the sandbox from an external source</source>
-        <oldsource>A pop-up warning before launching a process into the sandbox from an external source.</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="3842"/>
-        <source>Resolve hostnames via proxy</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="4100"/>
-        <source>Block DNS, UDP port 53</source>
-        <translation type="unfinished"></translation>
+        <translation>Nilai</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1699"/>
         <source>Limit restrictions</source>
-        <translation type="unfinished"></translation>
+        <translation>Batasi pembatasan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1712"/>
         <location filename="Forms/OptionsWindow.ui" line="1757"/>
         <location filename="Forms/OptionsWindow.ui" line="1833"/>
         <source>Leave it blank to disable the setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Biarkan kosong untuk menonaktifkan pengaturan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1741"/>
         <source>Total Processes Number Limit:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/OptionsWindow.ui" line="1669"/>
-        <source>Job Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Batas Jumlah Proses Total:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1843"/>
         <source>Total Processes Memory Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Batas Memori Total Proses:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="1797"/>
         <source>Single Process Memory Limit:</source>
-        <translation type="unfinished"></translation>
+        <translation>Batas Memori Proses Tunggal:</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4362"/>
         <source>Restart force process before they begin to execute</source>
-        <translation type="unfinished"></translation>
+        <translation>Mulai ulang proses paksa sebelum mereka mulai berjalan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4796"/>
         <source>On Box Terminate</source>
-        <translation type="unfinished"></translation>
+        <translation>Saat Penghentian Kotak</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5081"/>
         <source>Hide Disk Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Sembunyikan Nomor Seri Disk</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5088"/>
         <source>Obfuscate known unique identifiers in the registry</source>
-        <translation type="unfinished"></translation>
+        <translation>Samarkan pengenal unik yang diketahui di registry</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4984"/>
         <source>Don&apos;t allow sandboxed processes to see processes running outside any boxes</source>
-        <translation type="unfinished"></translation>
+        <translation>Jangan izinkan proses sandbox melihat proses yang berjalan di luar kotak mana pun</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4001"/>
         <source>Bind to Adapter IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikat ke IP Adapter</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4008"/>
         <source>IPv6:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4049"/>
         <source>IPv4:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4072"/>
         <source>0000:0000:0000:0000:0000:0000:0000:0000</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4079"/>
         <source>000.000.000.000</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="4938"/>
         <source>Processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Proses</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5048"/>
         <source>This option hides the registry path *\Software*\Microsoft\Windows\CurrentVersion\Uninstall\*, allowing software installed on the host to be reinstalled in the sandbox. However, it does not hide software-specific files and folders. If the installer still encounters issues, you will need to define custom WriteFilePath entries to hide the relevant files on disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini menyembunyikan path registry *\Software*\Microsoft\Windows\CurrentVersion\Uninstall\*, sehingga perangkat lunak yang terpasang di host dapat diinstal ulang di sandbox. Namun, ini tidak menyembunyikan file dan folder khusus perangkat lunak. Jika penginstal masih mengalami masalah, Anda perlu mendefinisikan entri WriteFilePath khusus untuk menyembunyikan file terkait di disk.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5051"/>
         <source>Hide the host software&apos;s uninstall key (see tooltip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sembunyikan kunci uninstall perangkat lunak host (lihat tooltip)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5121"/>
         <source>Hide Network Adapter MAC Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Sembunyikan Alamat MAC Adapter Jaringan</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5271"/>
         <source>DNS Request Logging</source>
-        <translation type="unfinished"></translation>
+        <translation>Pencatatan Permintaan DNS</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5291"/>
         <source>Trace function hooking by SbieDll</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelacakan pengait fungsi oleh SbieDll</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5387"/>
         <source>Syscall Trace (creates a lot of output)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pelacakan Syscall (menghasilkan banyak output)</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5554"/>
         <source>Templates</source>
-        <translation type="unfinished">Mẫu</translation>
+        <translation>Template</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5667"/>
         <source>Open Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Template</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5775"/>
         <source>Accessibility</source>
-        <translation>Khả năng tiếp cận</translation>
+        <translation>Aksesibilitas</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5795"/>
         <source>Screen Readers: JAWS, NVDA, Window-Eyes, System Access</source>
-        <translation>Trình đọc màn hình: JAWS, NVDA, Window-Eyes, System Access</translation>
+        <translation>Pembaca Layar: JAWS, NVDA, Window-Eyes, System Access</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5835"/>
         <source>The following settings enable the use of Sandboxie in combination with accessibility software.  Please note that some measure of Sandboxie protection is necessarily lost when these settings are in effect.</source>
-        <translation>Các cài đặt sau cho phép sử dụng Sandboxie kết hợp với phần mềm trợ năng. Xin lưu ý rằng một số biện pháp bảo vệ Sandboxie nhất thiết bị mất khi các cài đặt này có hiệu lực.</translation>
+        <translation>Pengaturan berikut memungkinkan penggunaan Sandboxie bersama perangkat lunak aksesibilitas. Harap dicatat bahwa beberapa perlindungan Sandboxie akan hilang saat pengaturan ini diaktifkan.</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5888"/>
         <source>Edit ini Section</source>
-        <translation>Chỉnh sửa file .ini</translation>
+        <translation>Edit Bagian ini</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5894"/>
         <source>Edit ini</source>
-        <translation>Chỉnh sửa ini</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5907"/>
         <source>Cancel</source>
-        <translation>Hủy bỏ</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="Forms/OptionsWindow.ui" line="5930"/>
         <source>Save</source>
-        <translation>Lưu</translation>
+        <translation>Simpan</translation>
     </message>
 </context>
 <context>
@@ -9373,7 +9089,7 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Forms/PopUpWindow.ui" line="32"/>
         <source>SandboxiePlus Notifications</source>
-        <translation>SandboxiePlus Thông báo</translation>
+        <translation>Notifikasi SandboxiePlus</translation>
     </message>
 </context>
 <context>
@@ -9381,7 +9097,7 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Windows/OptionsWindow.cpp" line="58"/>
         <source>Group: %1</source>
-        <translation>Nhóm: %1</translation>
+        <translation>Grup: %1</translation>
     </message>
 </context>
 <context>
@@ -9389,7 +9105,7 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Views/SbieView.cpp" line="1681"/>
         <source>Drive %1</source>
-        <translation>Ổ đĩa %1</translation>
+        <translation>Mengemudi %1</translation>
     </message>
 </context>
 <context>
@@ -9397,27 +9113,27 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="SandMan.cpp" line="4531"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4532"/>
         <source>Apply</source>
-        <translation>Áp dụng</translation>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4533"/>
         <source>Cancel</source>
-        <translation>Hủy bỏ</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4534"/>
         <source>&amp;Yes</source>
-        <translation>&amp;Có</translation>
+        <translation>&amp;Ya</translation>
     </message>
     <message>
         <location filename="SandMan.cpp" line="4535"/>
         <source>&amp;No</source>
-        <translation>&amp;Không</translation>
+        <translation>&amp;Tidak</translation>
     </message>
 </context>
 <context>
@@ -9425,52 +9141,52 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="32"/>
         <source>SandboxiePlus - Recovery</source>
-        <translation>SandboxiePlus - Khôi phục</translation>
+        <translation>SandboxiePlus - Pemulihan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="167"/>
         <source>Close</source>
-        <translation>Đóng</translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="68"/>
         <source>Recover target:</source>
-        <translation>Khôi phục mục tiêu:</translation>
+        <translation>Target pemulihan:</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="42"/>
         <source>Add Folder</source>
-        <translation>Thêm thư mục</translation>
+        <translation>Tambah Folder</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="61"/>
         <source>Delete Content</source>
-        <translation>Xóa nội dung</translation>
+        <translation>Hapus Konten</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="113"/>
         <source>Recover</source>
-        <translation>Hồi phục</translation>
+        <translation>Pulihkan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="81"/>
         <source>Refresh</source>
-        <translation>Làm mới</translation>
+        <translation>Segarkan</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="145"/>
         <source>Delete</source>
-        <translation>Xóa bỏ</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="174"/>
         <source>Show All Files</source>
-        <translation>Xem tất cả các tệp</translation>
+        <translation>Tampilkan Semua File</translation>
     </message>
     <message>
         <location filename="Forms/RecoveryWindow.ui" line="187"/>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation>LabelTeks</translation>
     </message>
 </context>
 <context>
@@ -9478,47 +9194,47 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="32"/>
         <source>SandboxiePlus select box</source>
-        <translation>SandboxiePlus chọn Sandbox</translation>
+        <translation>Pilih kotak SandboxiePlus</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="45"/>
         <source>Force direct child to be sandboxed, but does not include indirect child processes that are opened through the DCOM and IPC interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa proses anak langsung untuk disandbox, tetapi tidak termasuk proses anak tidak langsung yang dibuka melalui antarmuka DCOM dan IPC.</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="108"/>
         <source>Select the sandbox in which to start the program, installer or document.</source>
-        <translation>Chọn Sandbox để khởi động chương trình, trình cài đặt hoặc tài liệu.</translation>
+        <translation>Pilih sandbox untuk memulai program, penginstal, atau dokumen.</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="67"/>
         <source>Run in a new Sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Jalankan dalam Sandbox Baru</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="48"/>
         <source>Force Children</source>
-        <translation type="unfinished"></translation>
+        <translation>Paksa Proses Anak</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="59"/>
         <source>Sandbox</source>
-        <translation>Sandbox</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="84"/>
         <source>Run As UAC Administrator</source>
-        <translation>Chạy với tư cách quản trị viên UAC</translation>
+        <translation>Jalankan Sebagai Administrator UAC</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="98"/>
         <source>Run Sandboxed</source>
-        <translation>Chạy trong Sandbox</translation>
+        <translation>Jalankan dalam Sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SelectBoxWindow.ui" line="38"/>
         <source>Run Outside the Sandbox</source>
-        <translation>Chạy bên ngoài Sandbox</translation>
+        <translation>Jalankan di Luar Sandbox</translation>
     </message>
 </context>
 <context>
@@ -9526,709 +9242,534 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
     <message>
         <location filename="Forms/SettingsWindow.ui" line="32"/>
         <source>SandboxiePlus Settings</source>
-        <translation>SandboxiePlus Cài đặt</translation>
+        <translation>Pengaturan SandboxiePlus</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="55"/>
         <source>General Config</source>
-        <translation>Cấu hình chung</translation>
+        <translation>Konfigurasi Umum</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="207"/>
         <source>Show file recovery window when emptying sandboxes</source>
         <oldsource>Show first recovery window when emptying sandboxes</oldsource>
-        <translation type="unfinished">Hiển thị cửa sổ khôi phục đầu tiên khi làm trống Sandbox</translation>
+        <translation>Tampilkan jendela pemulihan file saat mengosongkan sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="101"/>
         <source>Open urls from this ui sandboxed</source>
-        <translation>Mở url từ giao diện Sandbox này</translation>
+        <translation>Buka url dari ui ini dalam sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="748"/>
         <source>Systray options</source>
-        <translation>Tùy chọn Systray</translation>
+        <translation>Opsi baki sistem</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="85"/>
         <source>UI Language:</source>
-        <translation>Ngôn ngữ giao diện người dùng:</translation>
+        <translation>Bahasa Antarmuka:</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="456"/>
         <source>Shell Integration</source>
-        <translation>Tích hợp Shell</translation>
+        <translation>Integrasi Shell</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="603"/>
         <source>Run Sandboxed - Actions</source>
-        <translation>Chạy trong Sandbox - Hành động</translation>
+        <translation>Jalankan dalam Sandbox - Tindakan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="485"/>
         <source>Start Sandbox Manager</source>
-        <translation>Khởi động trình quản lý Sandbox</translation>
+        <translation>Mulai Pengelola Sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="626"/>
         <source>Start UI when a sandboxed process is started</source>
-        <translation>Bắt đầu giao diện người dùng khi một quá trình Sandbox được bắt đầu</translation>
-    </message>
-    <message>
-        <source>Show Notifications for relevant log Messages</source>
-        <translation type="vanished">Hiển thị Thông báo cho Tin nhắn nhật ký liên quan</translation>
+        <translation>Mulai UI saat proses sandbox dijalankan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="636"/>
         <source>Start UI with Windows</source>
-        <translation>Khởi động giao diện người dùng với Windows</translation>
+        <translation>Mulai UI bersama Windows</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="472"/>
         <source>Add &apos;Run Sandboxed&apos; to the explorer context menu</source>
-        <translation>Add &apos;Chạy trong Sandbox&apos; vào menu ngữ cảnh của trình Explorer</translation>
+        <translation>Tambah &apos;Jalankan dalam Sandbox&apos; ke menu konteks explorer</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="174"/>
         <source>Run box operations asynchronously whenever possible (like content deletion)</source>
-        <translation>Chạy các hoạt động hộp không đồng bộ bất cứ khi nào có thể (như xóa nội dung)</translation>
+        <translation>Jalankan operasi kotak secara asinkron bila memungkinkan (seperti penghapusan konten)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="120"/>
         <source>Hotkey for terminating all boxed processes:</source>
-        <translation>Phím nóng để chấm dứt tất cả các quy trình đóng hộp:</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="389"/>
-        <source>Sandboxie may be issue &lt;a href=&quot;sbie://docs/sbiemessages&quot;&gt;SBIE Messages&lt;/a&gt; to the Message Log and shown them as Popups. Some messages are informational and notify of a common, or in some cases special, event that has occurred, other messages indicate an error condition.&lt;br /&gt;You can hide selected SBIE messages from being popped up, using the below list:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="402"/>
-        <source>Disable SBIE messages popups (they will still be logged to the Messages tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tombol pintas untuk menghentikan semua proses dalam sandbox:</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="706"/>
         <source>Show boxes in tray list:</source>
-        <translation>Hiển thị các hộp trong danh sách khay:</translation>
+        <translation>Tampilkan kotak di daftar tray:</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="521"/>
         <source>Always use DefaultBox</source>
-        <translation>Luôn sử dụng DefaultBox</translation>
+        <translation>Selalu gunakan DefaultBox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="656"/>
         <source>Add &apos;Run Un-Sandboxed&apos; to the context menu</source>
-        <translation>Add &apos;Chạy ngoài Sandbox&apos; vào menu ngữ cảnh</translation>
+        <translation>Tambah &apos;Jalankan Tanpa Sandbox&apos; ke menu konteks</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="797"/>
         <source>Show a tray notification when automatic box operations are started</source>
-        <translation>Hiển thị thông báo khay khi các hoạt động Sandbox tự động được bắt đầu</translation>
+        <translation>Tampilkan notifikasi tray saat operasi kotak otomatis dimulai</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1075"/>
         <source>* a partially checked checkbox will leave the behavior to be determined by the view mode.</source>
-        <translation>* một Sandbox kiểm được chọn một phần sẽ để chế độ xem xác định hành vi.</translation>
+        <translation>* kotak centang yang dicentang sebagian akan membiarkan perilaku ditentukan oleh mode tampilan.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2073"/>
         <source>Advanced Config</source>
-        <translation>Cấu hình nâng cao</translation>
+        <translation>Konfigurasi Lanjutan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2302"/>
         <source>Activate Kernel Mode Object Filtering</source>
-        <translation>Kích hoạt tính năng lọc đối tượng chế độ hạt nhân</translation>
+        <translation>Aktifkan Pemfilteran Objek Mode Kernel</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2256"/>
         <source>Sandbox &lt;a href=&quot;sbie://docs/filerootpath&quot;&gt;file system root&lt;/a&gt;: </source>
-        <translation>Sandbox &lt;a href=&quot;sbie://docs/filerootpath&quot;&gt;tập tin gốc hệ thống&lt;/a&gt;: </translation>
+        <translation>Sandbox &lt;a href=&quot;sbie://docs/filerootpath&quot;&gt;root sistem berkas&lt;/a&gt;: </translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2401"/>
         <source>Clear password when main window becomes hidden</source>
-        <translation>Xóa mật khẩu khi cửa sổ chính bị ẩn</translation>
-    </message>
-    <message>
-        <source>Separate user folders</source>
-        <translation type="vanished">Tách các thư mục người dùng</translation>
+        <translation>Hapus kata sandi ketika jendela utama tersembunyi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2286"/>
         <source>Sandbox &lt;a href=&quot;sbie://docs/ipcrootpath&quot;&gt;ipc root&lt;/a&gt;: </source>
-        <translation>Sandbox &lt;a href=&quot;sbie://docs/ipcrootpath&quot;&gt;gốc IPC&lt;/a&gt;: </translation>
+        <translation>Sandbox &lt;a href=&quot;sbie://docs/ipcrootpath&quot;&gt;root ipc&lt;/a&gt;: </translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2153"/>
         <source>Sandbox default</source>
-        <translation>Sandbox mặc định</translation>
+        <translation>Sandbox default</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2394"/>
         <source>Config protection</source>
-        <translation>Bảo vệ cấu hình</translation>
+        <translation>Perlindungan konfigurasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2140"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="78"/>
         <source>SandMan Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi SandMan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="270"/>
         <source>Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notifikasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="302"/>
         <source>Add Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Tambah Entri</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="422"/>
         <source>Show file migration progress when copying large files into a sandbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan progres migrasi file saat menyalin file besar ke sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="310"/>
         <source>Message ID</source>
-        <translation type="unfinished"></translation>
+        <translation>ID Pesan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="315"/>
         <source>Message Text (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Teks Pesan (opsional)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="330"/>
         <source>SBIE Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesan SBIE</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="349"/>
         <source>Delete Entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Hapus Entri</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="363"/>
         <source>Notification Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Notifikasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="466"/>
         <source>Windows Shell</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="910"/>
         <source>Move Up</source>
-        <translation type="unfinished">Đi lên</translation>
+        <translation>Pindah ke Atas</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="929"/>
         <source>Move Down</source>
-        <translation type="unfinished">Đi xuống</translation>
+        <translation>Pindah ke Bawah</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1038"/>
         <source>Show overlay icons for boxes and processes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tampilkan ikon overlay untuk kotak dan proses</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1135"/>
         <source>Hide Sandboxie&apos;s own processes from the task list</source>
         <oldsource>Hide sandboxie&apos;s own processes from the task list</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Sembunyikan proses milik Sandboxie dari daftar tugas</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1024"/>
         <location filename="Forms/SettingsWindow.ui" line="1145"/>
         <source>Interface Options</source>
         <oldsource>Display Options</oldsource>
-        <translation type="unfinished">Tùy chọn giao diện</translation>
+        <translation>Opsi Antarmuka</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1186"/>
         <source>Ini Editor Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Font Editor Ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1276"/>
         <source>Graphic Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Grafik</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1218"/>
         <source>Select font</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih font</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1228"/>
         <source>Reset font</source>
-        <translation type="unfinished"></translation>
+        <translation>Atur ulang font</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1359"/>
         <source>Ini Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi Ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1322"/>
         <source>#</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="181"/>
-        <source>Terminate all boxed processes when Sandman exits</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="663"/>
-        <source>Add &apos;Set Force in Sandbox&apos; to the context menu</source>
-        <oldsource>Add ‘Set Force in Sandbox&apos; to the context menu</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="570"/>
-        <source>Add &apos;Set Open Path in Sandbox&apos; to context menu</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="676"/>
-        <source>Sandboxed Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="683"/>
-        <source>Switch to sandboxed desktop when starting a process</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="690"/>
-        <source>Switch to sandboxed desktop with double click</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1173"/>
         <source>External Ini Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Editor Ini Eksternal</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1380"/>
         <source>Add-Ons Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengelola Add-On</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1390"/>
         <source>Optional Add-Ons</source>
-        <translation type="unfinished"></translation>
+        <translation>Add-On Opsional</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1398"/>
         <source>Sandboxie-Plus offers numerous options and supports a wide range of extensions. On this page, you can configure the integration of add-ons, plugins, and other third-party components. Optional components can be downloaded from the web, and certain installations may require administrative privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandboxie-Plus menawarkan berbagai opsi dan mendukung berbagai ekstensi. Di halaman ini, Anda dapat mengkonfigurasi integrasi add-on, plugin, dan komponen pihak ketiga lainnya. Komponen opsional dapat diunduh dari web, dan beberapa instalasi mungkin memerlukan hak akses administrator.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1434"/>
         <source>Status</source>
-        <translation type="unfinished">Trạng thái</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1439"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1444"/>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Deskripsi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1452"/>
         <source>&lt;a href=&quot;sbie://addons&quot;&gt;update add-on list now&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://addons&quot;&gt;perbarui daftar add-on sekarang&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1462"/>
         <source>Install</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1472"/>
         <source>Add-On Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurasi Add-On</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1480"/>
         <source>Enable Ram Disk creation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan pembuatan Disk RAM</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1487"/>
         <source>kilobytes</source>
-        <translation type="unfinished">kilobytes</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1504"/>
-        <source>Assign drive letter to Ram Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>kilobyte</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1541"/>
         <source>Disk Image Support</source>
-        <translation type="unfinished"></translation>
+        <translation>Dukungan Image Disk</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1558"/>
         <source>RAM Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Batas RAM</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1524"/>
         <source>&lt;a href=&quot;addon://ImDisk&quot;&gt;Install ImDisk&lt;/a&gt; driver to enable Ram Disk and Disk Image support.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="134"/>
-        <source>Hotkey for bringing sandman to the top:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="148"/>
-        <source>Hotkey for suspending process/folder forcing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="162"/>
-        <source>Hotkey for suspending all processes:</source>
-        <oldsource>Hotkey for suspending all process</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="214"/>
-        <source>Check sandboxes&apos; auto-delete status when Sandman starts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="554"/>
-        <source>Integrate with Host Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="698"/>
-        <source>System Tray</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="804"/>
-        <source>On main window close:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="814"/>
-        <source>Open/Close from/to tray with a single click</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="821"/>
-        <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1366"/>
-        <source>Hide SandMan windows from screen capture (UI restart required)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1584"/>
-        <source>When a Ram Disk is already mounted you need to unmount it for this option to take effect.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1587"/>
-        <source>* takes effect on disk creation</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;addon://ImDisk&quot;&gt;Instal ImDisk&lt;/a&gt; driver untuk mengaktifkan dukungan Disk RAM dan Image Disk.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1611"/>
         <source>Sandboxie Support</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1703"/>
-        <source>Cert Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Dukungan Sandboxie</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1717"/>
         <source>This supporter certificate has expired, please &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sertifikat pendukung ini telah kedaluwarsa, silakan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-renew-cert&quot;&gt;dapatkan sertifikat yang diperbarui&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1785"/>
         <source>Supporters of the Sandboxie-Plus project can receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;supporter certificate&lt;/a&gt;. It&apos;s like a license key but for awesome people using open source software. :-)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pendukung proyek Sandboxie-Plus dapat menerima &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;sertifikat pendukung&lt;/a&gt;. Ini seperti kunci lisensi tetapi untuk orang-orang hebat yang menggunakan perangkat lunak sumber terbuka. :-)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1648"/>
         <source>Get</source>
-        <translation type="unfinished"></translation>
+        <translation>Dapatkan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1808"/>
         <source>Retrieve/Upgrade/Renew certificate using Serial Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambil/Tingkatkan/Perbarui sertifikat menggunakan Nomor Seri</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1753"/>
         <source>Keeping Sandboxie up to date with the rolling releases of Windows and compatible with all web browsers is a never-ending endeavor. You can support the development by &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-contribute&quot;&gt;directly contributing to the project&lt;/a&gt;, showing your support by &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;purchasing a supporter certificate&lt;/a&gt;, becoming a patron by &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;subscribing on Patreon&lt;/a&gt;, or through a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=donate&quot;&gt;PayPal donation&lt;/a&gt;.&lt;br /&gt;Your support plays a vital role in the advancement and maintenance of Sandboxie.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menjaga Sandboxie tetap up to date dengan rilis berkelanjutan Windows dan kompatibel dengan semua browser web adalah upaya yang tak ada habisnya. Anda dapat mendukung pengembangan dengan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-contribute&quot;&gt;berkontribusi langsung ke proyek&lt;/a&gt;, menunjukkan dukungan Anda dengan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-obtain-cert&quot;&gt;membeli sertifikat pendukung&lt;/a&gt;, menjadi patron dengan &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;berlangganan di Patreon&lt;/a&gt;, atau melalui &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=donate&quot;&gt;donasi PayPal&lt;/a&gt;.&lt;br /&gt;Dukungan Anda memainkan peran vital dalam kemajuan dan pemeliharaan Sandboxie.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1634"/>
         <source>SBIE_-_____-_____-_____-_____</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1734"/>
-        <source>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-use-cert&quot;&gt;Certificate usage guide&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1818"/>
         <source>Eval Cert</source>
-        <translation type="unfinished"></translation>
+        <translation>Evaluasi Sertifikat</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1885"/>
         <source>Update Settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1963"/>
-        <source>New full installers from the selected release channel.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1966"/>
-        <source>Full Upgrades</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengaturan Pembaruan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2042"/>
         <source>Update Check Interval</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval Pemeriksaan Pembaruan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2098"/>
         <source>Sandbox &lt;a href=&quot;sbie://docs/keyrootpath&quot;&gt;registry root&lt;/a&gt;: </source>
-        <translation>Sandbox &lt;a href=&quot;sbie://docs/keyrootpath&quot;&gt;gốc registry&lt;/a&gt;: </translation>
+        <translation>Sandbox &lt;a href=&quot;sbie://docs/keyrootpath&quot;&gt;root registri&lt;/a&gt;: </translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2127"/>
         <source>Sandboxing features</source>
-        <translation>Sandbox Tính năng, đặc điểm</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2279"/>
-        <source>Add &quot;Sandboxie\All Sandboxes&quot; group to the sandboxed token (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitur Sandboxing</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2335"/>
         <source>Sandboxie.ini Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Preset Sandboxie.ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2415"/>
         <source>Change Password</source>
-        <translation>Đổi mật khẩu</translation>
+        <translation>Ubah Kata Sandi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2408"/>
         <source>Password must be entered in order to make changes</source>
-        <translation>Mật khẩu phải được nhập để thực hiện thay đổi</translation>
+        <translation>Kata sandi harus dimasukkan untuk melakukan perubahan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2368"/>
         <source>Only Administrator user accounts can make changes</source>
-        <translation>Chỉ tài khoản người dùng Quản trị viên mới có thể thực hiện thay đổi</translation>
+        <translation>Hanya akun pengguna Administrator yang dapat membuat perubahan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2361"/>
         <source>Watch Sandboxie.ini for changes</source>
-        <translation>Theo dõi Sandboxie.ini để biết các thay đổi</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2531"/>
-        <source>Issue message 1321 when a process has been forced into a sandbox</source>
-        <oldsource>Issue message 1321 when a processes has been forced in to a sandbox</oldsource>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2541"/>
-        <source>USB Drive Sandboxing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2557"/>
-        <source>Volume</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2562"/>
-        <source>Information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2570"/>
-        <source>Sandbox for USB drives:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2586"/>
-        <source>Automatically sandbox all attached USB drives</source>
-        <translation type="unfinished"></translation>
+        <translation>Pantau perubahan pada Sandboxie.ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2613"/>
         <source>App Templates</source>
-        <translation type="unfinished">Mẫu ứng dụng</translation>
+        <translation>Template Aplikasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2623"/>
         <source>App Compatibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompatibilitas Aplikasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2341"/>
         <source>Only Administrator user accounts can use Pause Forcing Programs command</source>
         <oldsource>Only Administrator user accounts can use Pause Forced Programs Rules command</oldsource>
-        <translation>Chỉ tài khoản người dùng Quản trị viên mới có thể sử dụng lệnh Tạm dừng Chương trình Bắt buộc</translation>
+        <translation>Hanya akun pengguna Administrator yang dapat menggunakan perintah Jeda Pemaksaan Program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2203"/>
         <source>Portable root folder</source>
-        <translation>Thư mục gốc Portable</translation>
+        <translation>Folder root portabel</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="429"/>
         <source>Show recoverable files as notifications</source>
-        <translation>Hiển thị các tệp có thể khôi phục dưới dạng thông báo</translation>
+        <translation>Tampilkan file yang dapat dipulihkan sebagai notifikasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="65"/>
         <source>General Options</source>
-        <translation>Các tùy chọn chung</translation>
+        <translation>Opsi Umum</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="722"/>
         <source>Show Icon in Systray:</source>
-        <translation>Hiển thị biểu tượng trong Systray:</translation>
+        <translation>Tampilkan Ikon di Systray:</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2236"/>
         <source>Use Windows Filtering Platform to restrict network access</source>
-        <translation>Sử dụng Nền tảng lọc của Windows để hạn chế quyền truy cập mạng</translation>
+        <translation>Gunakan Windows Filtering Platform untuk membatasi akses jaringan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2091"/>
         <source>Hook selected Win32k system calls to enable GPU acceleration (experimental)</source>
-        <translation>Kết nối các lệnh gọi hệ thống Win32k đã chọn để bật tăng tốc GPU (thử nghiệm)</translation>
+        <translation>Kaitkan panggilan sistem Win32k yang dipilih untuk mengaktifkan akselerasi GPU (eksperimental)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="111"/>
         <source>Count and display the disk space occupied by each sandbox</source>
         <oldsource>Count and display the disk space ocupied by each sandbox</oldsource>
-        <translation>Đếm và hiển thị dung lượng ổ đĩa bị chiếm bởi mỗi Sandbox</translation>
+        <translation>Hitung dan tampilkan ruang disk yang digunakan oleh setiap sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="781"/>
         <source>Use Compact Box List</source>
-        <translation>Sử dụng danh sách Sandbox nhỏ gọn</translation>
+        <translation>Gunakan Daftar Kotak Ringkas</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="983"/>
         <source>Interface Config</source>
-        <translation>Cấu hình giao diện</translation>
+        <translation>Konfigurasi Antarmuka</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1031"/>
         <source>Make Box Icons match the Border Color</source>
-        <translation>Làm cho các biểu tượng Sandbox khớp với màu viền</translation>
+        <translation>Buat Ikon Kotak sesuai dengan Warna Batas</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1001"/>
         <source>Use a Page Tree in the Box Options instead of Nested Tabs *</source>
-        <translation>Sử dụng Cây Trang trong Tùy chọn Sandbox thay vì Các Tab lồng nhau *</translation>
+        <translation>Gunakan Pohon Halaman di Opsi Kotak, bukan Tab Bersarang *</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1055"/>
         <source>Use large icons in box list *</source>
-        <translation>Sử dụng các biểu tượng lớn trong danh sách hộp *</translation>
+        <translation>Gunakan ikon besar di daftar kotak *</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1153"/>
         <source>High DPI Scaling</source>
-        <translation>Tỷ lệ DPI cao</translation>
+        <translation>Penskalaan DPI Tinggi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1065"/>
         <source>Don&apos;t show icons in menus *</source>
-        <translation>Không hiển thị các biểu tượng trong menu *</translation>
+        <translation>Jangan tampilkan ikon di menu *</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1102"/>
         <source>Use Dark Theme</source>
-        <translation>Sử dụng Chủ đề tối</translation>
+        <translation>Gunakan Tema Gelap</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1309"/>
         <source>Font Scaling</source>
-        <translation>Tỷ lệ phông chữ</translation>
+        <translation>Penskalaan Font</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1345"/>
         <source>(Restart required)</source>
-        <translation>(Yêu cầu khởi động lại)</translation>
+        <translation>(Perlu dimulai ulang)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="221"/>
         <source>Show the Recovery Window as Always on Top</source>
-        <translation>Hiển thị Cửa sổ khôi phục luôn ở trên cùng</translation>
+        <translation>Tampilkan Jendela Pemulihan Selalu di Atas</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1112"/>
         <source>Show &quot;Pizza&quot; Background in box list *</source>
         <oldsource>Show &quot;Pizza&quot; Background in box list*</oldsource>
-        <translation>Trình diễn Nền hình &quot;Pizza&quot; trong danh sách hộp *</translation>
+        <translation>Tampilkan Latar Belakang &quot;Pizza&quot; di daftar kotak *</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1166"/>
         <source>%</source>
-        <translation>%</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1085"/>
         <source>Alternate row background in lists</source>
-        <translation>Nền hàng thay thế trong danh sách</translation>
+        <translation>Latar belakang baris bergantian dalam daftar</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1045"/>
         <source>Use Fusion Theme</source>
-        <translation>Sử dụng chủ đề Fusion</translation>
-    </message>
-    <message>
-        <source>Use a Sandboxie login instead of an anonymous token (experimental)</source>
-        <translation type="vanished">Sử dụng thông tin đăng nhập Sandboxie thay vì mã thông báo ẩn danh (thử nghiệm)</translation>
+        <translation>Gunakan Tema Fusion</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="853"/>
@@ -10237,366 +9778,482 @@ Xin lưu ý rằng các giá trị này hiện là dành riêng cho người dù
         <location filename="Forms/SettingsWindow.ui" line="2654"/>
         <location filename="Forms/SettingsWindow.ui" line="2814"/>
         <source>Name</source>
-        <translation>Tên</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2523"/>
         <source>Path</source>
-        <translation>Đường dẫn</translation>
+        <translation>Jalur</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2482"/>
         <source>Remove Program</source>
-        <translation>Xóa chương trình</translation>
+        <translation>Hapus Program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2503"/>
         <source>Add Program</source>
-        <translation>Thêm chương trình</translation>
+        <translation>Tambah Program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2472"/>
         <source>When any of the following programs is launched outside any sandbox, Sandboxie will issue message SBIE1301.</source>
-        <translation>Khi bất kỳ chương trình nào sau đây được khởi chạy bên ngoài bất kỳ Sandbox nào, Sandboxie sẽ đưa ra thông báo SBIE1301.</translation>
+        <translation>Ketika salah satu program berikut dijalankan di luar sandbox mana pun, Sandboxie akan mengeluarkan pesan SBIE1301.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2496"/>
         <source>Add Folder</source>
-        <translation>Thêm thư mục</translation>
+        <translation>Tambah Folder</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2452"/>
         <source>Prevent the listed programs from starting on this system</source>
-        <translation>Ngăn không cho các chương trình được liệt kê khởi động trên hệ thống này</translation>
+        <translation>Cegah program yang terdaftar untuk dijalankan pada sistem ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2510"/>
         <source>Issue message 1308 when a program fails to start</source>
-        <translation>Đưa ra thông báo 1308 khi một chương trình không khởi động được</translation>
+        <translation>Keluarkan pesan 1308 ketika program gagal dimulai</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="195"/>
         <source>Recovery Options</source>
-        <translation type="unfinished">Tùy chọn khôi phục</translation>
+        <translation>Opsi Pemulihan</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="389"/>
+        <source>Sandboxie may be issue &lt;a href=&quot;sbie://docs/sbiemessages&quot;&gt;SBIE Messages&lt;/a&gt; to the Message Log and shown them as Popups. Some messages are informational and notify of a common, or in some cases special, event that has occurred, other messages indicate an error condition.&lt;br /&gt;You can hide selected SBIE messages from being popped up, using the below list:</source>
+        <translation>Sandboxie mungkin mengeluarkan &lt;a href=&quot;sbie://docs/sbiemessages&quot;&gt;Pesan SBIE&lt;/a&gt; ke Log Pesan dan menampilkannya sebagai Pop-up. Beberapa pesan bersifat informatif dan memberitahukan kejadian umum, atau dalam beberapa kasus khusus yang telah terjadi, pesan lainnya menunjukkan kondisi kesalahan.&lt;br /&gt;Anda dapat menyembunyikan pesan SBIE tertentu agar tidak muncul, menggunakan daftar di bawah ini:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="402"/>
+        <source>Disable SBIE messages popups (they will still be logged to the Messages tab)</source>
+        <translation>Nonaktifkan popup pesan SBIE (mereka masih akan dicatat di tab Pesan)</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="649"/>
         <source>Start Menu Integration</source>
-        <translation type="unfinished">Tích hợp menu Start</translation>
-    </message>
-    <message>
-        <source>Integrate boxes with Host Start Menu</source>
-        <translation type="obsolete">Tích hợp các hộp với Menu Bắt đầu Máy chủ</translation>
+        <translation>Integrasi Menu Mulai</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="577"/>
         <source>Scan shell folders and offer links in run menu</source>
-        <translation type="unfinished">Quét các thư mục shell và cung cấp các liên kết trong menu chạy</translation>
+        <translation>Pindai folder shell dan tawarkan tautan di menu jalankan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="610"/>
         <source>Integrate with Host Start Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Integrasikan dengan Menu Start Host</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1092"/>
         <source>Use new config dialog layout *</source>
-        <translation type="unfinished">Sử dụng bố cục hộp thoại cấu hình mới *</translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1677"/>
-        <source>HwId: 00000000-0000-0000-0000-000000000000</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1661"/>
-        <source>Cert Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1841"/>
-        <source>Sandboxie Updater</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1872"/>
-        <source>Keep add-on list up to date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1929"/>
-        <source>The Insider channel offers early access to new features and bugfixes that will eventually be released to the public, as well as all relevant improvements from the stable channel. 
-Unlike the preview channel, it does not include untested, potentially breaking, or experimental changes that may not be ready for wider use.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1933"/>
-        <source>Search in the Insider channel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1976"/>
-        <source>Check periodically for new Sandboxie-Plus versions</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="1986"/>
-        <source>More about the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;Insider Channel&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2006"/>
-        <source>Keep Troubleshooting scripts up to date</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2272"/>
-        <source>Use a Sandboxie login instead of an anonymous token</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2309"/>
-        <source>This feature protects the sandbox by restricting access, preventing other users from accessing the folder. Ensure the root folder path contains the %USER% macro so that each user gets a dedicated sandbox folder.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2312"/>
-        <source>Restrict box root folder access to the the user whom created that sandbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="Forms/SettingsWindow.ui" line="2422"/>
-        <source>Always run SandMan UI as Admin</source>
-        <translation type="unfinished"></translation>
+        <translation>Gunakan tata letak dialog konfigurasi baru *</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2434"/>
         <source>Program Control</source>
-        <translation type="unfinished">Kiểm soát chương trình</translation>
+        <translation>Kontrol Program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2444"/>
         <source>Program Alerts</source>
-        <translation type="unfinished">Cảnh báo chương trình</translation>
+        <translation>Peringatan Program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2489"/>
         <source>Issue message 1301 when forced processes has been disabled</source>
-        <translation type="unfinished">Phát hành thông báo 1301 khi các quy trình bắt buộc đã bị vô hiệu hóa</translation>
+        <translation>Keluarkan pesan 1301 ketika proses yang dipaksa telah dinonaktifkan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2083"/>
         <source>Sandboxie Config</source>
         <oldsource>Config Protection</oldsource>
-        <translation type="unfinished">Cấu hình bảo vệ</translation>
+        <translation>Konfigurasi Sandboxie</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="412"/>
         <source>This option also enables asynchronous operation when needed and suspends updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi ini juga mengaktifkan operasi asinkron saat diperlukan dan menangguhkan pembaruan.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="415"/>
         <source>Suppress pop-up notifications when in game / presentation mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Sembunyikan notifikasi pop-up saat dalam mode game / presentasi</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="993"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Antarmuka Pengguna</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="831"/>
         <source>Run Menu</source>
-        <translation type="unfinished">Menu Chạy</translation>
+        <translation>Menu Jalankan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="878"/>
         <source>Add program</source>
-        <translation type="unfinished">Thêm chương trình</translation>
+        <translation>Tambah program</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="936"/>
         <source>You can configure custom entries for all sandboxes run menus.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda dapat mengkonfigurasi entri khusus untuk semua menu jalankan sandbox.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="958"/>
         <location filename="Forms/SettingsWindow.ui" line="1408"/>
         <location filename="Forms/SettingsWindow.ui" line="2834"/>
         <source>Remove</source>
-        <translation type="unfinished">Loại bỏ</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="858"/>
         <source>Command Line</source>
-        <translation type="unfinished">Dòng lệnh</translation>
+        <translation>Baris Perintah</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="134"/>
+        <source>Hotkey for bringing sandman to the top:</source>
+        <translation>Tombol pintas untuk membawa sandman ke atas:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="148"/>
+        <source>Hotkey for suspending process/folder forcing:</source>
+        <translation>Tombol pintas untuk menangguhkan pemaksaan proses/folder:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="162"/>
+        <source>Hotkey for suspending all processes:</source>
+        <oldsource>Hotkey for suspending all process</oldsource>
+        <translation>Tombol pintas untuk menangguhkan semua proses:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="214"/>
+        <source>Check sandboxes&apos; auto-delete status when Sandman starts</source>
+        <translation>Periksa status hapus-otomatis sandbox saat Sandman dimulai</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="554"/>
+        <source>Integrate with Host Desktop</source>
+        <translation>Integrasikan dengan Desktop Host</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="663"/>
+        <source>Add &apos;Set Force in Sandbox&apos; to the context menu</source>
+        <oldsource>Add ‘Set Force in Sandbox&apos; to the context menu</oldsource>
+        <translation>Tambah &apos;Atur Paksa dalam Sandbox&apos; ke menu konteks</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="570"/>
+        <source>Add &apos;Set Open Path in Sandbox&apos; to context menu</source>
+        <translation>Tambah &apos;Atur Jalur Terbuka dalam Sandbox&apos; ke menu konteks</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="698"/>
+        <source>System Tray</source>
+        <translation>Tray Sistem</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="804"/>
+        <source>On main window close:</source>
+        <translation>Saat jendela utama ditutup:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="814"/>
+        <source>Open/Close from/to tray with a single click</source>
+        <translation>Buka/Tutup dari/ke tray dengan sekali klik</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="821"/>
+        <source>Minimize to tray</source>
+        <translation>Minimalkan ke tray</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1366"/>
+        <source>Hide SandMan windows from screen capture (UI restart required)</source>
+        <translation>Sembunyikan jendela SandMan dari tangkapan layar (perlu restart UI)</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1504"/>
+        <source>Assign drive letter to Ram Disk</source>
+        <translation>Tetapkan huruf drive untuk Disk RAM</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1584"/>
+        <source>When a Ram Disk is already mounted you need to unmount it for this option to take effect.</source>
+        <translation>Jika Ram Disk sudah terpasang, Anda perlu melepasnya agar opsi ini berlaku.</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1587"/>
+        <source>* takes effect on disk creation</source>
+        <translation>* berlaku saat pembuatan disk</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1601"/>
         <source>Support &amp;&amp; Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Dukungan &amp;&amp; Pembaruan</translation>
     </message>
     <message>
-        <source>Sandbox Config</source>
-        <translation type="obsolete">Cấu hình hộp cát</translation>
+        <location filename="Forms/SettingsWindow.ui" line="1703"/>
+        <source>Cert Options</source>
+        <translation>Opsi Sertifikat</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1734"/>
+        <source>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-use-cert&quot;&gt;Certificate usage guide&lt;/a&gt;</source>
+        <translation>&lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-use-cert&quot;&gt;Panduan penggunaan sertifikat&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1677"/>
+        <source>HwId: 00000000-0000-0000-0000-000000000000</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="181"/>
+        <source>Terminate all boxed processes when Sandman exits</source>
+        <translation>Hentikan semua proses kotak ketika Sandman keluar</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="676"/>
+        <source>Sandboxed Desktop</source>
+        <translation>Desktop Sandbox</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="683"/>
+        <source>Switch to sandboxed desktop when starting a process</source>
+        <translation>Beralih ke desktop sandbox saat memulai proses</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="690"/>
+        <source>Switch to sandboxed desktop with double click</source>
+        <translation>Beralih ke desktop sandbox dengan klik ganda</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1661"/>
+        <source>Cert Info</source>
+        <translation>Info Sertifikat</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1841"/>
+        <source>Sandboxie Updater</source>
+        <translation>Pembaruan Sandboxie</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1872"/>
+        <source>Keep add-on list up to date</source>
+        <translation>Jaga daftar add-on tetap terbarui</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1929"/>
+        <source>The Insider channel offers early access to new features and bugfixes that will eventually be released to the public, as well as all relevant improvements from the stable channel. 
+Unlike the preview channel, it does not include untested, potentially breaking, or experimental changes that may not be ready for wider use.</source>
+        <translation>Saluran Insider menawarkan akses awal ke fitur-fitur baru dan perbaikan bug yang pada akhirnya akan dirilis ke publik, serta semua peningkatan yang relevan dari saluran stabil.
+Tidak seperti saluran pratinjau, saluran ini tidak menyertakan perubahan yang belum teruji, berpotensi merusak, atau eksperimental yang mungkin belum siap untuk penggunaan yang lebih luas.</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1933"/>
+        <source>Search in the Insider channel</source>
+        <translation>Cari di saluran Insider</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1963"/>
+        <source>New full installers from the selected release channel.</source>
+        <translation>Penginstal penuh baru dari saluran rilis yang dipilih.</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1966"/>
+        <source>Full Upgrades</source>
+        <translation>Peningkatan Penuh</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1976"/>
+        <source>Check periodically for new Sandboxie-Plus versions</source>
+        <translation>Periksa secara berkala versi Sandboxie-Plus yang baru</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="1986"/>
+        <source>More about the &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;Insider Channel&lt;/a&gt;</source>
+        <translation>Selengkapnya tentang &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-insider&quot;&gt;Saluran Insider&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2006"/>
+        <source>Keep Troubleshooting scripts up to date</source>
+        <translation>Jaga skrip Pemecahan Masalah tetap terbarui</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2243"/>
         <source>Default sandbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandbox default:</translation>
     </message>
     <message>
-        <source>Compatibility</source>
-        <translation type="vanished">Khả năng tương thích</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2272"/>
+        <source>Use a Sandboxie login instead of an anonymous token</source>
+        <translation>Gunakan login Sandboxie alih-alih token anonim</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2699"/>
-        <source>In the future, don&apos;t check software compatibility</source>
-        <translation>Trong tương lai, không kiểm tra tính tương thích của phần mềm</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2279"/>
+        <source>Add &quot;Sandboxie\All Sandboxes&quot; group to the sandboxed token (experimental)</source>
+        <translation>Tambah grup &quot;Sandboxie\Semua Sandbox&quot; ke token sandbox (eksperimental)</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2679"/>
-        <source>Enable</source>
-        <translation>Cho phép</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2309"/>
+        <source>This feature protects the sandbox by restricting access, preventing other users from accessing the folder. Ensure the root folder path contains the %USER% macro so that each user gets a dedicated sandbox folder.</source>
+        <translation>Fitur ini melindungi sandbox dengan membatasi akses, mencegah pengguna lain mengakses folder tersebut. Pastikan jalur folder root berisi makro %USER% sehingga setiap pengguna mendapatkan folder sandbox khusus.</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2662"/>
-        <source>Disable</source>
-        <translation>Vô hiệu hóa</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2312"/>
+        <source>Restrict box root folder access to the the user whom created that sandbox</source>
+        <translation>Batasi akses folder root kotak hanya untuk pengguna yang membuat sandbox tersebut</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2669"/>
-        <source>Sandboxie has detected the following software applications in your system. Click OK to apply configuration settings, which will improve compatibility with these applications. These configuration settings will have effect in all existing sandboxes and in any new sandboxes.</source>
-        <translation>Sandboxie đã phát hiện các ứng dụng phần mềm sau trong hệ thống của bạn. Nhấp vào OK để áp dụng cài đặt cấu hình, điều này sẽ cải thiện khả năng tương thích với các ứng dụng này. Các cài đặt cấu hình này sẽ có hiệu lực trong tất cả các Sandbox hiện có và trong bất kỳ Sandbox mới nào.</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2422"/>
+        <source>Always run SandMan UI as Admin</source>
+        <translation>Selalu jalankan UI SandMan sebagai Admin</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2722"/>
-        <source>Local Templates</source>
-        <translation type="unfinished"></translation>
+        <location filename="Forms/SettingsWindow.ui" line="2531"/>
+        <source>Issue message 1321 when a process has been forced into a sandbox</source>
+        <oldsource>Issue message 1321 when a processes has been forced in to a sandbox</oldsource>
+        <translation>Keluarkan pesan 1321 ketika proses telah dipaksa masuk ke sandbox</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2790"/>
-        <source>Add Template</source>
-        <translation type="unfinished">Thêm mẫu</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2541"/>
+        <source>USB Drive Sandboxing</source>
+        <translation>Sandbox USB Drive</translation>
     </message>
     <message>
-        <location filename="Forms/SettingsWindow.ui" line="2758"/>
-        <source>Text Filter</source>
-        <translation type="unfinished">Bộ lọc văn bản</translation>
+        <location filename="Forms/SettingsWindow.ui" line="2557"/>
+        <source>Volume</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2562"/>
+        <source>Information</source>
+        <translation>Informasi</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2570"/>
+        <source>Sandbox for USB drives:</source>
+        <translation>Sandbox untuk drive USB:</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2586"/>
+        <source>Automatically sandbox all attached USB drives</source>
+        <translation>Otomatis sandbox semua drive USB yang terpasang</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2643"/>
         <source>&lt;a href=&quot;sbie://templates&quot;&gt;update compatibility templates now&lt;/a&gt;</source>
         <oldsource>&lt;a href=&quot;sbie://templates&quot;&gt;update compatybility templates now&lt;/a&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;sbie://templates&quot;&gt;perbarui template kompatibilitas sekarang&lt;/a&gt;</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2699"/>
+        <source>In the future, don&apos;t check software compatibility</source>
+        <translation>Di masa depan, jangan periksa kompatibilitas perangkat lunak</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2679"/>
+        <source>Enable</source>
+        <translation>Aktifkan</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2662"/>
+        <source>Disable</source>
+        <translation>Nonaktifkan</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2669"/>
+        <source>Sandboxie has detected the following software applications in your system. Click OK to apply configuration settings, which will improve compatibility with these applications. These configuration settings will have effect in all existing sandboxes and in any new sandboxes.</source>
+        <translation>Sandboxie telah mendeteksi aplikasi perangkat lunak berikut di sistem Anda. Klik OK untuk menerapkan pengaturan konfigurasi, yang akan meningkatkan kompatibilitas dengan aplikasi ini. Pengaturan konfigurasi ini akan berpengaruh pada semua sandbox yang ada dan sandbox baru.</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2722"/>
+        <source>Local Templates</source>
+        <translation>Template Lokal</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2790"/>
+        <source>Add Template</source>
+        <translation>Tambah Template</translation>
+    </message>
+    <message>
+        <location filename="Forms/SettingsWindow.ui" line="2758"/>
+        <source>Text Filter</source>
+        <translation>Filter Teks</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2768"/>
         <source>This list contains user created custom templates for sandbox options</source>
-        <translation type="unfinished"></translation>
+        <translation>Daftar ini berisi template khusus buatan pengguna untuk opsi sandbox</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2803"/>
         <source>Open Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Buka Template</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2861"/>
         <source>Edit ini Section</source>
-        <translation>Chỉnh sửa file ini</translation>
+        <translation>Edit Bagian ini</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2870"/>
         <source>Save</source>
-        <translation>Lưu</translation>
+        <translation>Simpan</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2877"/>
         <source>Edit ini</source>
-        <translation>Chỉnh sửa ini</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2903"/>
         <source>Cancel</source>
-        <translation>Hủy bỏ</translation>
-    </message>
-    <message>
-        <source>Support</source>
-        <translation type="vanished">Ủng hộ</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1909"/>
         <source>Incremental Updates</source>
         <oldsource>Version Updates</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Pembaruan Bertahap</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1906"/>
         <source>Hotpatches for the installed version, updates to the Templates.ini and translations.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This supporter certificate has expired, please &lt;a href=&quot;sbie://update/cert&quot;&gt;get an updated certificate&lt;/a&gt;.</source>
-        <translation type="vanished">Chứng chỉ người hỗ trợ này đã hết hạn, vui lòng &lt;a href=&quot;sbie://update/cert&quot;&gt;nhận chứng chỉ cập nhật&lt;/a&gt;.</translation>
+        <translation>Hotpatch untuk versi yang diinstal, pembaruan untuk Templates.ini dan terjemahan.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1919"/>
         <source>The preview channel contains the latest GitHub pre-releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saluran pratinjau berisi pra-rilis GitHub terkini.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2013"/>
         <source>The stable channel contains the latest stable GitHub releases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saluran stabil berisi rilis GitHub stabil terkini.</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="2016"/>
         <source>Search in the Stable channel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Keeping Sandboxie up to date with the rolling releases of Windows and compatible with all web browsers is a never-ending endeavor. Please consider supporting this work with a donation.&lt;br /&gt;You can support the development with a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;PayPal donation&lt;/a&gt;, working also with credit cards.&lt;br /&gt;Or you can provide continuous support with a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Patreon subscription&lt;/a&gt;.</source>
-        <translation type="vanished">Giữ cho Sandboxie luôn cập nhật với các bản phát hành liên tục của Windows và tương thích với tất cả các trình duyệt web là một nỗ lực không bao giờ ngừng nghỉ. Vui lòng xem xét hỗ trợ công việc này bằng một khoản đóng góp.&lt;br /&gt;Bạn có thể hỗ trợ sự phát triển với &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-cert&quot;&gt;PayPal&lt;/a&gt;, cũng làm việc với thẻ tín dụng.&lt;br /&gt;Hoặc bạn có thể cung cấp hỗ trợ liên tục với &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=patreon&quot;&gt;Patreon&lt;/a&gt;.</translation>
+        <translation>Cari di saluran Stabil</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1922"/>
         <source>Search in the Preview channel</source>
-        <translation>Tìm kiếm trong kênh Xem trước</translation>
-    </message>
-    <message>
-        <source>Supporters of the Sandboxie-Plus project can receive a &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;supporter certificate&lt;/a&gt;. It&apos;s like a license key but for awesome people using open source software. :-)</source>
-        <translation type="vanished">Những người ủng hộ dự án Sandboxie-Plus có thể nhận được &lt;a href=&quot;https://sandboxie-plus.com/go.php?to=sbie-get-cert&quot;&gt;giấy chứng nhận người ủng hộ&lt;/a&gt;. It&apos;s giống như một khóa cấp phép nhưng dành cho những người giỏi sử dụng phần mềm nguồn mở. :-)</translation>
-    </message>
-    <message>
-        <source>Download Updates automatically</source>
-        <translation type="vanished">Tải xuống bản cập nhật tự động</translation>
-    </message>
-    <message>
-        <source>Search in the Release channel</source>
-        <translation type="vanished">Tìm kiếm trong kênh Phát hành</translation>
+        <translation>Cari di saluran Pratinjau</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1641"/>
         <source>In the future, don&apos;t notify about certificate expiration</source>
-        <translation>Trong tương lai, không thông báo về việc hết hạn chứng chỉ</translation>
+        <translation>Di masa depan, jangan beritahu tentang kedaluwarsa sertifikat</translation>
     </message>
     <message>
         <location filename="Forms/SettingsWindow.ui" line="1801"/>
         <source>Enter the support certificate here</source>
-        <translation>Nhập chứng chỉ hỗ trợ tại đây</translation>
-    </message>
-    <message>
-        <source>Support Settings</source>
-        <translation type="vanished">Cài đặt hỗ trợ</translation>
-    </message>
-    <message>
-        <source>Install updates automatically</source>
-        <translation type="vanished">Cài đặt bản cập nhật tự động</translation>
-    </message>
-    <message>
-        <source>Check periodically for updates of Sandboxie-Plus</source>
-        <translation type="vanished">Kiểm tra định kỳ các bản cập nhật của Sandboxie-Plus</translation>
+        <translation>Masukkan sertifikat dukungan di sini</translation>
     </message>
 </context>
 <context>
@@ -10604,52 +10261,52 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="32"/>
         <source>SandboxiePlus - Snapshots</source>
-        <translation>SandboxiePlus - Bản ghi nhanh</translation>
+        <translation>SandboxiePlus - Snapshot</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="60"/>
         <source>Selected Snapshot Details</source>
-        <translation>Chi tiết bản ghi đã Chọn</translation>
+        <translation>Detail Snapshot yang Dipilih</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="66"/>
         <source>Name:</source>
-        <translation>Tên:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="123"/>
         <source>Description:</source>
-        <translation>Mô tả:</translation>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="104"/>
         <source>When deleting a snapshot content, it will be returned to this snapshot instead of none.</source>
-        <translation>Khi xóa nội dung bản ghi nhanh, nội dung đó sẽ được trả về bản ghi nhanh này thay vì không có.</translation>
+        <translation>Saat menghapus konten snapshot, akan dikembalikan ke snapshot ini, bukan ke tidak ada.</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="107"/>
         <source>Default snapshot</source>
-        <translation>Bản ghi nhanh mặc định</translation>
+        <translation>Snapshot default</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="145"/>
         <source>Snapshot Actions</source>
-        <translation>Hành động bản ghi nhanh</translation>
+        <translation>Aksi Snapshot</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="195"/>
         <source>Remove Snapshot</source>
-        <translation>Xóa bản ghi nhanh</translation>
+        <translation>Hapus Snapshot</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="214"/>
         <source>Go to Snapshot</source>
-        <translation>Đi tới bản ghi nhanh</translation>
+        <translation>Pergi ke Snapshot</translation>
     </message>
     <message>
         <location filename="Forms/SnapshotsWindow.ui" line="163"/>
         <source>Take Snapshot</source>
-        <translation>Chụp bản ghi</translation>
+        <translation>Ambil Snapshot</translation>
     </message>
 </context>
 <context>
@@ -10657,129 +10314,129 @@ Unlike the preview channel, it does not include untested, potentially breaking, 
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="20"/>
         <source>Test Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Uji Proxy</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="69"/>
         <source>Test Settings...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uji Pengaturan...</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="82"/>
         <source>Testing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pengujian...</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="117"/>
         <source>Proxy Server</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="127"/>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alamat:</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="134"/>
         <source>127.0.0.1:80</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="144"/>
         <source>Protocol:</source>
-        <translation type="unfinished">Giao thức:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="151"/>
         <source>SOCKS 5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="158"/>
         <source>Authentication:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentikasi:</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="165"/>
         <source>NO</source>
-        <translation type="unfinished"></translation>
+        <translation>TIDAK</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="172"/>
         <source>Login:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="179"/>
         <source>username</source>
-        <translation type="unfinished"></translation>
+        <translation>nama pengguna</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="242"/>
         <source>Timeout (secs):</source>
-        <translation type="unfinished"></translation>
+        <translation>Waktu Habis (detik):</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="249"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="274"/>
         <source>Test 1: Connection to the Proxy Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes 1: Koneksi ke Server Proxy</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="280"/>
         <location filename="Forms/TestProxyDialog.ui" line="302"/>
         <location filename="Forms/TestProxyDialog.ui" line="388"/>
         <source>Enable this test</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktifkan tes ini</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="293"/>
         <source>Test 2: Connection through the Proxy Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes 2: Koneksi melalui Server Proxy</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="330"/>
         <source>Target host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Host target:</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="340"/>
         <source>www.google.com</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="350"/>
         <source>Port:</source>
-        <translation type="unfinished">Port:</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="360"/>
         <source>80</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="369"/>
         <source>Load a default web page from the host. (There must be a web server running on the host)</source>
-        <translation type="unfinished"></translation>
+        <translation>Memuat halaman web default dari host. (Harus ada server web yang berjalan di host)</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="382"/>
         <source>Test 3: Proxy Server latency</source>
-        <translation type="unfinished"></translation>
+        <translation>Tes 3: Latensi Server Proxy</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="416"/>
         <source>Ping count:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jumlah Ping:</translation>
     </message>
     <message>
         <location filename="Forms/TestProxyDialog.ui" line="457"/>
         <source>Increase ping count to improve the accuracy of the average latency calculation. More pings help to ensure that the average is representative of typical network conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tingkatkan jumlah ping untuk meningkatkan akurasi perhitungan latensi rata-rata. Lebih banyak ping membantu memastikan bahwa rata-rata tersebut mewakili kondisi jaringan yang umum.</translation>
     </message>
 </context>
 </TS>
